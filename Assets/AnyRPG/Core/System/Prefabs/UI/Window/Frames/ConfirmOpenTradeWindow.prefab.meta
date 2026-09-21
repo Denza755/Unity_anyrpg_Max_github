@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c83baccfe205f124784ced9d497a9ab1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/ConfirmOpenTradeWindow.prefab
+  uploadId: 932388

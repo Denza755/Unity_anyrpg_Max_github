@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c8231743e30bc3448ac6cd4b61f5eed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Materials/CharacterPanelTexture.renderTexture
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 36a4acb974dd9474c885aab1b95023ea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Item/Equipment/Armor/Plate/SteelPlateHelmItem.asset
+  uploadId: 932388

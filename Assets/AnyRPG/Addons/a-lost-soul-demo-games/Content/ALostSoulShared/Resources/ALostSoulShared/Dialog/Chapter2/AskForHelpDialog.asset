@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: AskForHelpDialog
+  m_EditorClassIdentifier: 
+  resourceName: Ask For Help
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 0
+    description: I'm done analysing the data I retrieved from your purpletooth transmitter.
+    nextOption: What did you find?
+  - startTime: 0
+    showTime: 0
+    description: 'During your trip, you absorbed 2 types of elemental energy.
+
+
+      In the mine you absorbed earth energy.
+
+
+      In the Graveyard you absorbed death energy.'
+    nextOption: You got all that from my tooth?
+  - startTime: 0
+    showTime: 0
+    description: 'There are 8 types of elemental energy in total.
+
+
+      Life, Death, Earth, Air, Fire, Ice, Water, and Lightning.
+
+
+      I suspect that the hole you saw is draining all 8 types of elemental energy.'
+    nextOption: Draining it to where?
+  - startTime: 0
+    showTime: 0
+    description: 'That''s what you need to find out.
+
+
+      Absorbing 2 types of energy allowed you to see the opening of the hole.
+
+
+      If you could absorb all 8, you should be able to see where it leads.'
+    nextOption: And by absorb you mean...
+  - startTime: 0
+    showTime: 0
+    description: 'Just do what you did the first time.
+
+
+      Find the baddest, toughest creatures you can find that are associated with each
+      type of elemental energy.
+
+
+      Then defeat them.'
+    nextOption: How do I know where to find them?
+  - startTime: 0
+    showTime: 0
+    description: 'You''ll have to find help for that.
+
+
+      Did you make any friends on your last trip?'
+    nextOption: I do have an invitation to meet a high priestess
+  - startTime: 0
+    showTime: 0
+    description: 'Perfect.
+
+
+      Go petition the high priestess for information on sources of elemental energy.'
+    nextOption: I'll go petition her now
+  prerequisiteConditions: []

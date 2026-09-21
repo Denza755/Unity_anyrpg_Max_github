@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9919e93b6dbcc294c82debc9e9adf546, type: 3}
+  m_Name: MinionVoice
+  m_EditorClassIdentifier: 
+  resourceName: Minion
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  voiceProps:
+    aggro:
+    - {fileID: 8300000, guid: 2cdca2d499b35f04bb0548f99ae2a61a, type: 3}
+    - {fileID: 8300000, guid: 3ea30cb3d58003240a0a9a485afd56dd, type: 3}
+    - {fileID: 8300000, guid: ad8a76c16823fc54496403b5f0ed8692, type: 3}
+    - {fileID: 8300000, guid: 8ee8663a74578bd48bd92532242da6fb, type: 3}
+    attack: []
+    damage:
+    - {fileID: 8300000, guid: e9bd439c2e573b942acc29b13a58ad18, type: 3}
+    jump: []
+    fallDamage: []
+    death:
+    - {fileID: 8300000, guid: 9f22eb54d73eaf14baa31aa3200b42fc, type: 3}
+    - {fileID: 8300000, guid: cff378851716df246a1053d9adb4c382, type: 3}
+    - {fileID: 8300000, guid: 089ad912f08413343ae19a08ec2d3af8, type: 3}
+    - {fileID: 8300000, guid: 1ec93ee2dc6ecfa4db5dba0084ba12d7, type: 3}
+    victory: []
+    startInteract: []
+    startVendorInteract: []
+    stopInteract: []
+    stopVendorInteract: []

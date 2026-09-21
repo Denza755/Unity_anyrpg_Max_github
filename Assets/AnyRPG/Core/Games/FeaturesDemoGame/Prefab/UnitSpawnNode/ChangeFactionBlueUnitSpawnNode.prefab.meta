@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 99d982c23f94f8c469577680474bd8bb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/ChangeFactionBlueUnitSpawnNode.prefab
+  uploadId: 932388

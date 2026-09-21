@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8636164171bc104d9391a2bd6cac5e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Armor/CopperPlateBracersRecipeTemplatePackage.asset
+  uploadId: 932388

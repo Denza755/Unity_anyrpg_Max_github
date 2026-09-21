@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 57d78f36b8eba2a4286e4438b4a3a669
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AbilityEffect/Attack/GroundSlamAOEAttackEffectTemplate.asset
+  uploadId: 932388

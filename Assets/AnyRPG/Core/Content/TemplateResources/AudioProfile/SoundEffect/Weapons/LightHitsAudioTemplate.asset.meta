@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed4259c934de7e64f930a0e65844b1ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AudioProfile/SoundEffect/Weapons/LightHitsAudioTemplate.asset
+  uploadId: 932388

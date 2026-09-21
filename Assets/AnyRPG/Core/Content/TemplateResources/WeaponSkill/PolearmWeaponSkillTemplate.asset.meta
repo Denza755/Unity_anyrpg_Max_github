@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4afc1e40ef30c514ab6424d4a60b0da8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/WeaponSkill/PolearmWeaponSkillTemplate.asset
+  uploadId: 932388

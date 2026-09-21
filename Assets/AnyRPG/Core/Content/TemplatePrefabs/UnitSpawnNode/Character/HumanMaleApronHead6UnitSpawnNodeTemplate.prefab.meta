@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8fc5b3d1e0ab41946954ca26f2310774
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Character/HumanMaleApronHead6UnitSpawnNodeTemplate.prefab
+  uploadId: 932388

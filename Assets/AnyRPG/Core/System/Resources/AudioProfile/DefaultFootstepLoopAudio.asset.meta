@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 401ee1c38b19ceb4ab22382c8c3fcfe0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Resources/AudioProfile/DefaultFootstepLoopAudio.asset
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41ab0565b2cfede48a3f796aea8fe42f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Resources/EquipmentSlotType/HelmEquipmentSlotType.asset
+  uploadId: 932388

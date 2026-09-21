@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7180baa07b25a9d44bd6cba3fc7b9a0f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AbilityEffect/Channel/HealingChannelEffectTemplate.asset
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 842366caf3e370c4d92f1b9fb1253db0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Armor/Plate/GoldPlateHelmTemplatePackage.asset
+  uploadId: 932388

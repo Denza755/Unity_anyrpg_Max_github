@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2017e7785e784940abee82ba04a35fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Item/Equipment/Weapon/Mace/BasicGoldWarHammerItemTemplate.asset
+  uploadId: 932388

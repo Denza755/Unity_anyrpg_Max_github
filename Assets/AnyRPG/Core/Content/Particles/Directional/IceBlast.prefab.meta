@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c98d38204e63a534e801bd16c4a2a22b
+timeCreated: 1447511400
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Directional/IceBlast.prefab
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e30e7872e7b2dc1488e6f93146a036a9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/ConfirmDeleteGamePanel.prefab
+  uploadId: 932388

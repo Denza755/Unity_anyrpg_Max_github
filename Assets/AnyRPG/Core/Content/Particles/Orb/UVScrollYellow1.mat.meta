@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e309c3a10e790694c9907be1ac4152a4
+timeCreated: 1471404265
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Orb/UVScrollYellow1.mat
+  uploadId: 932388

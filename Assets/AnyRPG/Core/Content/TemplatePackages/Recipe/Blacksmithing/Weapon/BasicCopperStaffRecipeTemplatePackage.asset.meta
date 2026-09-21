@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8bb7dd8e203b2694287fd0bf063ff1bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/BasicCopperStaffRecipeTemplatePackage.asset
+  uploadId: 932388

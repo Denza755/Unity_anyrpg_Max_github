@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5bb8d22d87741264390b7e26094d05b5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicGoldSabre.prefab
+  uploadId: 932388

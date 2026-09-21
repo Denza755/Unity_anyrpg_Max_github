@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d574cc53d99568841a4349d40a2b85c9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/UnitProfile/Specialization/BloodKnightSpecializationUnitTemplatePackage.asset
+  uploadId: 932388

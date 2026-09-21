@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51ca60a801a611b48ab9c6fa7b1d37d1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/Character/HumanFemaleMediumArmorHead2Black.prefab
+  uploadId: 932388

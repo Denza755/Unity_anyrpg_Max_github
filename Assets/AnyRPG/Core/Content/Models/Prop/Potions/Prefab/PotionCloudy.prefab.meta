@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b072f19743972b4459e9c7be1b7b4ca3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/Potions/Prefab/PotionCloudy.prefab
+  uploadId: 932388

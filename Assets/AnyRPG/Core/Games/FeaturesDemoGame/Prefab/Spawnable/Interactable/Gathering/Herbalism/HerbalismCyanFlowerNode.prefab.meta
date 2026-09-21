@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 85bd7b33a2a43354a9210ad1284cdc51
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/Spawnable/Interactable/Gathering/Herbalism/HerbalismCyanFlowerNode.prefab
+  uploadId: 932388

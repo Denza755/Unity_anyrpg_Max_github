@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: AHardDaysWorkDialog
+  m_EditorClassIdentifier: 
+  resourceName: A Hard Days Work
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'Good Work recruit!  The bunny menace is dealt with and you look
+      pretty spiffy in your new armor.
+
+
+      Kung Fu alone won''t be enough to
+      win this battle though.
+
+
+      You will need to train your other skills too.'
+    nextOption: Other Skills?
+  - startTime: 0
+    showTime: 10
+    description: 'You can channel the power of the Sun more effectively wearing robes
+      and using gems to focus the light.
+
+
+      You can even use it to heal yourself
+      and allies!'
+    nextOption: Without burning them?
+  - startTime: 0
+    showTime: 10
+    description: 'Yes, and I will require your help to defeat those undead blocking
+      the entrance to the camp.
+
+
+      They look much tougher than the bunnies.
+
+
+      You
+      will need some heavier armor and weapons.'
+    nextOption: But you said you didn't have any to spare
+  - startTime: 0
+    showTime: 10
+    description: 'You are in luck!
+
+
+      We have all the raw ingredients you will
+      need right here in the camp.'
+    nextOption: Phew
+  - startTime: 0
+    showTime: 10
+    description: 'All you need to do is learn Mining, Herbalism, and Logging.
+
+
+      Then
+      once you have collected the materials, you can train in BlackSmithing, Jewelry,
+      Tailoring, and Woodworking.'
+    nextOption: Oh is that all?
+  - startTime: 0
+    showTime: 10
+    description: 'Use the skills to make a Shiny Suit of Armor to defend against
+      attacks.
+
+
+      Craft a Dragon Blade to cut down your enemies.
+
+
+      You
+      will also need some Fine Robes and an Initiate''s Staff to empower your Chanelling
+      abilities.
+
+'
+    nextOption: Um, how long will this take?
+  - startTime: 0
+    showTime: 10
+    description: 'Go talk to the apprentice again.
+
+
+      He will give you the details
+      on the needed ingredients.
+
+
+      He will also show you how to find and collect
+      them.'
+    nextOption: Yes Sir
+  prerequisiteConditions: []

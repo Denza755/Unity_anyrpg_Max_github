@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 18b3b57793ea1cc41ac0d4a629cb771a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Interactable/Trainer/BloodKnightSpecializationTrainerUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

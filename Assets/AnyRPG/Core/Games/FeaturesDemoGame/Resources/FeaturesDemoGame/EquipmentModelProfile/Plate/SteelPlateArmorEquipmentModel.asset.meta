@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1fde3ac8ae33fd54aa2e1a06d537e133
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/EquipmentModelProfile/Plate/SteelPlateArmorEquipmentModel.asset
+  uploadId: 932388

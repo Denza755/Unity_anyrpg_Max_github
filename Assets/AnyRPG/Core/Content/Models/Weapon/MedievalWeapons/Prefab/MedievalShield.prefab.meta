@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c1fa277a9a25b384f9f1cf1e6b7f88b9
+labels:
+- Weapon
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/MedievalWeapons/Prefab/MedievalShield.prefab
+  uploadId: 932388

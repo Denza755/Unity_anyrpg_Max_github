@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e11d4e451679453488aa26892b5ac933
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/WarriorClassTrainerUnitSpawnNode.prefab
+  uploadId: 932388

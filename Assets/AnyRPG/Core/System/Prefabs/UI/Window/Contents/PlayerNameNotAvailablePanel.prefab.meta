@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c4f6d4c32d7d1b44a184eadd0a4fbd6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/PlayerNameNotAvailablePanel.prefab
+  uploadId: 932388

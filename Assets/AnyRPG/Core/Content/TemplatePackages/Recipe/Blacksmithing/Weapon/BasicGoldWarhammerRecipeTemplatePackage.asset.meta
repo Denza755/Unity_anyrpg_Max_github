@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8c8e853009d7a6469b5cfb76621f451
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/BasicGoldWarhammerRecipeTemplatePackage.asset
+  uploadId: 932388

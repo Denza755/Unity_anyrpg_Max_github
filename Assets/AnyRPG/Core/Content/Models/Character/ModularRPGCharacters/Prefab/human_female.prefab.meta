@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 49ede4650496e4f4d9d3d3f4162f7386
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Character/ModularRPGCharacters/Prefab/human_female.prefab
+  uploadId: 932388

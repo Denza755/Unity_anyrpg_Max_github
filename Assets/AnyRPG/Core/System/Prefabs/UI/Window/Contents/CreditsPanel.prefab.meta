@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ad7fe8c870c7a943b3b07f76aed39eb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/CreditsPanel.prefab
+  uploadId: 932388

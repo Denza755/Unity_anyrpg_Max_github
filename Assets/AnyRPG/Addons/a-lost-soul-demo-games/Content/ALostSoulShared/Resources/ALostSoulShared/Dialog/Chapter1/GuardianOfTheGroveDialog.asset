@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: GuardianOfTheGroveDialog
+  m_EditorClassIdentifier: 
+  resourceName: Guardian Of The Grove
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'Welcome back.
+
+
+      Did you find anything on your trip?'
+    nextOption: There was a hole in reality that only I could see
+  - startTime: 0
+    showTime: 10
+    description: 'That does sound strange.
+
+
+      I''ll have to analyze the data from your PurpleTooth transmitter and see if
+      there is a reason why only you could see it.'
+    nextOption: I have a purple tooth?
+  - startTime: 0
+    showTime: 10
+    description: 'Yes, all the bodies created by the BodyMatic have one.
+
+
+      It''s a chip in your tooth that allows us to download information directly from
+      your brain when you are in range.
+
+
+      Just don''t wear a tinfoil hat or it will block the signals.'
+    nextOption: What's tinfoil?
+  - startTime: 0
+    showTime: 10
+    description: 'Nevermind, it probably hasn''t been invented yet in your timeline.
+
+
+      Anyway, I have an assignment for you.'
+    nextOption: Sure, tell me about it
+  prerequisiteConditions:
+  - requireAny: 0
+    reverseMatch: 0
+    levelPrerequisites: []
+    characterClassPrerequisites: []
+    questPrerequisites:
+    - prerequisiteName: A Tear In Reality
+      requireComplete: 0
+      requireTurnedIn: 0
+    dialogPrerequisites: []
+    visitZonePrerequisites: []
+    tradeSkillPrerequisites: []
+    abilityPrerequisites: []
+    factionPrerequisites: []

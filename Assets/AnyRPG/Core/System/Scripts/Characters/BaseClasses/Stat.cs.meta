@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5680eb719cf1b764ab2379b2777c25b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Characters/BaseClasses/Stat.cs
+  uploadId: 932388

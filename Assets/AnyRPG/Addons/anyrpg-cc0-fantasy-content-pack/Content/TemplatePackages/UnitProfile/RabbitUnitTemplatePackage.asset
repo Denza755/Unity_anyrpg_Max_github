@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: RabbitUnitTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: Rabbit
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources:
+  - {fileID: 11400000, guid: 19a8ab665b1ee28439ca7b61d25e03bd, type: 2}
+  - {fileID: 11400000, guid: df9b90223ac81b24c94781f2ed8b5fe3, type: 2}
+  - {fileID: 11400000, guid: 08e6c40f7e68ebd4b85bed239df23e03, type: 2}
+  prefabs:
+  - {fileID: 3731251010890068044, guid: 8f9c9ae47479f7b43a2d5aa965101265, type: 3}
+  dependencies: []

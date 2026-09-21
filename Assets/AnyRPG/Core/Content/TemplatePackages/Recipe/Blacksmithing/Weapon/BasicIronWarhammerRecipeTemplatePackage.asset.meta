@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b5880d77ec3fa04aa62aeb29b338da1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/BasicIronWarhammerRecipeTemplatePackage.asset
+  uploadId: 932388

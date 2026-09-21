@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7532625e0f5662544941430f7068ee0e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/ThirdPartyContent/IdGen/ITimeSource.cs
+  uploadId: 932388

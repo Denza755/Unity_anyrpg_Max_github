@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1aeb54bc297bae47aecca2184e3a9eb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Item/Equipment/Weapon/Fist/BasicBronzeClawItemTemplate.asset
+  uploadId: 932388

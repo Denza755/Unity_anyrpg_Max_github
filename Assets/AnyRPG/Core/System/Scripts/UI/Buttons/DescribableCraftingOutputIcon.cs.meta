@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 25eb4a03668d39b4f9e47489368d76e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/UI/Buttons/DescribableCraftingOutputIcon.cs
+  uploadId: 932388

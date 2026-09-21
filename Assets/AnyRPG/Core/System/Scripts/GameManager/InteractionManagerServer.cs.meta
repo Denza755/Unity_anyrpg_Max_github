@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c51f4b7ba365cff4bb8caf2892b71d02
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/GameManager/InteractionManagerServer.cs
+  uploadId: 932388

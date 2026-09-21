@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24c36e83ac78eed4c95f5f1e0c20a379
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Equipment/WW_Clothes/Material/LeatherBootsRed.mat
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc8488f88720c5d43bd488974c9e79ed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Character/ModularRPGCharacters/Material/mat_human_female_light_armor_3.mat
+  uploadId: 932388

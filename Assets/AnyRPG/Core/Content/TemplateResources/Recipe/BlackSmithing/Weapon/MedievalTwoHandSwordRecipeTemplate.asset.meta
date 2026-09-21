@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2e4db209e975df4a8d510a7bb88b4a8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Recipe/BlackSmithing/Weapon/MedievalTwoHandSwordRecipeTemplate.asset
+  uploadId: 932388

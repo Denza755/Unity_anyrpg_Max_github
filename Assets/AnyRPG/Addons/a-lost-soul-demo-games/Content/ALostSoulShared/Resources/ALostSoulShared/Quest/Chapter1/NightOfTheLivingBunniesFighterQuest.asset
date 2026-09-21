@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b491a306145b8e4aa064bbcf71f8e01, type: 3}
+  m_Name: NightOfTheLivingBunniesFighterQuest
+  m_EditorClassIdentifier: 
+  resourceName: Night Of The Living Bunnies (Fighter)
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 'Go practice your new abilities on the angry bunnies.
+
+
+    Use each
+    of your abilities once, and kill 5 bunnies.
+
+
+    After the bunnies are dealth
+    with, make A Light Suit Of Armor, and then return to me.'
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  isAchievement: 0
+  repeatableQuest: 0
+  hasOpeningDialog: 1
+  experienceLevel: 3
+  dynamicLevel: 1
+  extraLevels: 0
+  baseExperienceReward: 0
+  experienceRewardPerLevel: 0
+  automaticCurrencyReward: 0
+  rewardCurrencyName: 
+  baseCurrencyReward: 0
+  currencyRewardPerLevel: 0
+  maxItemRewards: 0
+  itemRewardNames: []
+  maxFactionRewards: 0
+  factionRewards: []
+  maxAbilityRewards: 0
+  abilityRewardNames: []
+  maxSkillRewards: 0
+  skillRewardNames: []
+  steps:
+  - questObjectives:
+    - rid: 0
+    - rid: 8385465461168668681
+    - rid: 8385465461168668682
+    - rid: 8385465461168668683
+    - rid: 8385465461168668684
+    - rid: 8385465461168668706
+    - rid: 8385465461168668707
+  prerequisiteConditions:
+  - requireAny: 0
+    reverseMatch: 0
+    levelPrerequisites: []
+    characterClassPrerequisites:
+    - requiredCharacterClass: Fighter
+    questPrerequisites:
+    - prerequisiteName: Finding Your Way
+      stepIndex: -1
+      requireComplete: 0
+      requireTurnedIn: 1
+    dialogPrerequisites: []
+    visitZonePrerequisites: []
+    tradeSkillPrerequisites: []
+    abilityPrerequisites: []
+    factionPrerequisites: []
+  turnInItems: 0
+  allowRawComplete: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: KillObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 5
+        overrideDisplayName: 
+        targetName: Angry Reanimated Bunny
+    - rid: 8385465461168668681
+      type: {class: UseAbilityObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        abilityName: Warming Ray
+    - rid: 8385465461168668682
+      type: {class: UseAbilityObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        abilityName: Fist Of Light
+    - rid: 8385465461168668683
+      type: {class: UseAbilityObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        abilityName: Jab
+    - rid: 8385465461168668684
+      type: {class: UseAbilityObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        abilityName: Hook Combo
+    - rid: 8385465461168668706
+      type: {class: FinishQuestObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        questName: Initiates Leather Armor
+    - rid: 8385465461168668707
+      type: {class: FinishQuestObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        questName: Weapons Of The Trade (Fighter)

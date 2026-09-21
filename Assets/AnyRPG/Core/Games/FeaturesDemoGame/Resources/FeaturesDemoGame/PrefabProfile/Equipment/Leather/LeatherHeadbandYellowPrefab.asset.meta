@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a05bb38d7d89114483c2ca4a2b5f286
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Equipment/Leather/LeatherHeadbandYellowPrefab.asset
+  uploadId: 932388

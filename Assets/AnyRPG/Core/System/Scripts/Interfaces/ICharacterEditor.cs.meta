@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e4a77a029648f914a8ca9d86e16a091f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Interfaces/ICharacterEditor.cs
+  uploadId: 932388

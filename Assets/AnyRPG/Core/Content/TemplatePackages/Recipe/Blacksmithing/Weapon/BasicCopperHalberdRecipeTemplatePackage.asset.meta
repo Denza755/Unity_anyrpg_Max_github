@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd542010e94ea7340b3e8ff864a08bcd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/BasicCopperHalberdRecipeTemplatePackage.asset
+  uploadId: 932388

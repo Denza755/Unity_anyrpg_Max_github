@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 15b4b9805a7f55c4c91872c0ecedc36e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Elements/CurrencyAmountBar.prefab
+  uploadId: 932388

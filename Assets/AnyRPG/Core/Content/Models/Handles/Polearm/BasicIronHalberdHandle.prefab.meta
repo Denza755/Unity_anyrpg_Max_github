@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a43856dfd6e67f64eb66d32c2f140ec0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Polearm/BasicIronHalberdHandle.prefab
+  uploadId: 932388

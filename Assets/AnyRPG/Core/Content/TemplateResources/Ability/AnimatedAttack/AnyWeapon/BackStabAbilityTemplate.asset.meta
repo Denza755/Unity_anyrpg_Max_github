@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f58b9dbd1271074ea66de6ad8fdf643
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Ability/AnimatedAttack/AnyWeapon/BackStabAbilityTemplate.asset
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 78501a5a0ee4c96439f8b6fc291085c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Armor/Plate/CopperPlatePauldronsTemplatePackage.asset
+  uploadId: 932388

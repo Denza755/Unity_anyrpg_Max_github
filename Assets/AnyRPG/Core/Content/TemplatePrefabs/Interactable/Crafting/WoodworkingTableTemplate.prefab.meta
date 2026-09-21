@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53ef1d283f6548d4d9089439ec5e776b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/Interactable/Crafting/WoodworkingTableTemplate.prefab
+  uploadId: 932388

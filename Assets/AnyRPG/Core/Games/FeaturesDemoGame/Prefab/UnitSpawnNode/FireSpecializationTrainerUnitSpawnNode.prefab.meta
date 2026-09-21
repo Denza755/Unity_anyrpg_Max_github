@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7723db67f21ca774dad0e5fc1dfcea3b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/FireSpecializationTrainerUnitSpawnNode.prefab
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45ac3cdfc8a6ac348a521f1fff739e91
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/OrangeHighlightButton461x104.prefab
+  uploadId: 932388

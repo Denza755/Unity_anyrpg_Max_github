@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 88560d1ace0c0354a907ab7dc8c65c98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/UI/WindowPanels/DeleteGameMenuPanel.cs
+  uploadId: 932388

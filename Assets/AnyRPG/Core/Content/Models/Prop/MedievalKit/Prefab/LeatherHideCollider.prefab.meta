@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c05737aa89959d644b15bbe3460da4cb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/MedievalKit/Prefab/LeatherHideCollider.prefab
+  uploadId: 932388

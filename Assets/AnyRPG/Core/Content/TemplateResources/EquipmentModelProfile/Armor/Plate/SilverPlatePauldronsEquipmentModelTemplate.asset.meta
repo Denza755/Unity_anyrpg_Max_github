@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6663feca051d8745aa20cb5c599d2c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/EquipmentModelProfile/Armor/Plate/SilverPlatePauldronsEquipmentModelTemplate.asset
+  uploadId: 932388

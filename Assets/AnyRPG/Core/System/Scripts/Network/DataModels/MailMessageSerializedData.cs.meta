@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 35748ec58402d944da18e555d12014c1
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Network/DataModels/MailMessageSerializedData.cs
+  uploadId: 932388

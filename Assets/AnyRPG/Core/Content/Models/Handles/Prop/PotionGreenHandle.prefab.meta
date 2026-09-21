@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 47274009b6abe8a42b362b28f349f2db
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Prop/PotionGreenHandle.prefab
+  uploadId: 932388

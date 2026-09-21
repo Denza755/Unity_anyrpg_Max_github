@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c0d0c895ad883c643b8c87b736271949
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Interactable/Trainer/ArcherClassTrainerUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

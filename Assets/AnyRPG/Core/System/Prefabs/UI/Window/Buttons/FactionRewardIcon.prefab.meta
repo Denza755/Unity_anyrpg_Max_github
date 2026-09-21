@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a29a807f8ee84d542ae35ca525bf1649
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/FactionRewardIcon.prefab
+  uploadId: 932388

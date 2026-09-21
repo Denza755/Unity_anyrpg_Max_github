@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b491a306145b8e4aa064bbcf71f8e01, type: 3}
+  m_Name: BabiesGotBackBaconQuest
+  m_EditorClassIdentifier: 
+  resourceName: Babies Got Back Bacon
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 'Learn cooking from Mix-A-Lot.
+
+
+    Go disrupt the goblin supply
+    lines by stealing all their food supplies.
+
+
+    Bring back 5 uncooked hams.'
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  isAchievement: 0
+  repeatableQuest: 0
+  hasOpeningDialog: 1
+  experienceLevel: 10
+  dynamicLevel: 1
+  extraLevels: 0
+  baseExperienceReward: 0
+  experienceRewardPerLevel: 0
+  automaticCurrencyReward: 0
+  rewardCurrencyName: 
+  baseCurrencyReward: 0
+  currencyRewardPerLevel: 0
+  maxItemRewards: 0
+  itemRewardNames: []
+  maxFactionRewards: 0
+  factionRewards:
+  - faction: {fileID: 0}
+    factionName: Knights Of The Cheddar Table
+    reputationAmount: 50
+  maxAbilityRewards: 0
+  abilityRewardNames: []
+  maxSkillRewards: 0
+  skillRewardNames: []
+  steps:
+  - questObjectives:
+    - id: 0
+    - id: 1
+  collectObjectives:
+  - amount: 5
+    type: Uncooked Ham
+    overrideDisplayName: 
+    itemName: 
+  killObjectives: []
+  tradeSkillObjectives:
+  - amount: 1
+    type: Cooking
+    overrideDisplayName: 
+    skillName: 
+  abilityObjectives: []
+  useInteractableObjectives: []
+  questQuestObjectives: []
+  dialogObjectives: []
+  visitZoneObjectives: []
+  prerequisiteConditions:
+  - requireAny: 0
+    reverseMatch: 0
+    levelPrerequisites: []
+    characterClassPrerequisites: []
+    questPrerequisites:
+    - prerequisiteName: Disrupt Their Supply Lines
+      requireComplete: 0
+      requireTurnedIn: 1
+    dialogPrerequisites: []
+    visitZonePrerequisites: []
+    tradeSkillPrerequisites: []
+    abilityPrerequisites: []
+    factionPrerequisites: []
+  turnInItems: 0
+  allowRawComplete: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: CollectObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 5
+        type: 
+        overrideDisplayName: 
+        itemName: Uncooked Ham
+    00000001:
+      type: {class: TradeSkillObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        type: 
+        overrideDisplayName: 
+        skillName: Cooking

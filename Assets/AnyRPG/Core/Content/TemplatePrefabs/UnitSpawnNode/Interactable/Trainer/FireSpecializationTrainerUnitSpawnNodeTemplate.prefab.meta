@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4222e0a325c2a1a469d61f35344c5f26
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Interactable/Trainer/FireSpecializationTrainerUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

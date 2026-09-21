@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e990ddbeb1abd0446a6940e8a4f3c43e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Images/Skybox/ClearSpaceSkybox.mat
+  uploadId: 932388

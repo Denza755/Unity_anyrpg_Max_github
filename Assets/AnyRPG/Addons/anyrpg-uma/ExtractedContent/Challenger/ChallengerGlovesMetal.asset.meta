@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 458324a619c4bac4a8808495ff8cc92a
+labels:
+- UMA_Overlay
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2
+  packageVersion: 2.14f7
+  assetPath: Assets/AnyRPG/Engine/Content/ThirdPartyContent/UMA/ExtractedContent/Challenger/ChallengerGlovesMetal.asset
+  uploadId: 883964

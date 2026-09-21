@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e917a727d8451f344b1fbeeee04ef446
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/ThirdPartyContent/Unity-URP-Outline/Runtime/com.cqf.urpoutline.asmdef
+  uploadId: 932388

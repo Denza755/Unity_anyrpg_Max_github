@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 98c64374c1c1de5479b14e12f823514a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/Spawnable/Interactable/Gathering/Mining/MiningCoalNode.prefab
+  uploadId: 932388

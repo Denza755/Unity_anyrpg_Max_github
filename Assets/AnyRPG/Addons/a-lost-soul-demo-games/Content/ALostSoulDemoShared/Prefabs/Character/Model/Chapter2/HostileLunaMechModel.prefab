@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3961240426562679863
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5638456337895085802, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_Name
+      value: HostileLunaMechModel
+      objectReference: {fileID: 0}
+    - target: {fileID: 6079583075391682281, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 40d9ac81be26c8849886812d3a81bd2d, type: 2}
+    - target: {fileID: 7108795730756270885, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108795730756270885, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108795730756270885, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108795730756270885, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108795730756270885, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108795730756270885, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108795730756270885, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108795730756270885, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108795730756270885, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108795730756270885, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108795730756270885, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7260110753810724073, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_Name
+      value: HostileLunaMechModel
+      objectReference: {fileID: 0}
+    - target: {fileID: 7632568518989980063, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_Name
+      value: HostileLunaMechModel
+      objectReference: {fileID: 0}
+    - target: {fileID: 9124801854580610282, guid: fe93947fe6802104c88c95ae5a246ed8,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 40d9ac81be26c8849886812d3a81bd2d, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fe93947fe6802104c88c95ae5a246ed8, type: 3}

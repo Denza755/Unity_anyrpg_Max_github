@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0ab373b8c4edd246aabc4f88982044b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/ClassSpecialization/FireMageClassSpecializationTemplatePackage.asset
+  uploadId: 932388

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6045bf13b28c6949afdea630b3a24a0, type: 3}
+  m_Name: DragonUnitType
+  m_EditorClassIdentifier: 
+  resourceName: Dragon
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  capabilities:
+    abilityNames:
+    - Attack
+    traitNames: []
+    armorClassList: []
+    weaponSkills: []
+    validPetTypes: []
+    startingPets: []
+  primaryStats:
+  - statName: Stamina
+    budgetPerLevel: 10
+    primaryToSecondaryConversion: []
+    primaryToResourceConversion:
+    - resourceName: Health
+      resourcePerPoint: 10
+    regen: []
+  - statName: Intellect
+    budgetPerLevel: 5
+    primaryToSecondaryConversion: []
+    primaryToResourceConversion: []
+    regen: []
+  - statName: Strength
+    budgetPerLevel: 5
+    primaryToSecondaryConversion: []
+    primaryToResourceConversion: []
+    regen: []
+  - statName: Agility
+    budgetPerLevel: 5
+    primaryToSecondaryConversion: []
+    primaryToResourceConversion: []
+    regen: []
+  powerResources:
+  - Health

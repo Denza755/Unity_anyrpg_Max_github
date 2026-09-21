@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: ReportForDutyDialog
+  m_EditorClassIdentifier: 
+  resourceName: Report For Duty
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'You have proven yourself a vanquisher of bunnies and a killer of
+      zombies.
+
+
+      Your weapons and armor look well made.
+
+
+      I think you
+      are ready for active duty!'
+    nextOption: Great!
+  - startTime: 0
+    showTime: 10
+    description: "Our mission was to investigate a large force of Goblins in the
+      area.  \n\nWe thought they were preparing for war against us.\n\nHowever, it
+      seems they were just defending themselves from the undead."
+    nextOption: These zombies are pretty grumpy...
+  - startTime: 0
+    showTime: 10
+    description: 'We... and by we I mean you...
+
+
+      ...are going to take care
+      of the undead threat.
+
+
+      Once the undead are defeated, the Goblins will
+      surely return home!'
+    nextOption: That's a solid plan, what could possibly go wrong?
+  - startTime: 0
+    showTime: 10
+    description: Report to Ser Invyncible to see how you can help.
+    nextOption: Yes Sir
+  prerequisiteConditions: []

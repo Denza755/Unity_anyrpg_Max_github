@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2482b4842bb62ed4bbe40f0c42110f15
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/ConfirmCharacterStuckPanel.prefab
+  uploadId: 932388

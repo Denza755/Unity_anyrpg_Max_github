@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 40f5fc7e8db15a54e8455623b1c6198e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Item/Gathering/Herbalism/OrangeFlowerItem.asset
+  uploadId: 932388

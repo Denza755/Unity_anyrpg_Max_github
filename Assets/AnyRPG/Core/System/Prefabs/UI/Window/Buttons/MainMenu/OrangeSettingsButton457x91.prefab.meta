@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 54faf6c4724ceb1438a1d4b7f630574d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/MainMenu/OrangeSettingsButton457x91.prefab
+  uploadId: 932388

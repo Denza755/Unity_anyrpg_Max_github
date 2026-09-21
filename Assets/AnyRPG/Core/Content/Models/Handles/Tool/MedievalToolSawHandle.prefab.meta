@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af08a5bf73b7c4d48aa9b8be45a78e30
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Tool/MedievalToolSawHandle.prefab
+  uploadId: 932388

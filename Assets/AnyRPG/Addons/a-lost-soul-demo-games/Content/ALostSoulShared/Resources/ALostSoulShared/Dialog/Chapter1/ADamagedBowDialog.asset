@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: ADamagedBowDialog
+  m_EditorClassIdentifier: 
+  resourceName: A Damaged Bow
+  icon: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: Hey, is that a damaged bow from one of the Goblin Rangers?
+    nextOption: Why yes, it is!
+  - startTime: 0
+    showTime: 10
+    description: 'Maybe we can help each other out then.
+
+
+      If you were to free me, I could fix it and show you how to use it.'
+    nextOption: Why should I trust you?
+  - startTime: 0
+    showTime: 10
+    description: 'The goblins have locked me in this cage, and only let me out to
+      feed the piglets.
+
+
+      They do it to taunt me because my species is closely related to pigs.'
+    nextOption: That's cruel!
+  - startTime: 0
+    showTime: 10
+    description: As a show of good faith, I will help you to defeat them.
+    nextOption: How are you going to do that from a cage?
+  - startTime: 0
+    showTime: 10
+    description: 'I will give you information.
+
+
+      The Goblin Rangers need to feed their bunnies to keep them happy.
+
+
+      If you steal all the bunny food, their pets will run away.'
+    nextOption: Thanks for the information
+  - startTime: 0
+    showTime: 10
+    description: 'If you are able to defeat them, can you help me out?
+
+
+      The Goblin Necromancer has the key to my cage.
+
+
+      Free me and I''ll repair your bow and teach you the secrets to being a ranger.'
+    nextOption: You've got yourself a deal!
+  prerequisiteConditions: []

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 99b8d6331a738cd45a28f37cbeed307b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Ability/Status/BlueWingsAbility.asset
+  uploadId: 932388

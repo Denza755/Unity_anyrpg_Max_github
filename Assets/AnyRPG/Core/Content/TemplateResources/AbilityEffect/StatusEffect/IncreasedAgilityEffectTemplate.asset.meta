@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d65678e0fe25ed24f912c9797d729cb1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AbilityEffect/StatusEffect/IncreasedAgilityEffectTemplate.asset
+  uploadId: 932388

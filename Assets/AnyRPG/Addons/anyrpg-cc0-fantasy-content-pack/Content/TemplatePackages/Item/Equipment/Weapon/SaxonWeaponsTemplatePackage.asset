@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: SaxonWeaponsTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: All Saxon Weapons
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources:
+  - {fileID: 11400000, guid: e0c7015a2a797e84b863ea34257d037b, type: 2}
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: cb8a89f9bc0232f4998057e2c78d7e57, type: 2}
+  - {fileID: 11400000, guid: 7dc54a89e6f951a4eb9583be2108f095, type: 2}

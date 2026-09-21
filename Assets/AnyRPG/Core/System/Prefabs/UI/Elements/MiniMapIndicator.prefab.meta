@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35303de981ce2f743b3bc2426219e058
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Elements/MiniMapIndicator.prefab
+  uploadId: 932388

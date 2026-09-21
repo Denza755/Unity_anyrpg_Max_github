@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83c9a1d0e7e6a3640891d6a372d2f823
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/RandomPatrolNPCUnitSpawnNode.prefab
+  uploadId: 932388

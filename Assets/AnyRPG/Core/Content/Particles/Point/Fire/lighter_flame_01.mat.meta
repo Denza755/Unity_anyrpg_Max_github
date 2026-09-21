@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35b28a0b75583f64698ec0b84bbe4833
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Point/Fire/lighter_flame_01.mat
+  uploadId: 932388

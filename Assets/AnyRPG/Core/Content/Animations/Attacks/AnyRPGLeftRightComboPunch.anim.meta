@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 417ca27d3a8292640b1b1b80781bfb90
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Animations/Attacks/AnyRPGLeftRightComboPunch.anim
+  uploadId: 932388

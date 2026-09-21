@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3777fab456e97e141992dac09b0cd614
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Templates/Prefabs/Attachments/RightHandAttachment.prefab
+  uploadId: 932388

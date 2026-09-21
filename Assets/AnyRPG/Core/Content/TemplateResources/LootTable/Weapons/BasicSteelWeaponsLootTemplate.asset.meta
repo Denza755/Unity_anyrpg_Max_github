@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e04f685df1222704daed1c6eb3d61ea0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/LootTable/Weapons/BasicSteelWeaponsLootTemplate.asset
+  uploadId: 932388

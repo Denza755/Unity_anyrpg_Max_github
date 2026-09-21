@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bd3beb7cb3d40064ab1414b7d5c23da6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/Interactable/Crafting/LeatherworkingTableTemplate.prefab
+  uploadId: 932388

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 367a9850e3e10f84897befe14e1982a4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/GameManager/LocalGameServerClient.cs
+  uploadId: 932388

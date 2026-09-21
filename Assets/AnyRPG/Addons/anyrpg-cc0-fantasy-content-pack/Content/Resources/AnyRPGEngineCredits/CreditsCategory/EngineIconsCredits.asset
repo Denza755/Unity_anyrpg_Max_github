@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acbdbda413a9e75489c46764c8bc894e, type: 3}
+  m_Name: EngineIconsCredits
+  m_EditorClassIdentifier: 
+  resourceName: Engine Icons
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  categoryName: Icons
+  creditsNodes:
+  - creditName: Battle For Wesnoth Icons
+    creditAttribution: Blarumyrran
+    email: 
+    userUrl: https://opengameart.org/users/blarumyrran
+    downloadUrl: 
+  - creditName: Flare Icons
+    creditAttribution: Clint Bellanger
+    email: 
+    userUrl: https://opengameart.org/users/clint-bellanger
+    downloadUrl: https://opengameart.org/content/armor-icons-by-equipment-slot
+  - creditName: Fantasy Icons
+    creditAttribution: Melle
+    email: 
+    userUrl: https://opengameart.org/users/melle
+    downloadUrl: 
+  - creditName: Weapon icons
+    creditAttribution: Cethiel
+    email: 
+    userUrl: https://opengameart.org/users/cethiel
+    downloadUrl: 
+  - creditName: Minetest, Dungeon Crawl, Wyrmsun Icons
+    creditAttribution: Drummyfish
+    email: 
+    userUrl: https://opengameart.org/users/cethiel
+    downloadUrl: 
+  - creditName: Potion Bottles Extra
+    creditAttribution: Vk
+    email: 
+    userUrl: https://opengameart.org/users/vk
+    downloadUrl: https://opengameart.org/content/potion-bottles-extra
+  - creditName: Flare, Feather Icons
+    creditAttribution: Mumu
+    email: 
+    userUrl: https://opengameart.org/users/mumu
+    downloadUrl: 
+  - creditName: Spell Icons
+    creditAttribution: Scribe
+    email: 
+    userUrl: https://opengameart.org/users/scribe
+    downloadUrl: 
+  - creditName: Magic, Skill, Item Icons
+    creditAttribution: Pauliuw
+    email: 
+    userUrl: https://opengameart.org/users/pauliuw
+    downloadUrl: 
+  - creditName: Diamond Icon
+    creditAttribution: citybuildingkit.com
+    email: 
+    userUrl: https://opengameart.org/users/city-building-game-art
+    downloadUrl: https://opengameart.org/content/gem-for-mobile-game-iap
+  - creditName: Golgotha Effects Textures
+    creditAttribution: Crack.com
+    email: 
+    userUrl: https://opengameart.org/users/bart
+    downloadUrl: https://opengameart.org/content/golgotha-effects-textures-blueflarejpg
+  - creditName: Wyrmsun CC0
+    creditAttribution: Jinn and Exidelo
+    email: 
+    userUrl: https://jinndevil.tumblr.com/
+    downloadUrl: https://opengameart.org/content/wyrmsun-cc0-over-900-items
+  - creditName: Avatar Icons
+    creditAttribution: System G6
+    email: 
+    userUrl: https://opengameart.org/users/system-g6
+    downloadUrl: https://opengameart.org/content/rpg-characters-avatars
+  - creditName: RPG Icons
+    creditAttribution: System G6
+    email: 
+    userUrl: https://opengameart.org/users/system-g6
+    downloadUrl: https://opengameart.org/content/rpg-icons-set
+  - creditName: Colorful Bottles
+    creditAttribution: atze
+    email: 
+    userUrl: https://opengameart.org/users/atze
+    downloadUrl: https://opengameart.org/content/colorful-bottles
+  - creditName: Resouces Pack #1
+    creditAttribution: saint11
+    email: 
+    userUrl: https://opengameart.org/users/saint11
+    downloadUrl: https://opengameart.org/content/resouces-pack-1
+  - creditName: Resouces Pack Modifications
+    creditAttribution: mold
+    email: 
+    userUrl: https://opengameart.org/users/mold
+    downloadUrl: https://opengameart.org/content/some-modified-assets-from-resouces-pack-1-by-saint11
+  - creditName: Bag Icon
+    creditAttribution: Flowly
+    email: 
+    userUrl: https://opengameart.org/users/flowly
+    downloadUrl: https://opengameart.org/content/bag-icon

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b639fab1f8c68ac4f875022e7889b441
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/PlayerGameConnectionButton.prefab
+  uploadId: 932388

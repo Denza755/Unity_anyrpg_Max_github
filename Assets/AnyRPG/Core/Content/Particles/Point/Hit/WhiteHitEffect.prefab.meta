@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4f3331f430dc554482194474c5141e4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Point/Hit/WhiteHitEffect.prefab
+  uploadId: 932388

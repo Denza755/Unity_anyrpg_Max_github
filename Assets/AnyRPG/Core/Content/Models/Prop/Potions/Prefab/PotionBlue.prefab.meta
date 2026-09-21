@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cf3a2df2a504035498cf2d76e28fa314
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/Potions/Prefab/PotionBlue.prefab
+  uploadId: 932388

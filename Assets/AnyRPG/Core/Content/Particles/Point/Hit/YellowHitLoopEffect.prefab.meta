@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7c1a997b7484e44b88d44800d214406
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Point/Hit/YellowHitLoopEffect.prefab
+  uploadId: 932388

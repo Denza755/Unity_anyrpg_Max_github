@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2dff0054e928a204a8e7cc6b0013994e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Item/Equipment/Armor/Leather/GreenLeatherArmorItemTemplate.asset
+  uploadId: 932388

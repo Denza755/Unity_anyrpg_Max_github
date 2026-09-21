@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe6713df488050c4a92b6ee872e7596e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/AbilityEffect/StatusEffect/HealOverTimeStatusEffect.asset
+  uploadId: 932388

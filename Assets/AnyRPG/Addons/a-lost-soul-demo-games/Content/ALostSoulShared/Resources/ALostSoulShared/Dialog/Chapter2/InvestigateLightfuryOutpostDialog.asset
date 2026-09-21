@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: InvestigateLightfuryOutpostDialog
+  m_EditorClassIdentifier: 
+  resourceName: Investigate Lightfury Outpost
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 0
+    description: The location of the ManaSeal is such a closely guarded secret that
+      even I don't know its location.
+    nextOption: How will I find it then?
+  - startTime: 0
+    showTime: 0
+    description: 'After the ManaSeal was created, a select order of knights was formed
+      called the Lightguard.
+
+
+      They were entrusted with the task of safeguarding
+      the ManaSeal and the LunaMechs that keep it operational.'
+    nextOption: And where would I find these Knights?
+  - startTime: 0
+    showTime: 0
+    description: 'The knights watch over the ManaSeal from an outpost on the edge
+      of the desert.
+
+
+      Lightfury Outpost, named in honor of Blaziel Lightfury,
+      can be found by leaving the city through the North gate and following a path
+      through the mountains.'
+    nextOption: Ok, I'll go find the Knights of the Lightguard
+  prerequisiteConditions: []

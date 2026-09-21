@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: MetalClawWeaponsTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: All Metal Claw Weapons
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources:
+  - {fileID: 11400000, guid: 108ba6086332cab44945e1fc1cbaaf47, type: 2}
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: fa7c46cd77a778f4793d7e3632945ffb, type: 2}
+  - {fileID: 11400000, guid: 601b42a4df416dd43aeebe3a75a389fb, type: 2}
+  - {fileID: 11400000, guid: 864ab430b4e3aa347a3849f70b078677, type: 2}
+  - {fileID: 11400000, guid: 81c37d7257dd5cb44ac070cd951da644, type: 2}
+  - {fileID: 11400000, guid: 05569bdf55bde64438ce32718423544b, type: 2}

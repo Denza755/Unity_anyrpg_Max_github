@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 105fd58319b9f384a8c365b341d24e44
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Sword/MedievalTwoHandSwordHandle.prefab
+  uploadId: 932388

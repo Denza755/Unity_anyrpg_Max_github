@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24376114269e5a34ca18abb26544d25c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Materials/BasicColors/AnyRPGGrayMaterial.mat
+  uploadId: 932388

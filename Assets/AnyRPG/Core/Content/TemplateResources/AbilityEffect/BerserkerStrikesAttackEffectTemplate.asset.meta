@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d8f511d4e4d2fd4fbc2ce215dc75ce6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AbilityEffect/BerserkerStrikesAttackEffectTemplate.asset
+  uploadId: 932388

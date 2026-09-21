@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3163a0ca22df35342bf3d2cc095bd04f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Armor/SteelPlatePauldronsRecipeTemplatePackage.asset
+  uploadId: 932388

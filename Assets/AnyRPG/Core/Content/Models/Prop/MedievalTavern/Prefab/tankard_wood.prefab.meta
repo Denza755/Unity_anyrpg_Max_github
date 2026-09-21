@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 30039d972c9d60a4f931d354ad551c2a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/MedievalTavern/Prefab/tankard_wood.prefab
+  uploadId: 932388

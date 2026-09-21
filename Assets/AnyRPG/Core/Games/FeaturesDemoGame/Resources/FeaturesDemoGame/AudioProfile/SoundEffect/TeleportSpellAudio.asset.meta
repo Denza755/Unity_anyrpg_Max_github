@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 854b94699679be74a8e4884178ac63cb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/AudioProfile/SoundEffect/TeleportSpellAudio.asset
+  uploadId: 932388

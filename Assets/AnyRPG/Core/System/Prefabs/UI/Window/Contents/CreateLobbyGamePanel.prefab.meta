@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5d60a747dd5aa94a8369b36be468c84
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/CreateLobbyGamePanel.prefab
+  uploadId: 932388

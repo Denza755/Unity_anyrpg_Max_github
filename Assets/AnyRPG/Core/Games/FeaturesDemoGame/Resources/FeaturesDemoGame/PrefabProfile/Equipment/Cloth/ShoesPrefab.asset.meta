@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41d8ef4574b1cdd439b1691b91f0abeb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Equipment/Cloth/ShoesPrefab.asset
+  uploadId: 932388

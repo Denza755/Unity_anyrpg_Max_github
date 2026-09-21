@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 512551300e3583944a4ec6017fb2de5b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Armor/Plate/RedPlatePauldronsTemplatePackage.asset
+  uploadId: 932388

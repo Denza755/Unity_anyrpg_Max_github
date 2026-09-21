@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da1f19d359d948f46b2166fcce1f4113
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicSteelSabre.prefab
+  uploadId: 932388

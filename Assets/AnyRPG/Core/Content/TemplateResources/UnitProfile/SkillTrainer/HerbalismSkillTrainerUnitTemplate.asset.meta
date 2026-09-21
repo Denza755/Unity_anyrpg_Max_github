@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6108fe4a268f69d4899ca1910e0c9b6c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/UnitProfile/SkillTrainer/HerbalismSkillTrainerUnitTemplate.asset
+  uploadId: 932388

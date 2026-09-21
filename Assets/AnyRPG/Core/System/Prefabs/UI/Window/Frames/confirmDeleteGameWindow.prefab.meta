@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 526511287370d5e4e9df21f9a74d02d8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/confirmDeleteGameWindow.prefab
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc9b498615003da4189fda4059b15206
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Item/Gathering/Skinning/AnimalHideItemTemplate.asset
+  uploadId: 932388

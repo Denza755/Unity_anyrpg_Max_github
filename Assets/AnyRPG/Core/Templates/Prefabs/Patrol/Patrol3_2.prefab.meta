@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 252c4750ea63bb04497c53ba02ef3c46
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Templates/Prefabs/Patrol/Patrol3_2.prefab
+  uploadId: 932388

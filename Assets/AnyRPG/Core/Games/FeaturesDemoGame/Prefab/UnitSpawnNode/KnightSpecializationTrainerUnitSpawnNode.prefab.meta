@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8f0efa9b8597f3343a8036a0e6fe02e8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/KnightSpecializationTrainerUnitSpawnNode.prefab
+  uploadId: 932388

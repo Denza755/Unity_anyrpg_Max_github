@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0c06155df2051e94ab1d80720c0f5d29
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/CreateLobbyGameWindow.prefab
+  uploadId: 932388

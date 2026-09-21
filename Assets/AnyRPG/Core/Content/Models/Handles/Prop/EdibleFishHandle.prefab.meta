@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8bbbd19f15eb854d9ed7ec3f6e185a8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Prop/EdibleFishHandle.prefab
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed6ebf2f7b0ddaa4fad97a24fcccd9a1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/ActionBarsButton
+    Variant.prefab
+  uploadId: 932388

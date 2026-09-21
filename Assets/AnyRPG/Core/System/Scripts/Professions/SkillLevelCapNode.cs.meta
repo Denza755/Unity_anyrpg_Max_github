@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 2dfb587eb965eee48b3a03291d5ac866
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Professions/SkillLevelCapNode.cs
+  uploadId: 932388

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: LowResShieldsTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: All Low Res Weapons
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources:
+  - {fileID: 11400000, guid: a62622177d7bd4245946da7f08ef3902, type: 2}
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: 29a592e3b6290e5479fd77f69a4943fa, type: 2}
+  - {fileID: 11400000, guid: 1ffbeb1cc9ebe4a478edbfe246e670c5, type: 2}
+  - {fileID: 11400000, guid: 44635d6b7f242244189d439612b27a40, type: 2}
+  - {fileID: 11400000, guid: dff65ed168087db4eb5150a6a7ca25fc, type: 2}
+  - {fileID: 11400000, guid: fdf0744148cf0894b90c69958e6fe3f7, type: 2}
+  - {fileID: 11400000, guid: 922540f9375d5564984930e511b5c09d, type: 2}
+  - {fileID: 11400000, guid: da7174d2f1c78ab498b635a26bc778e9, type: 2}
+  - {fileID: 11400000, guid: 4ff6967a8c9ac9d49b046bb58734e049, type: 2}
+  - {fileID: 11400000, guid: 284be196181de8040a60d61d0dd59622, type: 2}
+  - {fileID: 11400000, guid: adef1a4a29824cc48a7076ef5e8aeed2, type: 2}
+  - {fileID: 11400000, guid: 3007b8e67b8e44448b54c4b79f228e12, type: 2}
+  - {fileID: 11400000, guid: 215979b515b05c44e98223d9bd36f145, type: 2}

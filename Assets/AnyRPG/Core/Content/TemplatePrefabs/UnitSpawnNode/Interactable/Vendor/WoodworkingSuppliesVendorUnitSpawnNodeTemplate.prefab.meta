@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 56622b81755ad4148a7d2c969462b555
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Interactable/Vendor/WoodworkingSuppliesVendorUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

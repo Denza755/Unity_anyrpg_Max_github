@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aedb8bdb23cb65b41b7f7c3cf47acb1f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Item/Equipment/Weapon/Sword/RandomMedievalTwoHandSwordItemTemplate.asset
+  uploadId: 932388

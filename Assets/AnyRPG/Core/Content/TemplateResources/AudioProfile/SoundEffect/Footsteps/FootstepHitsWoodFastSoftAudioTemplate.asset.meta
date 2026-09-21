@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 353a20e74b36edf4f833a819b17182a0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AudioProfile/SoundEffect/Footsteps/FootstepHitsWoodFastSoftAudioTemplate.asset
+  uploadId: 932388

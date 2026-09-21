@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 259c8bcd1a380714288edf260af92a78
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/VendorCollection/LeatherArmor/LegendaryLeatherArmorVendorCollection.asset
+  uploadId: 932388

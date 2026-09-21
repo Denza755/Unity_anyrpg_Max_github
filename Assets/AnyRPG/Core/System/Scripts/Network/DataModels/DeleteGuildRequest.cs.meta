@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: dedf8b393f8ee4746803b8defc4f3d02
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Network/DataModels/DeleteGuildRequest.cs
+  uploadId: 932388

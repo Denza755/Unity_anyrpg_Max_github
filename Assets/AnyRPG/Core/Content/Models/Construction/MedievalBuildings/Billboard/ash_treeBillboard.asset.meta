@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afa17937b7ac0c045a8853a667d94171
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Construction/MedievalBuildings/Billboard/ash_treeBillboard.asset
+  uploadId: 932388

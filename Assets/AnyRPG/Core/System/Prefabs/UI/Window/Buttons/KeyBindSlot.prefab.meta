@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 24015f60bb96c654e9f4a5aa59962368
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/KeyBindSlot.prefab
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f7d0b0d2e61e6cb4ab05a1bdfa7122e0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Character/HumanMaleClothesHead2UnitSpawnNodeTemplate.prefab
+  uploadId: 932388

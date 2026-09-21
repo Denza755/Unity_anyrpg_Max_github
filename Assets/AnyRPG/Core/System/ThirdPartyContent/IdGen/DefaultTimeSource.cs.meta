@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: bfca6a01ea935de4d8c24d7ae8925ffa
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/ThirdPartyContent/IdGen/DefaultTimeSource.cs
+  uploadId: 932388

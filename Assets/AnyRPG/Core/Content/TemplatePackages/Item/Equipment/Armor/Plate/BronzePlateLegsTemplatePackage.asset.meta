@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3cc15589eb36244c89531ad620e95d7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Armor/Plate/BronzePlateLegsTemplatePackage.asset
+  uploadId: 932388

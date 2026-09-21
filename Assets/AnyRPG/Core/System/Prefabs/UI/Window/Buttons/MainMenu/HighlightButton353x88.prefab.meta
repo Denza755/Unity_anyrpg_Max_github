@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e854bbd9898b4240adc61410e09ce2e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/MainMenu/HighlightButton353x88.prefab
+  uploadId: 932388

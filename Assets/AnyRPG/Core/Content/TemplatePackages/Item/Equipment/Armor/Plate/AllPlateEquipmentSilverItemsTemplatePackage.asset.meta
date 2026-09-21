@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6eb4b4fe24563314d822a92d007faa97
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Armor/Plate/AllPlateEquipmentSilverItemsTemplatePackage.asset
+  uploadId: 932388

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b491a306145b8e4aa064bbcf71f8e01, type: 3}
+  m_Name: ATearInRealityQuest
+  m_EditorClassIdentifier: 
+  resourceName: A Tear In Reality
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 'If the dead being reanimated and rocks coming to life and attacking
+    people didn''t quality as things that could end the world, this tear in reality
+    that only you can see definitely does!
+
+
+    Use your Teleport Soul Forge ability
+    to return to the Guardian Of Souls.
+
+
+    Perhaps it knows why no one else can
+    see the tear and how to find the source and stop it.'
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  isAchievement: 0
+  repeatableQuest: 0
+  hasOpeningDialog: 1
+  experienceLevel: 10
+  dynamicLevel: 1
+  extraLevels: 0
+  baseExperienceReward: 0
+  experienceRewardPerLevel: 0
+  automaticCurrencyReward: 0
+  rewardCurrencyName: 
+  baseCurrencyReward: 0
+  currencyRewardPerLevel: 0
+  maxItemRewards: 0
+  itemRewardNames: []
+  maxFactionRewards: 0
+  factionRewards: []
+  maxAbilityRewards: 0
+  abilityRewardNames: []
+  maxSkillRewards: 0
+  skillRewardNames: []
+  steps:
+  - questObjectives:
+    - rid: 8385465461168668672
+  - questObjectives:
+    - rid: 1
+  prerequisiteConditions:
+  - requireAny: 0
+    reverseMatch: 0
+    levelPrerequisites: []
+    characterClassPrerequisites: []
+    questPrerequisites:
+    - prerequisiteName: What The Hole
+      stepIndex: -1
+      requireComplete: 0
+      requireTurnedIn: 1
+    dialogPrerequisites: []
+    visitZonePrerequisites: []
+    tradeSkillPrerequisites: []
+    abilityPrerequisites: []
+    factionPrerequisites: []
+  turnInItems: 0
+  allowRawComplete: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 1
+      type: {class: DialogObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: Talk To The Guardian Of Souls
+        dialogName: Guardian Of The Grove
+    - rid: 8385465461168668672
+      type: {class: UseAbilityObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        abilityName: Teleport Soul Forge

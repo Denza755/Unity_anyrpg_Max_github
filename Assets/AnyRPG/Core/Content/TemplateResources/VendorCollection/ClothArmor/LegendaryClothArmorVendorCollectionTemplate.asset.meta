@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42f4177d60dd3914ca7c603fceab8b3e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/VendorCollection/ClothArmor/LegendaryClothArmorVendorCollectionTemplate.asset
+  uploadId: 932388

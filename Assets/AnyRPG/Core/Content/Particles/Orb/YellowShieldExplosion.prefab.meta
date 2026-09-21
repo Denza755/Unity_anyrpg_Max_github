@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de4d743bac04dcd4d896b4ba784c7a8b
+timeCreated: 1471493679
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Orb/YellowShieldExplosion.prefab
+  uploadId: 932388

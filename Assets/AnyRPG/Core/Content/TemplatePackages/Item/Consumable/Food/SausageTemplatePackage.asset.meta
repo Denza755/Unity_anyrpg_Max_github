@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dba6c3c8da9dd1b459c9224bfd8897b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Consumable/Food/SausageTemplatePackage.asset
+  uploadId: 932388

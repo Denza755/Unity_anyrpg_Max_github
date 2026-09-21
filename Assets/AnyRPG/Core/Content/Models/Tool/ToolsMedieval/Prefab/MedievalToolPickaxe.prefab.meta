@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c218e34b311fa5d4fb04f67089bdc98f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Tool/ToolsMedieval/Prefab/MedievalToolPickaxe.prefab
+  uploadId: 932388

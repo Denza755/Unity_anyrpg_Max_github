@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: df4c1a910011ee246b9a815a4336cd20
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/NewGameRaceButton.prefab
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6297dbac736db594c895eb1d1959c8fa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Prop/PotionCloudyDrinkableHandle.prefab
+  uploadId: 932388

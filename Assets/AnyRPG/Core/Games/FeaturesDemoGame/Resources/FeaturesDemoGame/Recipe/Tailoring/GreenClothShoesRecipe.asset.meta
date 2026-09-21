@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f8ed4f41187d9446bc60ba82409d3e0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Recipe/Tailoring/GreenClothShoesRecipe.asset
+  uploadId: 932388

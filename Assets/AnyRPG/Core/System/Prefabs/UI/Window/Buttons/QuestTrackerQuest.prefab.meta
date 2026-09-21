@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db22a40f031fc8245a9c5707a19fb9d1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/QuestTrackerQuest.prefab
+  uploadId: 932388

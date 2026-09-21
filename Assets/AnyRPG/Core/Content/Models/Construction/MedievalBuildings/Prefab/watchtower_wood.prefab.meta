@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5361f3dbba16afc49b2bbe9cf2bfc2b2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Construction/MedievalBuildings/Prefab/watchtower_wood.prefab
+  uploadId: 932388

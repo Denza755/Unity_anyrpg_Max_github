@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fcecc803ab6f2154891a839ce717c608
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Weapon/Axe/MedievalTwoHandAxePrefabTemplate.asset
+  uploadId: 932388

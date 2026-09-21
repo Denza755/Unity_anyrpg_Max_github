@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2acdcac501aa4304eb591cb8043e1ac2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Animations/Actions/AnyRPGFishingAndReeling.anim
+  uploadId: 932388

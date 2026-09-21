@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ab2b264f5103a3448939e11fd2e5a00
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Patrol/LoopPatrolNPCUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

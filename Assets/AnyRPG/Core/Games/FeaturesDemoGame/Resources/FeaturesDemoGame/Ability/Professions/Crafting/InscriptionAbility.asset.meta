@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7a4f9a41d3854b4fb057538c5884360
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Ability/Professions/Crafting/InscriptionAbility.asset
+  uploadId: 932388

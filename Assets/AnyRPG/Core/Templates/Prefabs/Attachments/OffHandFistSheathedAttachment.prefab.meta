@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea7853a56f22ed749abfbbb63cfdd6fe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Templates/Prefabs/Attachments/OffHandFistSheathedAttachment.prefab
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c9c99f14eefdc0f47bab5c6b7cf1f047
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Staff/BasicGoldStaffHandle.prefab
+  uploadId: 932388

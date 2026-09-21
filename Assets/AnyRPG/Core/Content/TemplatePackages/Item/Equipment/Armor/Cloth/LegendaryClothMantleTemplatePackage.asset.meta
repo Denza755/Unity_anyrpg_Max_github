@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af505da88aa39164bb81c8b9a89b9f19
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Armor/Cloth/LegendaryClothMantleTemplatePackage.asset
+  uploadId: 932388

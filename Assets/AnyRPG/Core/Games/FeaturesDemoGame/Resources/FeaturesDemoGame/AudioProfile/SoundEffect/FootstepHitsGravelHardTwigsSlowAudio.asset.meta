@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bdc302a5bd17ac64e86be56c9c76afb9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/AudioProfile/SoundEffect/FootstepHitsGravelHardTwigsSlowAudio.asset
+  uploadId: 932388

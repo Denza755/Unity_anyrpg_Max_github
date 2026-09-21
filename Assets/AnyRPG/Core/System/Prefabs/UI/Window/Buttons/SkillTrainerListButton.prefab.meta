@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd9e227504db48247b3a425079c1231f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/SkillTrainerListButton.prefab
+  uploadId: 932388

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c587f94b8b07044bfa0c7e84557a16, type: 3}
+  m_Name: ApprenticeCraftsmanQuestGiver
+  m_EditorClassIdentifier: 
+  resourceName: Apprentice Craftsman
+  icon: {fileID: 0}
+  description: 
+  resourceDescriptionProfile: 
+  quests:
+  - startQuest: 1
+    endQuest: 1
+    questName: Refined Tastes (Channeler)
+  - startQuest: 1
+    endQuest: 1
+    questName: Refined Tastes (Warrior)
+  - startQuest: 1
+    endQuest: 1
+    questName: Refined Tastes (Fighter)
+  - startQuest: 1
+    endQuest: 1
+    questName: Initiates Robes
+  - startQuest: 1
+    endQuest: 1
+    questName: Weapons Of The Trade (Channeler)
+  - startQuest: 1
+    endQuest: 1
+    questName: Weapons Of The Trade (Fighter)
+  - startQuest: 1
+    endQuest: 1
+    questName: Ill Tan Your Hide (Channeler)
+  - startQuest: 1
+    endQuest: 1
+    questName: Ill Tan Your Hide (Warrior)
+  - startQuest: 1
+    endQuest: 1
+    questName: Ill Tan Your Hide (Fighter)
+  - startQuest: 0
+    endQuest: 1
+    questName: Meet The Apprentice
+  - startQuest: 1
+    endQuest: 0
+    questName: You Are Prepared (Channeler)
+  - startQuest: 1
+    endQuest: 0
+    questName: You Are Prepared (Warrior)
+  - startQuest: 1
+    endQuest: 0
+    questName: You Are Prepared (Fighter)
+  - startQuest: 1
+    endQuest: 1
+    questName: Initiates Leather Armor
+  - startQuest: 1
+    endQuest: 1
+    questName: A Second Hand Weapon (Channeler)
+  - startQuest: 1
+    endQuest: 1
+    questName: A Second Hand Weapon (Warrior)
+  - startQuest: 1
+    endQuest: 1
+    questName: A Second Hand Weapon (Fighter)
+  - startQuest: 1
+    endQuest: 1
+    questName: Initiates Plate Armor
+  - startQuest: 1
+    endQuest: 1
+    questName: Weapons Of The Trade (Warrior)

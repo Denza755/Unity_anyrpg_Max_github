@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bdf41e43bdef89e499447e190820c97d
+labels:
+- UMA_Slot
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2
+  packageVersion: 2.14f7
+  assetPath: Assets/AnyRPG/Engine/Content/ThirdPartyContent/UMA/ExtractedContent/Challenger/MaleChallengerBoots_Slot.asset
+  uploadId: 883964

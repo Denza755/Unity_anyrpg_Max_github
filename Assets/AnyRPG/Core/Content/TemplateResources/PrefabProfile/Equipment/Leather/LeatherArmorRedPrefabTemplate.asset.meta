@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 306557b5e9b99e0408f13418b65183c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Equipment/Leather/LeatherArmorRedPrefabTemplate.asset
+  uploadId: 932388

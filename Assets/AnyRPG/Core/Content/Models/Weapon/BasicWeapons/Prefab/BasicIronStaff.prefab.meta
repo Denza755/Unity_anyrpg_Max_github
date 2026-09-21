@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0d3921992c0b21740b32e54c00870cfb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicIronStaff.prefab
+  uploadId: 932388

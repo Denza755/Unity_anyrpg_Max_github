@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9370413a88786194097c482650299590
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/EquipmentModelProfile/Leather/RedLeatherBootsEquipmentModel.asset
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba21d95936e610048a5e0c7b1ad3b43a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Character/ModularRPGCharacters/Prefab/HumanMaleApronHead6.prefab
+  uploadId: 932388

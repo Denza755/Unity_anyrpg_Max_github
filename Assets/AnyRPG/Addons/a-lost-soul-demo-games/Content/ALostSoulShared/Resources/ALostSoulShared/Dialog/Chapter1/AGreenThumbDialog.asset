@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: AGreenThumbDialog
+  m_EditorClassIdentifier: 
+  resourceName: A Green Thumb
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'Say, I can see dirt on your hands.
+
+
+      Have you been gathering
+      herbs recently?'
+    nextOption: I sure have!
+  - startTime: 0
+    showTime: 10
+    description: 'Then we can help each other out.
+
+
+      Sneekalot is not the bravest
+      of the Knights, but he''s the only one who can write.
+
+
+      We need him to
+      help us, but he''s too scared.'
+    nextOption: Those goblins aren't very friendly...
+  - startTime: 0
+    showTime: 10
+    description: 'Yes, so please go offer to help him collect the herbs he needs.
+
+
+      I''m
+      sure he will make it worth your time.'
+    nextOption: Sure, where is he?
+  - startTime: 0
+    showTime: 10
+    description: 'Just follow the path behind me up the hill into the base before
+      you go looking for goblins.
+
+
+      He should be just inside the gates.'
+    nextOption: Ok, I'll go see what he needs
+  prerequisiteConditions: []

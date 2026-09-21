@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d46b6b5df6312ea4ba9a077c173ec3c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/Character/Model/DefaultMecanimHumanMaleCharacterModel.prefab
+  uploadId: 932388

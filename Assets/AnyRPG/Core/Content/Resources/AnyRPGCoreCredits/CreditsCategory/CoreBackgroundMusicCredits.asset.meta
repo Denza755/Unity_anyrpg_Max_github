@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e84d26b1b3ff2fc4ba4876a30786401f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Resources/AnyRPGCoreCredits/CreditsCategory/CoreBackgroundMusicCredits.asset
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4788f590a8103874bbf5af0e5c8e5637
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/ConfirmAcceptFriendWindow.prefab
+  uploadId: 932388

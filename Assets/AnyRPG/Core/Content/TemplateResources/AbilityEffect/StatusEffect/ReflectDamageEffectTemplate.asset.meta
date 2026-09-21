@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 102984d4b6e95d24d824fa769e61adfe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AbilityEffect/StatusEffect/ReflectDamageEffectTemplate.asset
+  uploadId: 932388

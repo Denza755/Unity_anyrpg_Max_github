@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 685085878c061a344bbb2eef4c9a0789
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Tool/ToolsMedieval/Material/mat_hammer.mat
+  uploadId: 932388

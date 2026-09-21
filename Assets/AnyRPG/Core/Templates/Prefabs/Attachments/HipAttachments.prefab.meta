@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: add692f55515b7b478b4de24d1ed00bf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Templates/Prefabs/Attachments/HipAttachments.prefab
+  uploadId: 932388

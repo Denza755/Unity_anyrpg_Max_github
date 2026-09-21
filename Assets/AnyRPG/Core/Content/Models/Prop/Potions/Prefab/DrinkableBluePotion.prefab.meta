@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2dd157347d94d164585eb19a37bf8b1a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/Potions/Prefab/DrinkableBluePotion.prefab
+  uploadId: 932388

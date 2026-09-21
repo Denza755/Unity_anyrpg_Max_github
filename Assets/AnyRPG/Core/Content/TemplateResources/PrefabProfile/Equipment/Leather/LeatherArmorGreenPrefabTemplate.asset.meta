@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f0c0edbe1d5bf14c8842e3fcab776b3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Equipment/Leather/LeatherArmorGreenPrefabTemplate.asset
+  uploadId: 932388

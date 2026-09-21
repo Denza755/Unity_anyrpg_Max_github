@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5adaf0985343f2544be20a0d7d645a47
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Equipment/Leather/LeatherBootsCyanPrefab.asset
+  uploadId: 932388

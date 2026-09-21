@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72b4d4f7d48d9d84bbf9a9ee60d1ae1a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Templates/Prefabs/Helper/PathDebugger.prefab
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76c4156f1f6a8704e8a86fd528841173
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/BasicIronHalberdRecipeTemplatePackage.asset
+  uploadId: 932388

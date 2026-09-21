@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7459d1766c1071243b400f6be28e39b9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Armor/GoldPlateHelmRecipeTemplatePackage.asset
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6853a48b155b2a47bd10efbba766ca0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Polearm/BasicSteelSpearHandle.prefab
+  uploadId: 932388

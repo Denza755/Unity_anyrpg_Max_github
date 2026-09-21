@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fac86470ed79c92448390f0f24518166
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicSteelHalberd.prefab
+  uploadId: 932388

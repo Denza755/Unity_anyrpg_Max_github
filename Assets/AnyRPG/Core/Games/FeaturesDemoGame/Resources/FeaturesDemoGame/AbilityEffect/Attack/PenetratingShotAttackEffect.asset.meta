@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ace8a8ce0be9c842b2683b778caa20a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/AbilityEffect/Attack/PenetratingShotAttackEffect.asset
+  uploadId: 932388

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 24b909292d77c094a81697d48664c3e0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/DataModels/GuildSaveData.cs
+  uploadId: 932388

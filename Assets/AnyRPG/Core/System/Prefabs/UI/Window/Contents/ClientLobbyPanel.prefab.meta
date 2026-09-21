@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fcbbcb56dfec88040b4cdcd4b8afa5bd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/ClientLobbyPanel.prefab
+  uploadId: 932388

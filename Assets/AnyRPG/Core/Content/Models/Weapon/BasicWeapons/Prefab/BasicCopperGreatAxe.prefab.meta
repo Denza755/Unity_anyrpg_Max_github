@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e27ac812f9879f49b03098bbc90aaa7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicCopperGreatAxe.prefab
+  uploadId: 932388

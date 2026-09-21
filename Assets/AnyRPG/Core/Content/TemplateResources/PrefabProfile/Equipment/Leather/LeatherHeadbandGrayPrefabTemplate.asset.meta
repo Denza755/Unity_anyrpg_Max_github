@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e63e083bd22d0554697225cc27b4c968
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Equipment/Leather/LeatherHeadbandGrayPrefabTemplate.asset
+  uploadId: 932388

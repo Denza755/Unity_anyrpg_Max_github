@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1aa7242075f82a74981cdf362e1d811e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Quest/DialogObjectiveQuest.asset
+  uploadId: 932388

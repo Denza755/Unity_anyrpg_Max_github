@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cab3a5eb1c71dc94596438745837d7c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Orb/UVScrollGreen2.mat
+  uploadId: 932388

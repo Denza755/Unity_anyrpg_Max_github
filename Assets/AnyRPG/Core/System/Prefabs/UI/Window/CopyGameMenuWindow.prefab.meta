@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bd5fcdd2c091af54a9acba6f889c5e60
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/CopyGameMenuWindow.prefab
+  uploadId: 932388

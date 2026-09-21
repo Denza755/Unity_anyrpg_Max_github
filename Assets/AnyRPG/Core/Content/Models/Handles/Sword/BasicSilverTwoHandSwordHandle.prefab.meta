@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e5d0a31138c228a4da4c085a88dcbbd0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Sword/BasicSilverTwoHandSwordHandle.prefab
+  uploadId: 932388

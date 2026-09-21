@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3390e4aa9ca4f0c47baa386927b7b5df
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/AchievementWindow.prefab
+  uploadId: 932388

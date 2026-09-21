@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e5f5fcf4b2868b4f802d89a31f10146, type: 3}
+  m_Name: UnbornSoulPatrol
+  m_EditorClassIdentifier: 
+  resourceName: Unborn Soul
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  patrolProperties:
+    autoStart: 1
+    destinationList: []
+    useTags: 1
+    destinationTagList:
+    - Patrol1_1
+    - Patrol2_1
+    - Patrol3_1
+    - Patrol4_1
+    - Patrol5_1
+    - Patrol6_1
+    - Patrol7_1
+    randomDestinations: 1
+    loopDestinations: 0
+    despawnOnCompletion: 1
+    maxDestinations: 1
+    maxDistanceFromSpawnPoint: 0
+    destinationPauseTime: 0
+    movementSpeed: 0
+    savePositionAtDestination: 0
+  autoStart: 1
+  destinationList:
+  - {x: -53.44336, y: 22.91163, z: -67.3828}
+  - {x: -53.86016, y: 12.50463, z: -10.8595}
+  - {x: -53.66527, y: 22.91163, z: 45.22776}
+  - {x: 3.294225, y: 33.30763, z: 45.05745}
+  - {x: 59.6333, y: 22.90163, z: 45.10897}
+  - {x: 59.59191, y: 12.50464, z: -10.82771}
+  - {x: 59.39762, y: 22.91163, z: -67.45546}
+  useTags: 0
+  destinationTagList: []
+  randomDestinations: 1
+  loopDestinations: 0
+  despawnOnCompletion: 1
+  maxDestinations: 1
+  maxDistanceFromSpawnPoint: 0
+  destinationPauseTime: 0
+  movementSpeed: 0
+  savePositionAtDestination: 0

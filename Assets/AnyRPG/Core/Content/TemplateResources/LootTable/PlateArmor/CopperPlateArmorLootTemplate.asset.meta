@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed65c7bc85a21ae468de31fbfe9119d9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/LootTable/PlateArmor/CopperPlateArmorLootTemplate.asset
+  uploadId: 932388

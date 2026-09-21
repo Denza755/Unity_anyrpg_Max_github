@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a826b9f18037ff46b39bc4b9a3d9fb7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Equipment/Leather/LeatherPantsBluePrefab.asset
+  uploadId: 932388

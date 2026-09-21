@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31ee2b2726bb25742957c66f1f72757d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Equipment/Plate/PlateBracersSilverPrefabTemplate.asset
+  uploadId: 932388

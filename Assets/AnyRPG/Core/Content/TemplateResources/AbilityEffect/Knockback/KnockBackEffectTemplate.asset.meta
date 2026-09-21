@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2cac6adbe4b618b4fa80e995d8617044
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AbilityEffect/Knockback/KnockBackEffectTemplate.asset
+  uploadId: 932388

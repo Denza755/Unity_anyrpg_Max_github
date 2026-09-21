@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 86f2e99bb0948ab48a91405a21b2b8db
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Point/Hit/RedHitEffect.prefab
+  uploadId: 932388

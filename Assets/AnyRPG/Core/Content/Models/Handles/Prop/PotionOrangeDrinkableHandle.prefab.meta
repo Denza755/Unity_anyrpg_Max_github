@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e6eb5b638903ce944a71999ff1f0c7e7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Prop/PotionOrangeDrinkableHandle.prefab
+  uploadId: 932388

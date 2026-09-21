@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0bf4f2726908ed94c89bb9a142c22ba0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Skill/Gathering/Nodes/Herbalism/HerbalismWhiteFlowerNodeTemplatePackage.asset
+  uploadId: 932388

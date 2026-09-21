@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f33cb2f1dbbe59f4caaa199b47cd3116
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Interactable/SkillTrainer/WoodworkingSkillTrainerUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

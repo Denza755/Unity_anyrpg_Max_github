@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5cf0d85e761e8c146a87f1188ed52af9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/Interactable/Gathering/Mining/MiningCyanCrystalNodeTemplate.prefab
+  uploadId: 932388

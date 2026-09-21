@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59f7df976abef574887f4a4fdf6bed78
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Item/Equipment/Armor/Leather/BrownLeatherGlovesItem.asset
+  uploadId: 932388

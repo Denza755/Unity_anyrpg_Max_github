@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 968627acbab2e5541b3dcb28f4bfb3ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Equipment/WW_Clothes/Material/LeatherShouldersCyan.mat
+  uploadId: 932388

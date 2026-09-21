@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5153afcef06eaa4fbbc13642e5d2a22
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/VendorCollection/PlateArmor/CopperPlateArmorVendorCollection.asset
+  uploadId: 932388

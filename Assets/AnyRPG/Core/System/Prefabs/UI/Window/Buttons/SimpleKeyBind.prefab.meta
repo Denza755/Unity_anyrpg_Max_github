@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48d167843078fdc4593da91607f6005c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/SimpleKeyBind.prefab
+  uploadId: 932388

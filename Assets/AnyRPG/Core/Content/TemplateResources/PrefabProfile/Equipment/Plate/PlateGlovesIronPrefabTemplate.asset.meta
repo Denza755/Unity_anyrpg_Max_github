@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eff14d1328838d54497b245141968ac1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Equipment/Plate/PlateGlovesIronPrefabTemplate.asset
+  uploadId: 932388

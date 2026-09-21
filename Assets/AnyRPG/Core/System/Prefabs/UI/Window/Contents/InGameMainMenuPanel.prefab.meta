@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5da1984e60942f24c885c5e4904edc64
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/InGameMainMenuPanel.prefab
+  uploadId: 932388

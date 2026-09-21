@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: RedTwoHandJewelledSwordWeaponTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: Red Two Hand Jewelled Sword Weapon
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources:
+  - {fileID: 11400000, guid: 85332c091d9ae0f4dac974ad4ecde116, type: 2}
+  - {fileID: 11400000, guid: 3eb1dc9c271c1a94aba01d2f973b26d7, type: 2}
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: 486390261975ea34b9bbe3243d63ecf6, type: 2}
+  - {fileID: 11400000, guid: 252ca395929968e43820806aecfe6a2d, type: 2}

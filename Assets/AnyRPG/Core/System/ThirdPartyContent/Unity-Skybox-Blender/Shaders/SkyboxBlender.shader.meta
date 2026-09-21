@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 70efe3856907a7843b5a544e58a7058c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/ThirdPartyContent/Unity-Skybox-Blender/Shaders/SkyboxBlender.shader
+  uploadId: 932388

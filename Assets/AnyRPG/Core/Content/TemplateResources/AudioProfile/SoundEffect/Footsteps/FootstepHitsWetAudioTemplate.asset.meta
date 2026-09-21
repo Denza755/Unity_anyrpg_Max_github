@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbc5a4ca1d081f94ba9e2c93c9a93714
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AudioProfile/SoundEffect/Footsteps/FootstepHitsWetAudioTemplate.asset
+  uploadId: 932388

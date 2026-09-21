@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 080ff82fafe7b0747ba6b50b17577c2f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/KeyBindCancelButton.prefab
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbc227cfc2026d74c8664b573a2c87b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/EquipmentModelProfile/Armor/Cloth/RedClothHoodEquipmentModelTemplate.asset
+  uploadId: 932388

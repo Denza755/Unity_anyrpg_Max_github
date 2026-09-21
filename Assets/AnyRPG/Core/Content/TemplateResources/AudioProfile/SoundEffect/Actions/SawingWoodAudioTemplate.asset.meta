@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61cfd4436f5f1ff488486dbc9419ca64
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AudioProfile/SoundEffect/Actions/SawingWoodAudioTemplate.asset
+  uploadId: 932388

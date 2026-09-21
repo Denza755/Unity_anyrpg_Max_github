@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: ThePriestessAwaitsDialog
+  m_EditorClassIdentifier: 
+  resourceName: The Priestess Awaits
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 0
+    description: 'Oh there you are.
+
+
+      I was wondering where you had disappeared
+      to.'
+    nextOption: I didn't disappear.  Thats impossible!
+  - startTime: 0
+    showTime: 0
+    description: 'It was just a figure of speech.
+
+
+      Anyway, we have sent word
+      to the Sun Temple of your deeds here.
+
+
+      The High Priestess is expecting
+      you.'
+    nextOption: Where is the Sun Temple?
+  - startTime: 0
+    showTime: 0
+    description: 'Follow the path South out of the camp until you reach the fork.
+
+
+      Take
+      the East path past the pond and into the hills.  You will find the Sun Temple
+      high in the mountains.'
+    nextOption: Ok. I'll go to the Sun Temple now.
+  prerequisiteConditions:
+  - requireAny: 0
+    reverseMatch: 0
+    levelPrerequisites: []
+    characterClassPrerequisites: []
+    questPrerequisites:
+    - prerequisiteName: Ask For Help
+      requireComplete: 0
+      requireTurnedIn: 0
+    dialogPrerequisites: []
+    visitZonePrerequisites: []
+    tradeSkillPrerequisites: []
+    abilityPrerequisites: []
+    factionPrerequisites: []

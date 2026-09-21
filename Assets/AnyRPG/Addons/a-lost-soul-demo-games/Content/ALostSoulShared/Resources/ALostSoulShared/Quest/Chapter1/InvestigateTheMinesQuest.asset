@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b491a306145b8e4aa064bbcf71f8e01, type: 3}
+  m_Name: InvestigateTheMinesQuest
+  m_EditorClassIdentifier: 
+  resourceName: Investigate The Mines
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: "The graveyard was built on top of an old mine where crystals like
+    this were mined.\n\nThe mine entrance was sealed up long ago when crystals ran
+    out. \n\nGo investigate and see if you can find out what could have broken the
+    seal open from the inside."
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  isAchievement: 0
+  repeatableQuest: 0
+  hasOpeningDialog: 1
+  experienceLevel: 10
+  dynamicLevel: 1
+  extraLevels: 0
+  baseExperienceReward: 0
+  experienceRewardPerLevel: 0
+  automaticCurrencyReward: 0
+  rewardCurrencyName: 
+  baseCurrencyReward: 0
+  currencyRewardPerLevel: 0
+  maxItemRewards: 0
+  itemRewardNames: []
+  maxFactionRewards: 0
+  factionRewards: []
+  maxAbilityRewards: 0
+  abilityRewardNames: []
+  maxSkillRewards: 0
+  skillRewardNames: []
+  collectObjectives: []
+  killObjectives: []
+  tradeSkillObjectives: []
+  abilityObjectives: []
+  useInteractableObjectives: []
+  questQuestObjectives: []
+  dialogObjectives: []
+  visitZoneObjectives: []
+  prerequisiteConditions:
+  - requireAny: 0
+    reverseMatch: 0
+    levelPrerequisites: []
+    characterClassPrerequisites: []
+    questPrerequisites:
+    - prerequisiteName: The Crystal Mine
+      requireComplete: 1
+      requireTurnedIn: 1
+    dialogPrerequisites: []
+    visitZonePrerequisites: []
+    tradeSkillPrerequisites: []
+    abilityPrerequisites: []
+    factionPrerequisites: []
+  turnInItems: 0
+  allowRawComplete: 0

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c8872a72510545b458f1e09488451efe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/MessageLogWindow.prefab
+  uploadId: 932388

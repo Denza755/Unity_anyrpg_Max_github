@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c10fbf42bac59c844ad498952e55528f
+timeCreated: 1463062621
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Projectile/Meteor1Projectile.prefab
+  uploadId: 932388

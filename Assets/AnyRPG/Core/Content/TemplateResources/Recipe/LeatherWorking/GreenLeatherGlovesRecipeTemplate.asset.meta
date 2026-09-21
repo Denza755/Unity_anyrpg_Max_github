@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9602f706b1b9244980ee257e209e648
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Recipe/LeatherWorking/GreenLeatherGlovesRecipeTemplate.asset
+  uploadId: 932388

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fd73ebc5463ba94cb6ff99164c9641a, type: 3}
+  m_Name: WarOfTheMagiAudio
+  m_EditorClassIdentifier: 
+  resourceName: War Of The Magi
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  artistName: 
+  audioClips:
+  - {fileID: 8300000, guid: aa41789ce0d515345861a71dd075e157, type: 3}
+  - {fileID: 8300000, guid: dc32e0c13b5d2754392f7d23fc92ca9d, type: 3}
+  - {fileID: 8300000, guid: bcf056b901d951246a23bbd2a9dc88f8, type: 3}
+  - {fileID: 8300000, guid: 2b239431f81eb3a4e9aaf4f156638308, type: 3}
+  - {fileID: 8300000, guid: 3d5c0e0b90eacf84291660e00f7ef274, type: 3}

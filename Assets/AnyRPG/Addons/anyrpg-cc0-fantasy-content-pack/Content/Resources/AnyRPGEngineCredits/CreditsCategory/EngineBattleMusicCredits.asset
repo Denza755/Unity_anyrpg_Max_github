@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acbdbda413a9e75489c46764c8bc894e, type: 3}
+  m_Name: EngineBattleMusicCredits
+  m_EditorClassIdentifier: 
+  resourceName: Engine Battle Music
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  categoryName: Battle Music
+  creditsNodes:
+  - creditName: Battle Theme B for RPG
+    creditAttribution: cynicmusic
+    email: 
+    userUrl: https://opengameart.org/users/cynicmusic
+    downloadUrl: https://opengameart.org/content/battle-theme-b-for-rpg
+  - creditName: Boss Battle Music
+    creditAttribution: SubspaceAudio
+    email: 
+    userUrl: https://opengameart.org/users/subspaceaudio
+    downloadUrl: https://opengameart.org/content/boss-battle-music
+  - creditName: Battle Theme A
+    creditAttribution: cynicmusic
+    email: 
+    userUrl: https://opengameart.org/users/cynicmusic
+    downloadUrl: https://opengameart.org/content/battle-theme-a
+  - creditName: War On Water Chapter 3
+    creditAttribution: yd
+    email: 
+    userUrl: https://opengameart.org/users/yd
+    downloadUrl: https://opengameart.org/content/war-on-water-tracks

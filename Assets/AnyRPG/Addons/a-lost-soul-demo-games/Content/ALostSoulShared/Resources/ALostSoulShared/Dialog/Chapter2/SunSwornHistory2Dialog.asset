@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: SunSwornHistory2Dialog
+  m_EditorClassIdentifier: 
+  resourceName: SunSworn History 2
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 1
+  repeatable: 0
+  audioProfileName: SunSworn History2
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: Around the time that people discovered magic, there was a tribe
+      of ancient sun worshipers called the Sun Dancers.
+    nextOption: 
+  - startTime: 10
+    showTime: 10
+    description: Two twins, Jaiden and Jairen SunDancer discovered that their traditional
+      dances had the power to channel the sun.
+    nextOption: 
+  - startTime: 20
+    showTime: 10
+    description: Unlike magic, which leached the life force of the user, the sun
+      did not corrupt anything when channeled.
+    nextOption: 
+  - startTime: 30
+    showTime: 10
+    description: The twins practiced their dancing until their ability to control
+      the sun made them more powerful than even the strongest mages.
+    nextOption: 
+  prerequisiteConditions: []

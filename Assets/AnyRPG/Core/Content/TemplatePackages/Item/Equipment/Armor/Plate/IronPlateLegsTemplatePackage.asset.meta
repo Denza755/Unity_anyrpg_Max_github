@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95b05cc9d9b74924d96f8a8e1d128d88
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Armor/Plate/IronPlateLegsTemplatePackage.asset
+  uploadId: 932388

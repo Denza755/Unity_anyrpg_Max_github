@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d63b136ae76db73429602bd9c2b897ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Equipment/WW_Clothes/Material/PlateLegsMatt.mat
+  uploadId: 932388

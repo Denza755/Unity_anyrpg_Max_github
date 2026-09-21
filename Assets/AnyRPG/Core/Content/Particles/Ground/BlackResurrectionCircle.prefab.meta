@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a720e159c4678cf46a86ed8d9baeb602
+timeCreated: 1446861150
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Ground/BlackResurrectionCircle.prefab
+  uploadId: 932388

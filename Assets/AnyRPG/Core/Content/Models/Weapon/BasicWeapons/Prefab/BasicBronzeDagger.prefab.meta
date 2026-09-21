@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d174bd32dacbde45bf1f1c716600883
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicBronzeDagger.prefab
+  uploadId: 932388

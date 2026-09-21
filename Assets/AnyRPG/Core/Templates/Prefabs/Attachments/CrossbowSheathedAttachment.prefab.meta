@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: edc3003aa008ee74b93e7559023f865f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Templates/Prefabs/Attachments/CrossbowSheathedAttachment.prefab
+  uploadId: 932388

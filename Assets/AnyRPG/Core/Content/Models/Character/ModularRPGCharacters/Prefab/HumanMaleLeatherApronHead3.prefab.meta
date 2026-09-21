@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 61b53e0c6dfe7764a8c4a82b9f0381c4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Character/ModularRPGCharacters/Prefab/HumanMaleLeatherApronHead3.prefab
+  uploadId: 932388

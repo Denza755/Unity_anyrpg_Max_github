@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db1efada3be54b541bb8113cb49a40f8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicSilverDagger.prefab
+  uploadId: 932388

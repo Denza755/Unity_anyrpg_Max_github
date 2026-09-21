@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: SunSwornHistory4Dialog
+  m_EditorClassIdentifier: 
+  resourceName: SunSworn History 4
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 1
+  repeatable: 0
+  audioProfileName: SunSworn History 4
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: When the last battle had been won, there was a problem to deal with. 
+      Something had to be done about all the mana still in the environment.
+    nextOption: 
+  - startTime: 10
+    showTime: 10
+    description: The power of the sun could contain it, but at night, the SunSworn
+      were powerless.
+    nextOption: 
+  - startTime: 20
+    showTime: 10
+    description: They had to find a solution that allowed them to contain the mana
+      safely at all times.
+    nextOption: 
+  - startTime: 30
+    showTime: 10
+    description: It was decided that some of the technology created by magic use
+      would be repurposed to create a seal that would work at all times.
+    nextOption: 
+  prerequisiteConditions: []

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 906e04ef04c250f409c1088f7324ca40
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/BasicIronAxeRecipeTemplatePackage.asset
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7cfaa3ad3fd5f9248b7b296b87722019
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Point/Hit/BloodHitEffect.prefab
+  uploadId: 932388

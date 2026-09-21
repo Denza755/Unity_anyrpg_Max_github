@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e012e0e6279aeba46820487aed0d646d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/MusicPlayerListButton.prefab
+  uploadId: 932388

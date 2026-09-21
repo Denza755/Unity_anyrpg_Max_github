@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b723a8593b40f24bb122b8ccfb8cc64
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Woodworking/Weapon/EpicMedievalCrossbowRecipeTemplatePackage.asset
+  uploadId: 932388

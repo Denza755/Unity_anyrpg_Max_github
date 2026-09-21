@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 47038dd7a3a40714e803432cdb32c57a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Inventory/BankBag.prefab
+  uploadId: 932388

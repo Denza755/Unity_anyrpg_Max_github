@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a22fe51a265c63943943e55cb1b61474
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Recipe/Tailoring/GrayClothPantsRecipeTemplate.asset
+  uploadId: 932388

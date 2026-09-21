@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90fbc2fe10fdeb54c9ddc8f3b834e00f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Item/Equipment/Armor/Cloth/LegendaryClothGlovesItemTemplate.asset
+  uploadId: 932388

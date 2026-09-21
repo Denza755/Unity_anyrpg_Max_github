@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a3e4e487f46f0fb4dbe5c832f036d1c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicGoldClaw.prefab
+  uploadId: 932388

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 407cc3ad113ecbb40b27da82f378dac8, type: 3}
+  m_Name: HistoryOfMagicCutscene
+  m_EditorClassIdentifier: 
+  resourceName: History Of Magic
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  repeatable: 1
+  requirePlayerUnitSpawn: 0
+  useDefaultFactionColors: 1
+  timelineName: 
+  loadSceneName: HistoryOfMagicCutScene
+  unloadSceneOnEnd: 1
+  autoAdvanceSubtitles: 1
+  subtitleProperties:
+    audioProfileName: History Of Magic
+    subtitleNodes:
+    - startTime: 0
+      showTime: 5
+      description: Man toiled and worked and all day...
+    - startTime: 6
+      showTime: 5
+      description: Magic made life easier...
+    - startTime: 11
+      showTime: 5
+      description: ...but also caused the life force of the caster to leak out into
+        the environment...
+    - startTime: 21
+      showTime: 5
+      description: ...where it could grant sentience to anything it touched!

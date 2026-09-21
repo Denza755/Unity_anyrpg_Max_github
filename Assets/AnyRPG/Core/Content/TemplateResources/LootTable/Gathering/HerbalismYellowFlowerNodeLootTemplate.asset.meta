@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b76e7280584a6b4480e002267118ae5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/LootTable/Gathering/HerbalismYellowFlowerNodeLootTemplate.asset
+  uploadId: 932388

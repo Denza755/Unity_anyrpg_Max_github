@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e6462da21498794a9c923b0e2e3e425
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Inventory/Bag.prefab
+  uploadId: 932388

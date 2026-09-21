@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f40d8297da491a24091b5bc10c5ffea1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Animation/Animations/AnyRPGJogStrafeForwardRight.anim
+  uploadId: 932388

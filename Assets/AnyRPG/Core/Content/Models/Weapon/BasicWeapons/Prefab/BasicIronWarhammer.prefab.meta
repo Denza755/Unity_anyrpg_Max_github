@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b63c8506294d3464a86b0c316000a783
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicIronWarhammer.prefab
+  uploadId: 932388

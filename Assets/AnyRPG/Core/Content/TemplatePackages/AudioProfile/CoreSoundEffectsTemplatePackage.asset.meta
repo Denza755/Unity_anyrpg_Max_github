@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ec721c7ac1a1d44ba98d715f7525711
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/AudioProfile/CoreSoundEffectsTemplatePackage.asset
+  uploadId: 932388

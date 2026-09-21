@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81d168fd72a79b148ba962cd3a907198
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Area/GreenCloudMist.prefab
+  uploadId: 932388

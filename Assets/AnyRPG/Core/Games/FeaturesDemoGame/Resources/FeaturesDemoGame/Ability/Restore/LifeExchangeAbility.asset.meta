@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56ab66ba1de82dd45a733ce0a87f1400
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Ability/Restore/LifeExchangeAbility.asset
+  uploadId: 932388

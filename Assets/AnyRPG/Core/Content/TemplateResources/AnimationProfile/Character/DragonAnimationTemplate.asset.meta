@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c703ec7e67875b4392d5f4fcc0e1e51
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AnimationProfile/Character/DragonAnimationTemplate.asset
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5652df83ee7f35c4198a4b4018814272
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Equipment/Leather/LeatherGlovesGreenPrefabTemplate.asset
+  uploadId: 932388

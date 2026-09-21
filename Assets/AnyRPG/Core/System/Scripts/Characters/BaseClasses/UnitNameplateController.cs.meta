@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 42cf8fe2df276ee4daa440348e9439f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Characters/BaseClasses/UnitNameplateController.cs
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b302e05e93c09364a8c67e99b7d2ed5d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/ConfirmNewGamePanel.prefab
+  uploadId: 932388

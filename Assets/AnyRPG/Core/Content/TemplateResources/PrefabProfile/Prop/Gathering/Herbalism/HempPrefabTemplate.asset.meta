@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4deba4c2eded3d84583d7e8307dacd6c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Prop/Gathering/Herbalism/HempPrefabTemplate.asset
+  uploadId: 932388

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bcda888b4a7d23648afb618e0bf3b481
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/GameManager/PlayerManagerClient.cs
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3740a5b124fa543429f3436c5105a1af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Recipe/BlackSmithing/Armor/IronPlateGirdleRecipe.asset
+  uploadId: 932388

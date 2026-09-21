@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6218426d0cfbd3740ac9bd30c33a22b7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/NavigablePanels/UnitFrame.prefab
+  uploadId: 932388

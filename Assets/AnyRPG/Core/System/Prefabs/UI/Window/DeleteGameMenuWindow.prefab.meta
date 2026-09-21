@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0655086af1f939044985b8fb668e0b8d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/DeleteGameMenuWindow.prefab
+  uploadId: 932388

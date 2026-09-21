@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22bec58fe2cfc1a4397b6fbb41f4528b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/VendorCollection/LeatherArmor/CyanLeatherArmorVendorCollectionTemplate.asset
+  uploadId: 932388

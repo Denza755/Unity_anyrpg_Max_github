@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d48b4e3dc87ed1e4d832b6690affca1d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Character/ModularRPGCharacters/Prefab/HumanFemaleMediumArmor.prefab
+  uploadId: 932388

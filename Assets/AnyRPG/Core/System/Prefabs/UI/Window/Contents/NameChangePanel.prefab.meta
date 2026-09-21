@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f1522bcc56d2d5a4fb0625113281b6cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/NameChangePanel.prefab
+  uploadId: 932388

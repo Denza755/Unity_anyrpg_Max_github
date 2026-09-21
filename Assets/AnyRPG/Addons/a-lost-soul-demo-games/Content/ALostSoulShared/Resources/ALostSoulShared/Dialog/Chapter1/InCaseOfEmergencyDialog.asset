@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: InCaseOfEmergencyDialog
+  m_EditorClassIdentifier: 
+  resourceName: In Case Of Emergency
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'The Fountain of Time can send you back safely?
+
+
+      That really
+      is good news.'
+    nextOption: But I can't go anywhere without a body...
+  - startTime: 0
+    showTime: 10
+    description: 'Today is definitely your lucky day then.
+
+
+      At the top of
+      that big pyramid behind me is a Body-Matic 2000!
+
+'
+    nextOption: A What?
+  - startTime: 0
+    showTime: 10
+    description: 'It used to be used for creating temporary bodies to test the soul
+      binding process.
+
+
+      We haven''t needed to do that for millenia though.
+
+'
+    nextOption: Does It Still Work?
+  - startTime: 0
+    showTime: 10
+    description: 'I have no idea.
+
+
+      Go to the top of the pyramid and see if
+      you can get a body from the Body-Matic 2000.'
+    nextOption: Thanks, I'll try anything at this point...
+  prerequisiteConditions: []

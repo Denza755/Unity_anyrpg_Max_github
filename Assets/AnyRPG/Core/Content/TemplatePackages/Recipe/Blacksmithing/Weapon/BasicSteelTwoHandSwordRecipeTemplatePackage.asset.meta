@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 365c5ef6cff895f4fa155c8bc88d24df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/BasicSteelTwoHandSwordRecipeTemplatePackage.asset
+  uploadId: 932388

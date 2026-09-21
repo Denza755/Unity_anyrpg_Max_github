@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d00047f3c3d907945bd8c3933c0cb27e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Character/HumanMaleLightArmorUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

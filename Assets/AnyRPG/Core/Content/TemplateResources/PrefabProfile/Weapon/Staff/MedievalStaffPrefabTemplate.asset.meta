@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 026b2418012e88b4ab98e448db33cb08
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Weapon/Staff/MedievalStaffPrefabTemplate.asset
+  uploadId: 932388

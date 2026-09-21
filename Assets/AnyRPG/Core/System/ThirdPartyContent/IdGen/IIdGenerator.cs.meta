@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 93e32eac8a87c3641be6afcb98e8f447
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/ThirdPartyContent/IdGen/IIdGenerator.cs
+  uploadId: 932388

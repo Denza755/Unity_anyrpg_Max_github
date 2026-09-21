@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e24cfe4805df0b43bd34a03a6ff799d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Armor/Leather/RedLeatherArmorTemplatePackage.asset
+  uploadId: 932388

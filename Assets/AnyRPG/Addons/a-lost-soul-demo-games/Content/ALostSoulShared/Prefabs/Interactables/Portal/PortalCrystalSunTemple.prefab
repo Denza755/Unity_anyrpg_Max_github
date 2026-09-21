@@ -1,0 +1,249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3567950616678147828
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 71209578709632360, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: m_Name
+      value: PortalCrystalManaSeal 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 387988273440421675, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: prefabProfileName
+      value: Blue White Energy Crystal
+      objectReference: {fileID: 0}
+    - target: {fileID: 533912281903066794, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: teleportProps.abilityName
+      value: Teleport Sun Temple
+      objectReference: {fileID: 0}
+    - target: {fileID: 533912281903066794, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: teleportProps.prerequisiteConditions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 533912281903066794, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: teleportProps.prerequisiteConditions.Array.data[0].visitZonePrerequisites.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 533912281903066794, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: teleportProps.prerequisiteConditions.Array.data[0].visitZonePrerequisites.Array.data[0].prerequisiteName
+      value: Sun Temple
+      objectReference: {fileID: 0}
+    - target: {fileID: 1406491935982959926, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: teleportProps.abilityName
+      value: Teleport Sun Temple
+      objectReference: {fileID: 0}
+    - target: {fileID: 1406491935982959926, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: teleportProps.prerequisiteConditions.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1406491935982959926, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: teleportProps.prerequisiteConditions.Array.data[0].visitZonePrerequisites.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1406491935982959926, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: teleportProps.prerequisiteConditions.Array.data[0].visitZonePrerequisites.Array.data[0].prerequisiteName
+      value: SunTemple
+      objectReference: {fileID: 0}
+    - target: {fileID: 6579520701190481806, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: namePlateController.displayName
+      value: Sun Temple
+      objectReference: {fileID: 0}
+    - target: {fileID: 7404431553212048638, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: prefabProfileName
+      value: Blue White Energy Crystal
+      objectReference: {fileID: 0}
+    - target: {fileID: 7404431553212048638, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: checkOptionsToSpawn
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7404431553212048638, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: namePlateProps.displayName
+      value: Sun Temple
+      objectReference: {fileID: 0}
+    - target: {fileID: 7404431553212048638, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: namePlateController.displayName
+      value: Sun Temple
+      objectReference: {fileID: 0}
+    - target: {fileID: 7610391115301947458, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: m_Name
+      value: PortalCrystalSunTemple
+      objectReference: {fileID: 0}
+    - target: {fileID: 7783099347472071169, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: hasNameplate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7783099347472071169, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: namePlateProps.displayName
+      value: Sun Temple
+      objectReference: {fileID: 0}
+    - target: {fileID: 9137322816972961399, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9137322816972961399, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9137322816972961399, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9137322816972961399, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9137322816972961399, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9137322816972961399, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9137322816972961399, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9137322816972961399, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9137322816972961399, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9137322816972961399, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9137322816972961399, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 1706649207101061981, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2373178023980924079}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 73e63f3122a74cc4f9bc5a3297cd0177, type: 3}
+--- !u!4 &2750806878023409065 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1706649207101061981, guid: 73e63f3122a74cc4f9bc5a3297cd0177,
+    type: 3}
+  m_PrefabInstance: {fileID: 3567950616678147828}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5172160390847285268
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2750806878023409065}
+    m_Modifications:
+    - target: {fileID: 7433205127343322299, guid: 9431cb7796f75c347abaff90ae6b3b8c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433205127343322299, guid: 9431cb7796f75c347abaff90ae6b3b8c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433205127343322299, guid: 9431cb7796f75c347abaff90ae6b3b8c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433205127343322299, guid: 9431cb7796f75c347abaff90ae6b3b8c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433205127343322299, guid: 9431cb7796f75c347abaff90ae6b3b8c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433205127343322299, guid: 9431cb7796f75c347abaff90ae6b3b8c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433205127343322299, guid: 9431cb7796f75c347abaff90ae6b3b8c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433205127343322299, guid: 9431cb7796f75c347abaff90ae6b3b8c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433205127343322299, guid: 9431cb7796f75c347abaff90ae6b3b8c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433205127343322299, guid: 9431cb7796f75c347abaff90ae6b3b8c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7810328082880491009, guid: 9431cb7796f75c347abaff90ae6b3b8c,
+        type: 3}
+      propertyPath: m_Name
+      value: CrystalTallBlue
+      objectReference: {fileID: 0}
+    - target: {fileID: 7810328082880491009, guid: 9431cb7796f75c347abaff90ae6b3b8c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9431cb7796f75c347abaff90ae6b3b8c, type: 3}
+--- !u!4 &2373178023980924079 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7433205127343322299, guid: 9431cb7796f75c347abaff90ae6b3b8c,
+    type: 3}
+  m_PrefabInstance: {fileID: 5172160390847285268}
+  m_PrefabAsset: {fileID: 0}

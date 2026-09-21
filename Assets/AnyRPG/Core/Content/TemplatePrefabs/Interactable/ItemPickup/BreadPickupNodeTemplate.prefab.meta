@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 78638ace2d754ba47857015252d9187e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/Interactable/ItemPickup/BreadPickupNodeTemplate.prefab
+  uploadId: 932388

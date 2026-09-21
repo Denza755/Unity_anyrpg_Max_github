@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aec6b659c5e3cd14d87397fef9ee8ccb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Tool/SewingNeedleRightPrefabTemplate.asset
+  uploadId: 932388

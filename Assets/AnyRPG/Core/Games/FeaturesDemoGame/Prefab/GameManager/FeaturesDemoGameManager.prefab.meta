@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bc279f25aecaf1d458fb06ce740ea524
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/GameManager/FeaturesDemoGameManager.prefab
+  uploadId: 932388

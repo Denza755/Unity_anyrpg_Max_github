@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c6fb037bfe8c6a48af6e84f0c328550
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Point/Hit/BlueHitEffect.prefab
+  uploadId: 932388

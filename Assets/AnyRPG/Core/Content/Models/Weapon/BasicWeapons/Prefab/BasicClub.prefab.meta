@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 973ca5f9a95366f499ce00dd2fdba01a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicClub.prefab
+  uploadId: 932388

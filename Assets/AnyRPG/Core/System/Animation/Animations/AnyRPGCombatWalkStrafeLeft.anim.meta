@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7b72881f56b53542a5bda3fe1d4b10b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Animation/Animations/AnyRPGCombatWalkStrafeLeft.anim
+  uploadId: 932388

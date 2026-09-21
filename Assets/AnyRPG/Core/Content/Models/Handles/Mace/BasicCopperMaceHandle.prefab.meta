@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 855aa82da09f0824cb65918c602d1f1e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Mace/BasicCopperMaceHandle.prefab
+  uploadId: 932388

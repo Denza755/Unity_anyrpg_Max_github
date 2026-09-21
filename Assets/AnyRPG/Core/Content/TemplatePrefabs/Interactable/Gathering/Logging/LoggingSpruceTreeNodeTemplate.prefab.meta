@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6616910aed93ae44c84c9a19bc79202e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/Interactable/Gathering/Logging/LoggingSpruceTreeNodeTemplate.prefab
+  uploadId: 932388

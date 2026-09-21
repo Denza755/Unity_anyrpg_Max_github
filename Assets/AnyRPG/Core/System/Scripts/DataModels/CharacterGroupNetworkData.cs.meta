@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0a21c140b172b474ab66d332688413fa
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/DataModels/CharacterGroupNetworkData.cs
+  uploadId: 932388

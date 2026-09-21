@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c19052c126c32ef44960aed9e0b75c89
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Item/Crafting/Alchemy/VioletDyeItem.asset
+  uploadId: 932388

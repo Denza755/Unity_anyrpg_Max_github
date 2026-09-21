@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 05bbf990d2ba56c41b3afb2676dc6385
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/PetPreviewWindow.prefab
+  uploadId: 932388

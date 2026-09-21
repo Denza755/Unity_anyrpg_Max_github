@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9cc2e52ed0118db47a3544bcce5628db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Material/LowPolyWeaponsCopperMaterial.mat
+  uploadId: 932388

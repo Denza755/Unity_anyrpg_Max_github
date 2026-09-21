@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c38d92b1ca6018c4281a21fd346e7244
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/GameManager/UIManagers/MapManager.cs
+  uploadId: 932388

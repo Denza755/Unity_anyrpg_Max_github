@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 86d3e04a735138a4fb96f332ca707f6b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Prop/Crafting/Blacksmithing/CopperIngotPrefabTemplate.asset
+  uploadId: 932388

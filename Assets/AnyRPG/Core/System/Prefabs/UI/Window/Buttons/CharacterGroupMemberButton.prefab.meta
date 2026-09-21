@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 20fec7dbeb77a574db02136b6e17f59d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/CharacterGroupMemberButton.prefab
+  uploadId: 932388

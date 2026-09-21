@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b3841be8b1991e45a9b6131b09bc517
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Interactable/Trainer/ThiefClassTrainerUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

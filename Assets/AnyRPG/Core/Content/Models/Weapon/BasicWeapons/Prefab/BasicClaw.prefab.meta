@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8382adc5917a4fc4cab5529a92667477
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicClaw.prefab
+  uploadId: 932388

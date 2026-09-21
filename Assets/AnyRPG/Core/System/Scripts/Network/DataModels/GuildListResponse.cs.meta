@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0a93e7914903af8499f722a53aa43f32
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Network/DataModels/GuildListResponse.cs
+  uploadId: 932388

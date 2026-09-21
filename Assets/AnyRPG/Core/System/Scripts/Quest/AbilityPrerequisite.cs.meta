@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3da1390e6e70b7a4db61020e51487549
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Quest/AbilityPrerequisite.cs
+  uploadId: 932388

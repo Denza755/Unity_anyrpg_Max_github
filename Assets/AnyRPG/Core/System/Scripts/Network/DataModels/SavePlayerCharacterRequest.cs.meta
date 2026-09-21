@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f3aafdc7d8ccb6b4396dded07313b987
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Network/DataModels/SavePlayerCharacterRequest.cs
+  uploadId: 932388

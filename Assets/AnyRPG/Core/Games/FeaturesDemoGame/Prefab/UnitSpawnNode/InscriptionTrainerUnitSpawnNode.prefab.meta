@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2064514849503b04cad8b3112c3e321a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/InscriptionTrainerUnitSpawnNode.prefab
+  uploadId: 932388

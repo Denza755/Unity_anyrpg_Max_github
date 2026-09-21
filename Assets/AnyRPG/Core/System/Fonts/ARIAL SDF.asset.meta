@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b56fdc0e4d9a8fb4c8bca10ed7fd6201
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Fonts/ARIAL SDF.asset
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a94d8ee735daf3b4bb7524c49c2a053e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Equipment/Cloth/ClothBeltBrownPrefab.asset
+  uploadId: 932388

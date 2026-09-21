@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4f754e207e38c9c44acf8d56a1f03995
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Abilities/Effect/AmountEffectProperties.cs
+  uploadId: 932388

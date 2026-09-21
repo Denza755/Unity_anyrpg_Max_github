@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 415e1b22af84e9940b1724c17e19db00
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Tool/JewelryHammerPrefabTemplate.asset
+  uploadId: 932388

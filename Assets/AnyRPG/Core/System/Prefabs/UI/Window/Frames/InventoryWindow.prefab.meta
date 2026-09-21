@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea1577346aeb7224ba207e047dc263f0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/InventoryWindow.prefab
+  uploadId: 932388

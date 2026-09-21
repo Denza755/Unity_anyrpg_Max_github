@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b269dc1848a24f346882c4ee3480ef59
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AbilityEffect/CaptureBeastInstantEffectTemplate.asset
+  uploadId: 932388

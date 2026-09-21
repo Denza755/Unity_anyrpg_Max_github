@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d67e3801170622341be03526c0ae62e0, type: 3}
+  m_Name: WarriorCharacterClass
+  m_EditorClassIdentifier: 
+  resourceName: Warrior
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: Warriors use their strength to inflict large amounts of damage on
+    enemies or protect allies.
+  useRegionalDescription: 0
+  resourceDescriptionProfile: Warrior Class
+  optionalOverride: 0
+  newGameOption: 1
+  equipmentNames:
+  - Initiates Plate Armor
+  - Initiates Plate Pauldrons
+  - Initiates Plate Legs
+  - Initiates Plate Gloves
+  - Initiates Plate Boots
+  - Initiates Plate Bracers
+  capabilities:
+    abilityNames:
+    - Double Attack
+    - Threatening Strike
+    - Berserker Strikes
+    traitNames:
+    - Tough As Nails
+    - RageAHolic
+    armorClassList: []
+    weaponSkills: []
+  unitTypeCapabilities:
+  - unitTypes:
+    - Humanoid
+    capabilities:
+      abilityNames:
+      - Hard Kick
+      traitNames: []
+      armorClassList:
+      - Cloth
+      - Leather
+      - Plate
+      weaponSkills:
+      - Two Hand Sword
+      - One Hand Sword
+      - Staff
+      - Shield
+      - Two Hand Mace
+      - One Hand Mace
+      - One Hand Axe
+      - Two hand Axe
+      - Dagger
+      - Bow
+  primaryStats:
+  - statName: Strength
+    budgetPerLevel: 5
+    primaryToSecondaryConversion:
+    - secondaryStatType: 5
+      conversionRatio: 0.5
+      ratedConversion: 0
+    - secondaryStatType: 6
+      conversionRatio: 1
+      ratedConversion: 0
+    primaryToResourceConversion: []
+    regen:
+    - powerResource: Health
+      percentPerTick: 1
+      amountPerTick: 0
+      combatPercentPerTick: 0
+      combatAmountPerTick: 0
+  - statName: Agility
+    budgetPerLevel: 0
+    primaryToSecondaryConversion:
+    - secondaryStatType: 2
+      conversionRatio: 0.5
+      ratedConversion: 1
+    primaryToResourceConversion: []
+    regen: []
+  powerResources:
+  - Rage
+  validPetTypes: []

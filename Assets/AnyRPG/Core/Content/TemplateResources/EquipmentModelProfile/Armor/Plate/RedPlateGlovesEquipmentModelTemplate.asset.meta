@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a17c08f537928848aa6885ebec1d5f3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/EquipmentModelProfile/Armor/Plate/RedPlateGlovesEquipmentModelTemplate.asset
+  uploadId: 932388

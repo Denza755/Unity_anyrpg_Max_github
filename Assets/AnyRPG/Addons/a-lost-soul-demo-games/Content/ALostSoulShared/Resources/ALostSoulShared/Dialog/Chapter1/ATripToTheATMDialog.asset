@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: ATripToTheATMDialog
+  m_EditorClassIdentifier: 
+  resourceName: A Trip To The ATM
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'It will take a while to analyze the data from your PurpleTooth
+      transmitter, but if my suspicions are correct, things are not looking good.
+
+
+      I''ve
+      re-activated an old ATM for you to train with so you can hone your skills.'
+    nextOption: What's an ATM?
+  - startTime: 0
+    showTime: 10
+    description: An Automated Tellemonster Machine.
+    nextOption: That sounds dangerous
+  - startTime: 0
+    showTime: 10
+    description: 'Exactly the point!
+
+
+      That body is a combat model, and we
+      used to use the ATMs to verify they were in good shape.
+
+
+      If the path
+      ahead is as difficult as I think, you''ll need all the practice you can get...'
+    nextOption: Gulp
+  - startTime: 0
+    showTime: 10
+    description: 'Head up to the top of the pyramid and you should see a new time
+      crystal near the Body-Matic 2000.
+
+
+      Take it to the Arena of trials and
+      get started on your training.'
+    nextOption: Ok, I'll be back... I hope...
+  prerequisiteConditions: []

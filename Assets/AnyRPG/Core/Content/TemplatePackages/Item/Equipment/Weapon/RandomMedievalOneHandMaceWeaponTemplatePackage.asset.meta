@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d82c39641f536034da4ff467ee5c308d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Weapon/RandomMedievalOneHandMaceWeaponTemplatePackage.asset
+  uploadId: 932388

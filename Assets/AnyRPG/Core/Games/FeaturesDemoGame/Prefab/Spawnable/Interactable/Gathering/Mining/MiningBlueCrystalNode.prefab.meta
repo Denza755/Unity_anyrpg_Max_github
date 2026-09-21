@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b1c0641c67df9574fa94be06a426b3ff
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/Spawnable/Interactable/Gathering/Mining/MiningBlueCrystalNode.prefab
+  uploadId: 932388

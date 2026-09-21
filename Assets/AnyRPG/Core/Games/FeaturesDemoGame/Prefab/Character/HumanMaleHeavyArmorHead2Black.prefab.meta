@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d270c0661886a1246b4578ea1772d3c6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/Character/HumanMaleHeavyArmorHead2Black.prefab
+  uploadId: 932388

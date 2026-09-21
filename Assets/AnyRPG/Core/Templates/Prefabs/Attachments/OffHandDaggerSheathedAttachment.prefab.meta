@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ae3a29cd58f7f3f4c9a1c203145a4b71
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Templates/Prefabs/Attachments/OffHandDaggerSheathedAttachment.prefab
+  uploadId: 932388

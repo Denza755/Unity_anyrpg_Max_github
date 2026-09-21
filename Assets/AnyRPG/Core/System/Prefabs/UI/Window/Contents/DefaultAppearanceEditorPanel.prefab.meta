@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f33bbdcefe53dda47aed5bfe81a76fa4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/DefaultAppearanceEditorPanel.prefab
+  uploadId: 932388

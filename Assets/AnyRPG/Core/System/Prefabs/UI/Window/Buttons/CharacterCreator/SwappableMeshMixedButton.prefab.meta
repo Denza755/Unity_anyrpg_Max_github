@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 790e02d25bc9c224abb2f8a04dc441ac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/CharacterCreator/SwappableMeshMixedButton.prefab
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b163976c97d00a47bde453dc1ff0798
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Character/ModularRPGCharacters/Prefab/human_male.prefab
+  uploadId: 932388

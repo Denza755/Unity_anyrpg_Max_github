@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c2b4fff04a31801419d1cc5ae826e981
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Weapon/BasicCopperStaffWeaponTemplatePackage.asset
+  uploadId: 932388

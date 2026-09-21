@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 127f9d6e30fbd644882440aa59a99f29
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/Cameras/MainCamera.prefab
+  uploadId: 932388

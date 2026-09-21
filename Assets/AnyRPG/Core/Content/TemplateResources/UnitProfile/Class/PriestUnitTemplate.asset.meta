@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f640f64a1530e9f4eb59c04ec89d1650
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/UnitProfile/Class/PriestUnitTemplate.asset
+  uploadId: 932388

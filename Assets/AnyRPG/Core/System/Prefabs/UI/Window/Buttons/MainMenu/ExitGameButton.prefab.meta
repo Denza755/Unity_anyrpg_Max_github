@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 203f1fb938e992a458a5f5a5a475fb9f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/MainMenu/ExitGameButton.prefab
+  uploadId: 932388

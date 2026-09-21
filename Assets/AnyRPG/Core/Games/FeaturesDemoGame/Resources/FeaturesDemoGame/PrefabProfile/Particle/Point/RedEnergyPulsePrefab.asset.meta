@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41d7cf1def1bba04f8e31378aba0d877
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Particle/Point/RedEnergyPulsePrefab.asset
+  uploadId: 932388

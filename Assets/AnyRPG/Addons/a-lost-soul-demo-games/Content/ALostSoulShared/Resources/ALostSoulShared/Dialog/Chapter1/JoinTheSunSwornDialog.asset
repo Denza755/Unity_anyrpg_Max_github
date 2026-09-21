@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: JoinTheSunSwornDialog
+  m_EditorClassIdentifier: 
+  resourceName: Join The SunSworn
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: Are you ready to join the SunSworn?
+    nextOption: I am ready
+  - startTime: 0
+    showTime: 10
+    description: Then take the oath of servitude
+    nextOption: Um...
+  - startTime: 0
+    showTime: 10
+    description: 'Repeat after me...
+
+
+      I promise...'
+    nextOption: I promise
+  - startTime: 0
+    showTime: 10
+    description: ...to serve the priestess...
+    nextOption: to serve the priestess
+  - startTime: 0
+    showTime: 10
+    description: ...and bring her cheese whenever she wants...
+    nextOption: ???
+  - startTime: 0
+    showTime: 10
+    description: 'I know our oath is a little strange...
+
+
+      Each priestess gets
+      to choose a special condition for membership.
+
+
+      Ours current Priestess
+      has interesting tastes.'
+    nextOption: Fine, and bring her cheese whenever she wants
+  - startTime: 0
+    showTime: 10
+    description: 'Congratulations.
+
+
+      You are now eligible to join.'
+    nextOption: Let's do this!
+  prerequisiteConditions: []

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: EngineVoiceProfilesTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: Engine Voice Profiles
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources:
+  - {fileID: 11400000, guid: 920043b36fb1d4240aa8946cdf63cd35, type: 2}
+  - {fileID: 11400000, guid: 68a09f989e710a94e84139670b05e5c9, type: 2}
+  - {fileID: 11400000, guid: df9b90223ac81b24c94781f2ed8b5fe3, type: 2}
+  - {fileID: 11400000, guid: 16f01ac5a19815d448316ad5e5b6c2ff, type: 2}
+  - {fileID: 11400000, guid: c1c58dd2011d8e944a0e17b85273dc6c, type: 2}
+  - {fileID: 11400000, guid: 0fa1eb7ad1f299e4481c7aba65be3ea9, type: 2}
+  - {fileID: 11400000, guid: 206afb891e5781a4892a4412fbdc7324, type: 2}
+  prefabs: []
+  dependencies: []

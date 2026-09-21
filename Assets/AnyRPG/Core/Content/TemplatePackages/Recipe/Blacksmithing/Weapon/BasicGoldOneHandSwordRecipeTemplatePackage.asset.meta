@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fcb874e38502a534ebe40a942479f1c7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/BasicGoldOneHandSwordRecipeTemplatePackage.asset
+  uploadId: 932388

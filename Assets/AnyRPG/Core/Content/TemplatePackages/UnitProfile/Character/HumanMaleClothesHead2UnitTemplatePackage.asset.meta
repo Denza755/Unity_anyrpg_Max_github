@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2a1664a8b5be1e4a8f3a801d4a26a0d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/UnitProfile/Character/HumanMaleClothesHead2UnitTemplatePackage.asset
+  uploadId: 932388

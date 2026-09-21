@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 906a47840c2421d4eaa12e023f1f9c80
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AnimationProfile/Ability/AnimatedAttack/Any/DoubleAttackAnimationTemplate.asset
+  uploadId: 932388

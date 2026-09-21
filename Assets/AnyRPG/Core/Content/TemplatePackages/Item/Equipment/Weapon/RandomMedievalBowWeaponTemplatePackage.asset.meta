@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b4783ed40040c44b8b444660c359379
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Weapon/RandomMedievalBowWeaponTemplatePackage.asset
+  uploadId: 932388

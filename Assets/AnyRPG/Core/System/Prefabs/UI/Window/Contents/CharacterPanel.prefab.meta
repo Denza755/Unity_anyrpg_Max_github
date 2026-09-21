@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cf9bdadd3a8eea7429a08f1329015792
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/CharacterPanel.prefab
+  uploadId: 932388

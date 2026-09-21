@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f3a1bab5e9bf1184d9ee6bb2585d2773
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/CharacterCreator/MaleButton.prefab
+  uploadId: 932388

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: GrayWoodShieldWeaponTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: Gray Wood Shield Weapon
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources:
+  - {fileID: 11400000, guid: 91b7faf05dacb2b48a9aa554c9d6dfe0, type: 2}
+  - {fileID: 11400000, guid: c7413c4a828f06c488631eeb399efa0d, type: 2}
+  - {fileID: 11400000, guid: 3a8c39d3e9d80a44bb809a7f9a0fb3ab, type: 2}
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: 0715bbfeb07c8eb47ab2a58cced00009, type: 2}
+  - {fileID: 11400000, guid: 252ca395929968e43820806aecfe6a2d, type: 2}

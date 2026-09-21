@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a86a2843f8ac0244c8e3a8bfcc0540fa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/LootTable/ItemPickup/CheesePickupNodeLoot.asset
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a4c530a43d21b34887af47d30b72787
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Images/Textures/128/Materials/Straw128.mat
+  uploadId: 932388

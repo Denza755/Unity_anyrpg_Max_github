@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9a90cf211862694478cb4eac99ba90eb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/PriestClassTrainerUnitSpawnNode.prefab
+  uploadId: 932388

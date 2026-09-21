@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a03ad32ca7dbbb749878a79ae4cb1937, type: 3}
+  m_Name: PlateArmorVendor
+  m_EditorClassIdentifier: 
+  resourceName: Plate Armor
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  vendorItems:
+  - itemName: Initiates Plate Boots
+    quantity: 0
+    unlimited: 1
+  - itemName: Initiates Plate Armor
+    quantity: 0
+    unlimited: 1
+  - itemName: Initiates Plate Gloves
+    quantity: 0
+    unlimited: 1
+  - itemName: Initiates Plate Helm
+    quantity: 0
+    unlimited: 1
+  - itemName: Initiates Plate Legs
+    quantity: 0
+    unlimited: 1
+  - itemName: Initiates Plate Bracers
+    quantity: 0
+    unlimited: 1
+  - itemName: Initiates Plate Girdle
+    quantity: 0
+    unlimited: 1
+  - itemName: Initiates Plate Pauldrons
+    quantity: 0
+    unlimited: 1
+  - itemName: Novices Plate Armor
+    quantity: 0
+    unlimited: 1
+  - itemName: Novices Plate Boots
+    quantity: 0
+    unlimited: 1
+  - itemName: Novices Plate Bracers
+    quantity: 0
+    unlimited: 1
+  - itemName: Novices Plate Girdle
+    quantity: 0
+    unlimited: 1
+  - itemName: Novices Plate Gloves
+    quantity: 0
+    unlimited: 1
+  - itemName: Novices Plate Helm
+    quantity: 0
+    unlimited: 1
+  - itemName: Novices Plate Legs
+    quantity: 0
+    unlimited: 1
+  - itemName: Novices Plate Pauldrons
+    quantity: 0
+    unlimited: 1
+  - itemName: Apprentices PlateArmor
+    quantity: 0
+    unlimited: 1
+  - itemName: Apprentices PlateBoots
+    quantity: 0
+    unlimited: 1
+  - itemName: Apprentices PlateBracers
+    quantity: 0
+    unlimited: 1
+  - itemName: Apprentices PlateGirdle
+    quantity: 0
+    unlimited: 1
+  - itemName: Apprentices PlateGloves
+    quantity: 0
+    unlimited: 1
+  - itemName: Apprentices PlateHelm
+    quantity: 0
+    unlimited: 1
+  - itemName: Apprentices PlateLegs
+    quantity: 0
+    unlimited: 1
+  - itemName: Apprentices PlatePauldrons
+    quantity: 0
+    unlimited: 1

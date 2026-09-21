@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a4317bbcce1a6bf4ab4ddcd832abb2c2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/UnitProfile/Vendor/LeatherworkingSuppliesVendorUnit.asset
+  uploadId: 932388

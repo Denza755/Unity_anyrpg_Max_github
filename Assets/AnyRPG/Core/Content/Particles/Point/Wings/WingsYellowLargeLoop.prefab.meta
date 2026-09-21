@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7a1d5b970c866f48a737e31481e2f5c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Point/Wings/WingsYellowLargeLoop.prefab
+  uploadId: 932388

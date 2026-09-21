@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0c576dcbaa2ca54dab75ba44324d5ad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/Crystals/Materials/CrystalRed.mat
+  uploadId: 932388

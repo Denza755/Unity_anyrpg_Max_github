@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5b3f052512afad458602d4a5fce6948
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/MedievalProps/Material/mat_bookshelf_wood.mat
+  uploadId: 932388

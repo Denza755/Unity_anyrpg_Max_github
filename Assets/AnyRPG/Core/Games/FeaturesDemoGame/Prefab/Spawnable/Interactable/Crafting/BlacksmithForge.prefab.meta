@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bafc97b957281544f8e831759bc676ed
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/Spawnable/Interactable/Crafting/BlacksmithForge.prefab
+  uploadId: 932388

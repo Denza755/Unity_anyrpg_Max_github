@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 393915af48726ef47887d7c7f45bc9e8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicCopperMace.prefab
+  uploadId: 932388

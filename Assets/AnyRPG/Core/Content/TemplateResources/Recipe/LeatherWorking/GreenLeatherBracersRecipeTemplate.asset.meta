@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a60a7124d1690f498cb888858821fb8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Recipe/LeatherWorking/GreenLeatherBracersRecipeTemplate.asset
+  uploadId: 932388

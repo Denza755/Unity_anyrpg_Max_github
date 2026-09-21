@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 77e7c74e45ed4674eb042bbb891a49df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Leatherworking/BlueLeatherPantsRecipeTemplatePackage.asset
+  uploadId: 932388

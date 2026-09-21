@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fea1f5ab1c01e314d84936270f46e245
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Point/Wings/WingsYellowLoop.mat
+  uploadId: 932388

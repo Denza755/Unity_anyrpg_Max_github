@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2803cfda2238715449a72a39ae4c322a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Recipe/BlackSmithing/Armor/GoldPlateArmorRecipe.asset
+  uploadId: 932388

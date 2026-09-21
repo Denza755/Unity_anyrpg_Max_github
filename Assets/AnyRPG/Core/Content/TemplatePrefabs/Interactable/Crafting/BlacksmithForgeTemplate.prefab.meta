@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d42ca4272a88561418610ae843d899f2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/Interactable/Crafting/BlacksmithForgeTemplate.prefab
+  uploadId: 932388

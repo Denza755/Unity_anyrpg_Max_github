@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0f15d692f7c26fb42b31a5e4bc275d5c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Item/Equipment/Armor/Leather/YellowLeatherGlovesItem.asset
+  uploadId: 932388

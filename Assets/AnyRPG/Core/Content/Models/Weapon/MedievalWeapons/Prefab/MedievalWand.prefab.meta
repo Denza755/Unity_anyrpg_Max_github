@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c1b07e1af90a84f4283f696c7e4d1dbd
+labels:
+- Weapon
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/MedievalWeapons/Prefab/MedievalWand.prefab
+  uploadId: 932388

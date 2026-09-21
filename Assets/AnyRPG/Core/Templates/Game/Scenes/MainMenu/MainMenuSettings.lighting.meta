@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8dacf9ccaffc3394f883eb527a37e3ac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Templates/Game/Scenes/MainMenu/MainMenuSettings.lighting
+  uploadId: 932388

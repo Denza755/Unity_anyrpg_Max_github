@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a17ebe168b4f124fa3e870190192dca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Images/Skybox/Space/SpaceSouth.mat
+  uploadId: 932388

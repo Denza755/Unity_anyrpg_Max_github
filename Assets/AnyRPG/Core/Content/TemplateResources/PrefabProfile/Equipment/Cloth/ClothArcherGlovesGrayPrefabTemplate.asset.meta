@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dccba1b9b49346844b5f227c485af8cd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Equipment/Cloth/ClothArcherGlovesGrayPrefabTemplate.asset
+  uploadId: 932388

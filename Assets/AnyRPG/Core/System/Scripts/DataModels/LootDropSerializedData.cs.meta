@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4a86931fdfce604489eb21fbb85a05b0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/DataModels/LootDropSerializedData.cs
+  uploadId: 932388

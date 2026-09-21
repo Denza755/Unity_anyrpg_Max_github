@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1a5a21e23899aee4fbad4427f0e74120
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Fire/RingOfFireEffect.prefab
+  uploadId: 932388

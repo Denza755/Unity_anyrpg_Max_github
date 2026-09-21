@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 367ca9df8bd1fcb459922e845fc305fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Materials/GroundCircles/MovementTargetCircle.mat
+  uploadId: 932388

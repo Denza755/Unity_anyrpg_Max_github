@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d7c491db23a8dd4f92f6dc444977dee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AudioProfile/SoundEffect/Footsteps/FootstepHitsLeavesAudioTemplate.asset
+  uploadId: 932388

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: ARedDragonScaleDialog
+  m_EditorClassIdentifier: 
+  resourceName: A Red Dragon Scale
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: Wow, is that a red dragon scale in your hand?
+    nextOption: Yes, I was going to ask you about it
+  - startTime: 0
+    showTime: 10
+    description: 'And you defeated a dragon to get it?
+
+
+      And you are still alive?'
+    nextOption: Where did that thing come from anyway?
+  - startTime: 0
+    showTime: 10
+    description: 'Sorry about that, I forgot the ATM was still configured to dispense
+      those.
+
+
+      However, you have earned the respect of the dragon by defeating it.
+
+
+      You can now ride it any time you want.'
+    nextOption: And it won't bite me?
+  - startTime: 0
+    showTime: 10
+    description: No, dragons are very honorable and will serve anyone who can best
+      them for life.
+    nextOption: So how do I call it?
+  - startTime: 0
+    showTime: 10
+    description: 'Wrap your hands around the scale, and use it as a whistle.
+
+
+      Dragons can hear the whistle created by their own scales from anywhere.'
+    nextOption: Thanks, I'll try it now!
+  prerequisiteConditions:
+  - requireAny: 0
+    reverseMatch: 0
+    levelPrerequisites: []
+    characterClassPrerequisites: []
+    questPrerequisites:
+    - prerequisiteName: A Red Dragon Scale
+      requireComplete: 0
+      requireTurnedIn: 0
+    dialogPrerequisites: []
+    visitZonePrerequisites: []
+    tradeSkillPrerequisites: []
+    abilityPrerequisites: []
+    factionPrerequisites: []

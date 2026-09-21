@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f31a7a31c19d3444a2bdf4241c16202
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/BasicSilverClawRecipeTemplatePackage.asset
+  uploadId: 932388

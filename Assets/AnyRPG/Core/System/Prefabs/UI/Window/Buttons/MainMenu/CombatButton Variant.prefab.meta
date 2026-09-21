@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2bb97aaebe8f6d044b2ac64032780720
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/MainMenu/CombatButton
+    Variant.prefab
+  uploadId: 932388

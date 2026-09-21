@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58e44fb37efa40745b40c90d8a375352
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/Spawnable/Interactable/Gathering/Herbalism/HerbalismFlaxNode.prefab
+  uploadId: 932388

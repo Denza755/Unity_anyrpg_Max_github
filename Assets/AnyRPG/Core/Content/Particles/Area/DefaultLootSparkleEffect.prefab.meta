@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec8238b560e37054ca86a83bb2e15a7b
+timeCreated: 1469629404
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Area/DefaultLootSparkleEffect.prefab
+  uploadId: 932388

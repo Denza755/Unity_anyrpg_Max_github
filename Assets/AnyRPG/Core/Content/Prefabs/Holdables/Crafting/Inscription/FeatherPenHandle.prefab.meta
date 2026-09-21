@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7ca0f851d2efb541a3ad8e900de97d6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Prefabs/Holdables/Crafting/Inscription/FeatherPenHandle.prefab
+  uploadId: 932388

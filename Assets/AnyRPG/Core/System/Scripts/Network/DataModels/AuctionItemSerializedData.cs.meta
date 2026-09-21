@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 08f617dec8a37db44ae09c5e38c4b310
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Network/DataModels/AuctionItemSerializedData.cs
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3eb84f73958bcd488b70d24b627f60d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/CharacterClass/ThiefCharacterClassTemplate.asset
+  uploadId: 932388

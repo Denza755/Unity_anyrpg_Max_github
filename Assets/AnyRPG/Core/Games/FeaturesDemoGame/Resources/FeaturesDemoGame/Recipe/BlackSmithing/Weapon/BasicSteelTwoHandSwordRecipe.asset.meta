@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 830d8b10f4c84a340a8023a6eca721a5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Recipe/BlackSmithing/Weapon/BasicSteelTwoHandSwordRecipe.asset
+  uploadId: 932388

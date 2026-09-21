@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5558c917a78c21d47a7346a27caf9f58
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/ChatCommand/SetLevelCommand.asset
+  uploadId: 932388

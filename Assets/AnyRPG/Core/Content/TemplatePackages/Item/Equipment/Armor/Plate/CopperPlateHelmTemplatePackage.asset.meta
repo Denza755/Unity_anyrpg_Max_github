@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7334f9942052f4a4e9d54645dbf78024
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Armor/Plate/CopperPlateHelmTemplatePackage.asset
+  uploadId: 932388

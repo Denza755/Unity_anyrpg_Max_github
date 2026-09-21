@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 18b97297861875e4a9d9b7d9803d8077
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/Interactable/Gathering/Herbalism/HerbalismWhiteFlowerNodeTemplate.prefab
+  uploadId: 932388

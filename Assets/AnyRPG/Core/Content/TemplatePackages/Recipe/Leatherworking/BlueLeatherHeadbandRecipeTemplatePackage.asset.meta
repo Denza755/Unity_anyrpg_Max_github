@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1becd2de52bb38b4f8aa92a63c1a6760
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Leatherworking/BlueLeatherHeadbandRecipeTemplatePackage.asset
+  uploadId: 932388

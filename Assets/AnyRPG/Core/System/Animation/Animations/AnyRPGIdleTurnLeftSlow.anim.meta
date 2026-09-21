@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ed02556e3b66f0459598e589154fb95
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Animation/Animations/AnyRPGIdleTurnLeftSlow.anim
+  uploadId: 932388

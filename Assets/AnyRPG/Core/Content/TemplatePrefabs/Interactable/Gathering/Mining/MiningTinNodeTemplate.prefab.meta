@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 397e2ebdc5824694c8575028673257ac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/Interactable/Gathering/Mining/MiningTinNodeTemplate.prefab
+  uploadId: 932388

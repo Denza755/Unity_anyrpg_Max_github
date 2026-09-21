@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aaccbf55e25c9ea49a4f0529828bd8e6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicSteelMace.prefab
+  uploadId: 932388

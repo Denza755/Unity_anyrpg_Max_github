@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac7175248d1b00546962b8870af52a49
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Resources/AppearanceEditorProfile/SwappableMeshEditor.asset
+  uploadId: 932388

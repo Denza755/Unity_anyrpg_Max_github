@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 916ffa0f68812bb4a96e3670d1114594
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/GameManager/AccountManager/AuthenticationHelpers.cs
+  uploadId: 932388

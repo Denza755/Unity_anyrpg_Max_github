@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8032b5a9175dc5e4cb753df3b3340657
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Directional/GroundShock.prefab
+  uploadId: 932388

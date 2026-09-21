@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a9a5aea6cfdf1f48b97836e33ed7867
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Item/Crafting/Cooking/MilkItemTemplate.asset
+  uploadId: 932388

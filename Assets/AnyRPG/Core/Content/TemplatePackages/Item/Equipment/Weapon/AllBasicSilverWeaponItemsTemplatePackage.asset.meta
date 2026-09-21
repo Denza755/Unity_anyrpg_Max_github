@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 792e6c0c2c8aeda428e7a0fa1f5ab332
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Weapon/AllBasicSilverWeaponItemsTemplatePackage.asset
+  uploadId: 932388

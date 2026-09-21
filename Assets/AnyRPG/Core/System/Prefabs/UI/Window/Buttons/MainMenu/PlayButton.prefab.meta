@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f03d77492da9b9040aa6e65a37888e42
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/MainMenu/PlayButton.prefab
+  uploadId: 932388

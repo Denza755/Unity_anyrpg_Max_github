@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 393427b596c33eb45ab13b75fbb07120
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Interactable/Trainer/RangerSpecializationTrainerUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

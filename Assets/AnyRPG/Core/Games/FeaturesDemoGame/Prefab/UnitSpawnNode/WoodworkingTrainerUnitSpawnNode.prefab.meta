@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6673366e450f26447a462c68b0895a1e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/WoodworkingTrainerUnitSpawnNode.prefab
+  uploadId: 932388

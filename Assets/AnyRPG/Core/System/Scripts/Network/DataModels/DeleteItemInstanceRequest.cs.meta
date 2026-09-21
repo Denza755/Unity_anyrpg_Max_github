@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 95c3950c0ca8ddc47bd5dc3cc146dd65
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Network/DataModels/DeleteItemInstanceRequest.cs
+  uploadId: 932388

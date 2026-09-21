@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d0a4e914a78de2346919252ec34b2c83
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Prop/PotionGreenDrinkableHandle.prefab
+  uploadId: 932388

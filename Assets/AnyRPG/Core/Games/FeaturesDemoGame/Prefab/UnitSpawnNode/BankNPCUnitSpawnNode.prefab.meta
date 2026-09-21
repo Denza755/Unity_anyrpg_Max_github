@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a4cb1f2d6408e8c4a9d3bfcd1929f4d9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/BankNPCUnitSpawnNode.prefab
+  uploadId: 932388

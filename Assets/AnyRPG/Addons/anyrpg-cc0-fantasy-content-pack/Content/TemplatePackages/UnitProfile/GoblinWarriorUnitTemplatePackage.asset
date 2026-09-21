@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: GoblinWarriorUnitTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: Goblin Warrior
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources:
+  - {fileID: 11400000, guid: ceabf110729e9eb45abf9da4b938e6c8, type: 2}
+  - {fileID: 11400000, guid: 091d70ba3b60c444ebd551c480ff6f54, type: 2}
+  - {fileID: 11400000, guid: 16f01ac5a19815d448316ad5e5b6c2ff, type: 2}
+  prefabs:
+  - {fileID: 2992051129023702445, guid: 5f78e6b019023644696473e0642f9800, type: 3}
+  dependencies: []

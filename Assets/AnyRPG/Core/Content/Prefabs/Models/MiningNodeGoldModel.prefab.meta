@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1e22070ba3d5bbb40963233b28566534
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Prefabs/Models/MiningNodeGoldModel.prefab
+  uploadId: 932388

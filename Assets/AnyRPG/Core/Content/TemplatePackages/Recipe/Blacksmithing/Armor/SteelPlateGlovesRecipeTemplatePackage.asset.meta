@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b1333c9f4093c242859f7f9e3b5f108
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Armor/SteelPlateGlovesRecipeTemplatePackage.asset
+  uploadId: 932388

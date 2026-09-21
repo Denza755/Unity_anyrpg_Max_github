@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a7d7030b49854f44fb62f8b4dc0c5ee4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/EnvironmentAreas/LavaPond.prefab
+  uploadId: 932388

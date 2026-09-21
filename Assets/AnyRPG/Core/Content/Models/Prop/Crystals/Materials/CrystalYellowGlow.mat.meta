@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d94d0c27a5f0ea74c9bffc657115c054
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/Crystals/Materials/CrystalYellowGlow.mat
+  uploadId: 932388

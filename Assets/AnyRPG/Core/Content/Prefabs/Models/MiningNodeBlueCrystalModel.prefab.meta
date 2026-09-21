@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c0ef4bf6454158a4fb286835fce611cc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Prefabs/Models/MiningNodeBlueCrystalModel.prefab
+  uploadId: 932388

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7f2ef4c68ea0a9458250ff77379cc9e, type: 3}
+  m_Name: LightningChannelerSpecialization
+  m_EditorClassIdentifier: 
+  resourceName: Lightning Channeler
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: Lightning Channelers are specialized in channeling lightning magic.
+  useRegionalDescription: 1
+  resourceDescriptionProfile: 
+  newGameOption: 1
+  equipmentNames:
+  - Yellow Gem Staff
+  - Ancient Cloth Robe
+  - Ancient Cloth Hood
+  - Ancient Cloth Pants
+  - Ancient Cloth Shoes
+  classNames:
+  - Channeler
+  capabilities:
+    abilityNames:
+    - Lightning Tether
+    - Thunderstorm
+    traitNames:
+    - Elemental Mastery
+    armorClassList: []
+    weaponSkills: []
+  weaponSkillNames: []
+  abilityNames: []
+  traitNames: []
+  primaryStats: []
+  powerResources: []
+  powerEnhancerStats: []

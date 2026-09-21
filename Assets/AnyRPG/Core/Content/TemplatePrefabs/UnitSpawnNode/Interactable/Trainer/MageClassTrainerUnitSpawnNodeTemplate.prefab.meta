@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 135b910511b147e46b7b1340922a4ba4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Interactable/Trainer/MageClassTrainerUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

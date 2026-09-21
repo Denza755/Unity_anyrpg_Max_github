@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 222f52acd7a59e44ebabc4e9d38faaf1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Tool/MedievalToolSaw2PrefabTemplate.asset
+  uploadId: 932388

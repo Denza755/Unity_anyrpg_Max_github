@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b724782991146e346ba4db520dd6a7fb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/AbilityBookButton.prefab
+  uploadId: 932388

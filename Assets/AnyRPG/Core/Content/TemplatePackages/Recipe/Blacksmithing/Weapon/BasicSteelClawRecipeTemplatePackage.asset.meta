@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35aa08fb96cd53b48bfe1afffd53b32d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/BasicSteelClawRecipeTemplatePackage.asset
+  uploadId: 932388

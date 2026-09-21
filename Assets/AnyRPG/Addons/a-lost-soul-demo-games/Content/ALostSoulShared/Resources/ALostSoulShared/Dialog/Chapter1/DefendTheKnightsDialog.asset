@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: DefendTheKnightsDialog
+  m_EditorClassIdentifier: 
+  resourceName: Defend The Knights
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'Hi there.
+
+
+      You sure look big and strong!'
+    nextOption: What do you need?
+  - startTime: 0
+    showTime: 10
+    description: Well since you asked, our base has come under attack by goblins.
+    nextOption: That's terrible!
+  - startTime: 0
+    showTime: 10
+    description: 'Something seemed to be keeping them busy near the cemetary earlier.
+
+
+      However,
+      now they are raiding our base.'
+    nextOption: You don't say...
+  - startTime: 0
+    showTime: 10
+    description: Would you help us defend our base?
+    nextOption: I'd be happy to help if you could spare some cheese
+  - startTime: 0
+    showTime: 10
+    description: 'We are running a little low and need supplies to make more.
+
+
+      However,
+      if you were to bring 10 goblin ears to Sneekalot in the base, he could make
+      more and sell you some.'
+    nextOption: Goblin Ears?
+  - startTime: 0
+    showTime: 10
+    description: Where do you think we get the wax to preserve the cheese?
+    nextOption: Ewwww
+  prerequisiteConditions: []

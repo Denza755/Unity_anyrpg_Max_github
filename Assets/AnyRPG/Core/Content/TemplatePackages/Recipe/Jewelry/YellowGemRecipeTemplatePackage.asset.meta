@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6de227ab2afde3c409f78bb0ac265416
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Jewelry/YellowGemRecipeTemplatePackage.asset
+  uploadId: 932388

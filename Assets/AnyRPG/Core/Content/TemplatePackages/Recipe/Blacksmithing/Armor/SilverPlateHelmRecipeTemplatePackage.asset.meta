@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e0bc72234ec91b41be52d51b1fe6b18
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Armor/SilverPlateHelmRecipeTemplatePackage.asset
+  uploadId: 932388

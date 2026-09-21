@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a82a84d3a88b5e0419c9ba59cf42fb73
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Abilities/Effect/PetControlEffectProperties.cs
+  uploadId: 932388

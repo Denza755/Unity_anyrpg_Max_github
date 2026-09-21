@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: BabiesGotBackBaconDialog
+  m_EditorClassIdentifier: 
+  resourceName: Babies Got Back Bacon
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: Have you heard?
+    nextOption: No, what?
+  - startTime: 0
+    showTime: 10
+    description: 'Our attempts to thin the goblin ranks have backfired.
+
+
+      They
+      sent in an extremely tough necromancer to lead their forces.'
+    nextOption: So I should go deal with him?
+  - startTime: 0
+    showTime: 10
+    description: 'Not yet!
+
+
+      Squeekalot thinks we should disrupt their supply
+      lines and I agree.
+
+
+      Hungry goblins make terrible raiders.'
+    nextOption: Where do they keep their food?
+  - startTime: 0
+    showTime: 10
+    description: 'Goblins are constantly hungry so they always bring food with them.
+
+
+      They
+      like bacon, so they usually keep a litter of piglets behind their lines.
+
+
+      Go
+      carve up those piglets and bring back 5 Uncooked ham.'
+    nextOption: How Do I do that?
+  - startTime: 0
+    showTime: 10
+    description: Talk to me again and I'll teach you the secrets of cooking!
+    nextOption: I'm kind of hungry, that's a great idea!
+  prerequisiteConditions: []

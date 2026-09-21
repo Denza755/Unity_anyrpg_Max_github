@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9919e93b6dbcc294c82debc9e9adf546, type: 3}
+  m_Name: SpiderHissVoice
+  m_EditorClassIdentifier: 
+  resourceName: Spider Hiss
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  voiceProps:
+    aggro:
+    - {fileID: 8300000, guid: c9cdd7142163e704b8783874d43f3859, type: 3}
+    - {fileID: 8300000, guid: f327d9cf6996cd942850604af764a005, type: 3}
+    - {fileID: 8300000, guid: 941f285777e16544eb5e69a1fc1ce544, type: 3}
+    attack:
+    - {fileID: 8300000, guid: 8aa274ad8a7dee1458e159ceac415ed1, type: 3}
+    damage: []
+    jump: []
+    fallDamage: []
+    death:
+    - {fileID: 8300000, guid: 2fad4f0702ac96841b0aec050443bd76, type: 3}
+    victory: []
+    startInteract: []
+    startVendorInteract: []
+    stopInteract: []
+    stopVendorInteract: []

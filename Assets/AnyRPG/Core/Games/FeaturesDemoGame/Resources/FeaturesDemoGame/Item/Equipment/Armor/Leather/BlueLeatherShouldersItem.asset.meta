@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 312f44e1b88f6414fb8c5e05891abb71
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Item/Equipment/Armor/Leather/BlueLeatherShouldersItem.asset
+  uploadId: 932388

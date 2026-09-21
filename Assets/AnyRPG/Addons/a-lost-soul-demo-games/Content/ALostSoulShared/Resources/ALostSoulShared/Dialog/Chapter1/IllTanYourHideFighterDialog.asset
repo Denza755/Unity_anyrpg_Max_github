@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: IllTanYourHideFighterDialog
+  m_EditorClassIdentifier: 
+  resourceName: I'll Tan Your Hide (Fighter)
+  icon: {fileID: 0}
+  description: 
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'Now that you have a basic weapon to deal with the bunnies around
+      the camp, you can begin collecting ingredients for more powerful weapons and
+      armor.
+
+
+      Master Impassive has asked you to craft Initiates Leather Armor and a set of
+      Copper Claws.'
+    nextOption: How do I make those?
+  - startTime: 0
+    showTime: 10
+    description: 'You will 5 Flax and 5 Leather for the armor.
+
+
+      The Claws will require 2 Copper Ore and 1 Birch Lumber.'
+    nextOption: Where do I get those?
+  - startTime: 0
+    showTime: 10
+    description: 'Everything you need is here in the camp.
+
+
+      Search the nearby rocks for Copper Ore.
+
+
+      There is Flax near the crafting table.
+
+
+      There should be a tree ready cut down behind Master Impassive.'
+    nextOption: What about the leather?
+  - startTime: 0
+    showTime: 10
+    description: 'You can get that from the bunnies.
+
+
+      Talk to me again and I''ll teach you how to turn their skins into Leather and
+      find the Flax, Birch Lumber, and Iron Ores.'
+    nextOption: I really have to wear dead bunny skins?
+  - startTime: 0
+    showTime: 10
+    description: 'Yep.
+
+
+      Then bring me the Rabbit Hides, the Flax, the Birch Lumber, and the Iron Ores
+      and I''ll teach you how to work that into weapons and armor.'
+    nextOption: Are you sure about this?
+  prerequisiteConditions: []

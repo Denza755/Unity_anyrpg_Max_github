@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 578cdc6b024fc114d83b4be044ba852d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Tool/ToolsMedieval/Prefab/MedievalToolBroom.prefab
+  uploadId: 932388

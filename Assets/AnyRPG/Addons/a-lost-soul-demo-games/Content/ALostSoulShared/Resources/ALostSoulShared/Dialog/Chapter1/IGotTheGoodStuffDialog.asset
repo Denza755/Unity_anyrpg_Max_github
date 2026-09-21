@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: IGotTheGoodStuffDialog
+  m_EditorClassIdentifier: 
+  resourceName: I Got The Good Stuff
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'Pssst, hey you...
+
+
+      Over here...'
+    nextOption: Me?
+  - startTime: 0
+    showTime: 10
+    description: 'Yes you!
+
+
+      You look like you could use something to carry
+      around all your things.'
+    nextOption: I don't have any things
+  - startTime: 0
+    showTime: 10
+    description: 'Why don''t you try collecting things?
+
+
+      It''s fun and everyone
+      is doing it...
+
+
+      Of course, when you do, you''ll need somewhere to store
+      them.'
+    nextOption: I suppose so
+  - startTime: 0
+    showTime: 10
+    description: Take a look in that chest behind me and grab a backpack.
+    nextOption: How generous
+  - startTime: 0
+    showTime: 10
+    description: 'Of course the first one is always free!
+
+
+      Just keep it on
+      the downlow and if you want more you will have to pay.'
+    nextOption: This sounds like a trap
+  - startTime: 0
+    showTime: 10
+    description: 'Let''s call it the beginning of a beautiful relationship!
+
+
+      As
+      a gesture of goodwill, If you do fill up your bags and can''t afford more,
+      you can always store stuff in the chest over there.'
+    nextOption: Thanks, I'll take that free bag now
+  prerequisiteConditions: []

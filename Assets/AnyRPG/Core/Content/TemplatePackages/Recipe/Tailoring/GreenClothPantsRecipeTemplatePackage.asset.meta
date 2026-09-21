@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 155c5e03027e50742ad591b6a66588a3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Tailoring/GreenClothPantsRecipeTemplatePackage.asset
+  uploadId: 932388

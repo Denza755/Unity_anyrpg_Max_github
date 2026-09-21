@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c9cf69bc6b86f424283498d0f74aa7b1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Tool/ToolsMedieval/Prefab/MedievalToolPitchfork.prefab
+  uploadId: 932388

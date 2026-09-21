@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acbdbda413a9e75489c46764c8bc894e, type: 3}
+  m_Name: EngineBackgroundMusicCredits
+  m_EditorClassIdentifier: 
+  resourceName: Engine Background Music
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  categoryName: Background Music
+  creditsNodes:
+  - creditName: Within The Abandoned Castle
+    creditAttribution: 5pr1n6
+    email: 
+    userUrl: https://opengameart.org/users/5pr1n6
+    downloadUrl: https://opengameart.org/content/within-the-abandoned-castle
+  - creditName: Desert calmness and fighting
+    creditAttribution: Dizzy Crow
+    email: 
+    userUrl: https://opengameart.org/users/dizzy-crow
+    downloadUrl: https://opengameart.org/content/desert-calmness-and-fighting-orchestral-141
+  - creditName: Unsolved Investigation
+    creditAttribution: isaiah658
+    email: 
+    userUrl: https://opengameart.org/users/isaiah658
+    downloadUrl: https://opengameart.org/content/unsolved-investigation
+  - creditName: Ominous
+    creditAttribution: poinl
+    email: 
+    userUrl: https://opengameart.org/users/poinl
+    downloadUrl: https://opengameart.org/content/ominous
+  - creditName: Town Theme
+    creditAttribution: cynicmusic
+    email: 
+    userUrl: https://opengameart.org/users/cynicmusic
+    downloadUrl: https://opengameart.org/content/town-theme-rpg
+  - creditName: A New Town
+    creditAttribution: cynicmusic
+    email: 
+    userUrl: https://opengameart.org/users/cynicmusic
+    downloadUrl: https://opengameart.org/content/a-new-town-rpg-theme
+  - creditName: Crystal Cave
+    creditAttribution: cynicmusic
+    email: 
+    userUrl: https://opengameart.org/users/cynicmusic
+    downloadUrl: https://opengameart.org/content/crystal-cave-song18
+  - creditName: Dark Forest Theme
+    creditAttribution: cynicmusic
+    email: 
+    userUrl: https://opengameart.org/users/cynicmusic
+    downloadUrl: https://opengameart.org/content/dark-forest-theme
+  - creditName: War on Water
+    creditAttribution: yd
+    email: 
+    userUrl: https://opengameart.org/users/yd
+    downloadUrl: https://opengameart.org/content/war-on-water-tracks
+  - creditName: Desert theme
+    creditAttribution: yd
+    email: 
+    userUrl: https://opengameart.org/users/yd
+    downloadUrl: https://opengameart.org/content/desert-theme
+  - creditName: The Field Of Dreams
+    creditAttribution: pauliuw
+    email: 
+    userUrl: https://opengameart.org/users/pauliuw
+    downloadUrl: https://opengameart.org/content/the-field-of-dreams
+  - creditName: The Inner World
+    creditAttribution: Deeppixel
+    email: 
+    userUrl: https://opengameart.org/users/deeppixel
+    downloadUrl: https://opengameart.org/content/the-inner-world-mp3
+  - creditName: Pirate Game Tune
+    creditAttribution: Tozan
+    email: 
+    userUrl: https://opengameart.org/users/tozan
+    downloadUrl: https://opengameart.org/content/pirate-game-tune
+  - creditName: Magic Town
+    creditAttribution: controllerhead
+    email: 
+    userUrl: https://opengameart.org/users/controllerhead
+    downloadUrl: https://opengameart.org/content/magic-town
+  - creditName: Cheerful Xylophone
+    creditAttribution: celestialghost8
+    email: 
+    userUrl: https://opengameart.org/users/celestialghost8
+    downloadUrl: https://opengameart.org/content/cc0-scraps
+  - creditName: Cave Mysterious Melody
+    creditAttribution: celestialghost8
+    email: 
+    userUrl: https://opengameart.org/users/celestialghost8
+    downloadUrl: https://opengameart.org/content/cc0-scraps
+  - creditName: Oddo's River Flows
+    creditAttribution: Gabriel Carranza
+    email: 
+    userUrl: https://www.youtube.com/channel/UC_7RUvI4SgwkAHPLPRMYUtA
+    downloadUrl: https://www.youtube.com/watch?v=duOPFSkxqIc

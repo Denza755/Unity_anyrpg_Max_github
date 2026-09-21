@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2c6901305b820d48a82d850704a3085
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Equipment/Plate/PlatePantsPrefabTemplate.asset
+  uploadId: 932388

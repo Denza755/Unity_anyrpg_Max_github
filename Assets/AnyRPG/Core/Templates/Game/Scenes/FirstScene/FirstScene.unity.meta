@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d58c89db548be34ba85106ac5ac56a6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Templates/Game/Scenes/FirstScene/FirstScene.unity
+  uploadId: 932388

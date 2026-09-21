@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7a7544a21412034ea71f6c51ba32294
+timeCreated: 1471494002
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Orb/UVScrollRed2.mat
+  uploadId: 932388

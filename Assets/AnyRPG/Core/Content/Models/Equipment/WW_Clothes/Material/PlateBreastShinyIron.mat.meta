@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8bd107d8a1e49342a7d5616db8b45c2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Equipment/WW_Clothes/Material/PlateBreastShinyIron.mat
+  uploadId: 932388

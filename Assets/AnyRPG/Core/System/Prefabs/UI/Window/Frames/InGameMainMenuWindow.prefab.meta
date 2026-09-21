@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 834d9467be358e14d8b8540fbf27a968
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/InGameMainMenuWindow.prefab
+  uploadId: 932388

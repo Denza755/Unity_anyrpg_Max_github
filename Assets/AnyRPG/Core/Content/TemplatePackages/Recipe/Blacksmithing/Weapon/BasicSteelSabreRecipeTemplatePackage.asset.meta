@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03aeb8767dc86634299d182ba3f8e35b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/BasicSteelSabreRecipeTemplatePackage.asset
+  uploadId: 932388

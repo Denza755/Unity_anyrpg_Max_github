@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d73d637da640f2b4183a3ced6ce71f43
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/UnitProfile/Character/HumanMaleClothesHead6UnitTemplatePackage.asset
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dbd1dd8c27ccccc488d6eab12377f401
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Item/Equipment/Armor/Plate/SilverPlateBootsItemTemplate.asset
+  uploadId: 932388

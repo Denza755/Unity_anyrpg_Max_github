@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9372e7c5f74f1546b773bf50f7ae9e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Equipment/WW_Clothes/Material/PlateBeltShinyCopper.mat
+  uploadId: 932388

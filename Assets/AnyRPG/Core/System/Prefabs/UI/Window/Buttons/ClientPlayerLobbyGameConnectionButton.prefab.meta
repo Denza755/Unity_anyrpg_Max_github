@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8e48ca26ce4d2c04ea02ee4dcb8fb35c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/ClientPlayerLobbyGameConnectionButton.prefab
+  uploadId: 932388

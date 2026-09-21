@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d3eda9e01e72a0b44aaa23a946b72da1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/CookingSuppliesVendorUnitSpawnNode.prefab
+  uploadId: 932388

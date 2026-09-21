@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc8fb814d619ff74db2e78be1a63724b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/EquipmentModelProfile/Armor/Plate/BluePlateBracersEquipmentModelTemplate.asset
+  uploadId: 932388

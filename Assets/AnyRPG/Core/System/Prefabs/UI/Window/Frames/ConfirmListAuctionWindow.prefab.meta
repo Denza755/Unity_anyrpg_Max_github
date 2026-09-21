@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cffc0bf30a120fc4bb89aeebf974c578
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/ConfirmListAuctionWindow.prefab
+  uploadId: 932388

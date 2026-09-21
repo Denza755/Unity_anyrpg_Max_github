@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9a07c3632dd3f548b84cfcfc6d5976d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicSteelAxe.prefab
+  uploadId: 932388

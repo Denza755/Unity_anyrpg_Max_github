@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8dea8dd66eea92489af12a2bb2ef776
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Item/Equipment/Weapon/BasicGoldDaggerItem.asset
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26fb2eb3130fbda4eb8fabe8be9cd9f8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Elements/MiniMapTextLayer.prefab
+  uploadId: 932388

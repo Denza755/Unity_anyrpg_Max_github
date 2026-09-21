@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a3e07928d5a6d3498efacc9e3591c48
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/Interactable/Gathering/Herbalism/HerbalismBlueFlowerNodeTemplate.prefab
+  uploadId: 932388

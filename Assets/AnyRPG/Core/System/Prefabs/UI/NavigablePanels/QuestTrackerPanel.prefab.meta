@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db3b0f62672a3e446b96db5e1d8226ac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/NavigablePanels/QuestTrackerPanel.prefab
+  uploadId: 932388

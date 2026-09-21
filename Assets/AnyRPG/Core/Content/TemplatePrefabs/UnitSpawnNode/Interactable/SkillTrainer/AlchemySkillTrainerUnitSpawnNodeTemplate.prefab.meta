@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 44ca2d5e295b7124c93216ea8d45741a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Interactable/SkillTrainer/AlchemySkillTrainerUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

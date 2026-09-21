@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1cb5975c9041093478aa858998c2f92f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Recipe/Alchemy/Dye/VioletDyeRecipeTemplate.asset
+  uploadId: 932388

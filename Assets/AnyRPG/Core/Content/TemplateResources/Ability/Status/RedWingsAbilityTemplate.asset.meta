@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e611dce521d85024e8848253fd120934
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Ability/Status/RedWingsAbilityTemplate.asset
+  uploadId: 932388

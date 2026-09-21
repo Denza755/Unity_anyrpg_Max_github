@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: YouAreNotPreparedDialog
+  m_EditorClassIdentifier: 
+  resourceName: You Are Not Prepared
+  icon: {fileID: 0}
+  description: 
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'You look like the least prepared recruit I''ve ever seen!
+
+
+      How do you expect to survive nearly naked with no weapons or armor?'
+    nextOption: I was hoping you could help with that
+  - startTime: 0
+    showTime: 10
+    description: 'Our recruits must be fully self sufficient.
+
+
+      You will need to gather supplies and make equipment.'
+    nextOption: I don't know how to do that
+  - startTime: 0
+    showTime: 10
+    description: You will need also need to learn to channel your SunSworn energy.
+    nextOption: My What?
+  - startTime: 0
+    showTime: 10
+    description: 'All SunSworn can channel the power of the sun.
+
+
+      You can use it to fend off enemies or help allies.'
+    nextOption: Do I have to be born SunSworn to do that?
+  - startTime: 0
+    showTime: 10
+    description: The oath you swore bound you to the soul of the High Priestess.
+    nextOption: What?  She doesn't require sacrifices does she?
+  - startTime: 0
+    showTime: 10
+    description: That merely means that you can access her power to control the sun.
+    nextOption: I can control the sun?
+  - startTime: 0
+    showTime: 10
+    description: 'Even now, you should be able to call down a gentle ray of sunlight
+      that will shine on you and heal you.
+
+
+      Do you feel any different?'
+    nextOption: Now that you mention it...
+  - startTime: 0
+    showTime: 10
+    description: 'Good.
+
+
+      Then you are ready to make some armor and begin training.'
+    nextOption: But I don't know how make...
+  - startTime: 0
+    showTime: 10
+    description: Report to Master Impassive for training immediately!
+    nextOption: Yes Sir
+  prerequisiteConditions: []

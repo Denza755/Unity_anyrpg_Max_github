@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 687a0cdd814858a4baec66ef2868a99f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/FactionChangeWindow.prefab
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4ac03ea9b9c7a643b56dba19459ef9c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/MedievalTavern/Prefab/bar_counter.prefab
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39ef618c31212f54a84b976f2fdc9637
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Animation/Animations/Attacks/AnyRPGDefaultAttack.anim
+  uploadId: 932388

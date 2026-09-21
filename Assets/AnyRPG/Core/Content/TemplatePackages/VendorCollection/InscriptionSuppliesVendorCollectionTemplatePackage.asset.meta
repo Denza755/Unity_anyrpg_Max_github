@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 505da4371ad2bd04e99116b45c9abf6d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/VendorCollection/InscriptionSuppliesVendorCollectionTemplatePackage.asset
+  uploadId: 932388

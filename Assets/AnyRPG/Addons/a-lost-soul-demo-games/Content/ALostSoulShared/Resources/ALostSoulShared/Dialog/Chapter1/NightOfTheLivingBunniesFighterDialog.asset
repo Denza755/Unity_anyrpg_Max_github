@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: NightOfTheLivingBunniesFighterDialog
+  m_EditorClassIdentifier: 
+  resourceName: Night Of The Living Bunnies (Fighter)
+  icon: {fileID: 0}
+  description: 
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'It looks like you will get to hunt bunnies after all.  '
+    nextOption: Really?
+  - startTime: 0
+    showTime: 10
+    description: "The bunnies killed by the zombies have come back to life.  \n\nThis
+      presents an opportunity to practice your new abilities.  \n\nKill 5 reanimated
+      bunnies and use each of your new abilities at least once."
+    nextOption: But I don't have any weapons...
+  - startTime: 0
+    showTime: 10
+    description: 'Once you have defeated the bunnies, it should be safe to collect
+      the ingredients for your weapons.
+
+
+      We also have an opportunity to do something about your clothing situation.'
+    nextOption: Great, I'm starting to get cold
+  - startTime: 0
+    showTime: 10
+    description: You can make a suit of leather armor for yourself.
+    nextOption: But I don't know how to make...
+  - startTime: 0
+    showTime: 10
+    description: 'It''s easy!
+
+
+      Just collect the skins from the bunnies when you take care of them.'
+    nextOption: I have to wear dead bunny skins?
+  - startTime: 0
+    showTime: 10
+    description: 'Go deal with the bunnies.
+
+
+      When you have your weapons and armor, return to me for your next assignment.'
+    nextOption: But I don't know how to make...
+  prerequisiteConditions: []

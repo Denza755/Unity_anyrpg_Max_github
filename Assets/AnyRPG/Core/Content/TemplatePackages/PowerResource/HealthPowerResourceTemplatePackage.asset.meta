@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ecc6d818469315a4f9823f0c97ccbf24
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/PowerResource/HealthPowerResourceTemplatePackage.asset
+  uploadId: 932388

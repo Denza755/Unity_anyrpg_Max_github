@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f5623f2c960272459b897e4ee7e01ca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/PlayOnlineMenuPanel.prefab
+  uploadId: 932388

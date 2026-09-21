@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17e5a0964a2f8ae4b9ea620310b50053
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/UnitProfile/ClassTrainer/ThiefClassTrainerUnit.asset
+  uploadId: 932388

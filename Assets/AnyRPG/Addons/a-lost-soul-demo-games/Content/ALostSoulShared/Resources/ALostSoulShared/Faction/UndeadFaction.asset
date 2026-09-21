@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f131a4ee76ad7443b31ea9b0e7b948b, type: 3}
+  m_Name: UndeadFaction
+  m_EditorClassIdentifier: 
+  resourceName: Undead
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: Something about being reanimated from the dead has made them very
+    angry at everyone!
+  useRegionalDescription: 1
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  newGameOption: 1
+  defaultStartingZone: Birch Grove
+  defaultStartingLocationTag: FactionSpawnLocation2
+  races:
+  - Squirrel
+  - Zombie
+  - Skeleton
+  addSystemProfiles: 0
+  characterCreatorProfileNames: []
+  environmentPreview:
+    environmentPreviewPrefab: {fileID: 6456158002697473960, guid: 3b57c6c4fa595c247bb98defe8750234,
+      type: 3}
+    platformMaterial: {fileID: 2100000, guid: 48e701d5371e09d4fa49aaa620009636, type: 2}
+    topMaterial: {fileID: 2100000, guid: 617afe595a8c0664aa7cea8ed3336ce5, type: 2}
+    bottomMaterial: {fileID: 2100000, guid: ea75e457c8387624f941739b98870eb9, type: 2}
+    northMaterial: {fileID: 2100000, guid: 737ef2ab77e8cbf4cb3012d373cc2498, type: 2}
+    southMaterial: {fileID: 2100000, guid: 3a17ebe168b4f124fa3e870190192dca, type: 2}
+    eastMaterial: {fileID: 2100000, guid: 5ee0992592e2ab844962900a759d3323, type: 2}
+    westMaterial: {fileID: 2100000, guid: 2c8b7bd593bbaa14c925b4ae650730c9, type: 2}
+  environmentPreviewPrefab: {fileID: 6456158002697473960, guid: 3b57c6c4fa595c247bb98defe8750234,
+    type: 3}
+  platformMaterial: {fileID: 2100000, guid: 48e701d5371e09d4fa49aaa620009636, type: 2}
+  topMaterial: {fileID: 2100000, guid: 617afe595a8c0664aa7cea8ed3336ce5, type: 2}
+  bottomMaterial: {fileID: 2100000, guid: ea75e457c8387624f941739b98870eb9, type: 2}
+  northMaterial: {fileID: 2100000, guid: 737ef2ab77e8cbf4cb3012d373cc2498, type: 2}
+  southMaterial: {fileID: 2100000, guid: 3a17ebe168b4f124fa3e870190192dca, type: 2}
+  eastMaterial: {fileID: 2100000, guid: 5ee0992592e2ab844962900a759d3323, type: 2}
+  westMaterial: {fileID: 2100000, guid: 2c8b7bd593bbaa14c925b4ae650730c9, type: 2}
+  equipmentNames: []
+  defaultDisposition: -1
+  dispositionList: []
+  capabilities:
+    abilityNames: []
+    traitNames: []
+    armorClassList: []
+    weaponSkills: []
+    validPetTypes: []
+    startingPets: []
+  classCapabilityList: []

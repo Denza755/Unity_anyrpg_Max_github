@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 63bf54cf643b4ef4cb51a8a4739c1d92
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Ability/Status/BloodShieldAbilityTemplatePackage.asset
+  uploadId: 932388

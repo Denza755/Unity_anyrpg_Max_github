@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e87f0ffbad0f4744ab6e07e0aea4b378
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Item/Equipment/Armor/Cloth/RedClothShoesItemTemplate.asset
+  uploadId: 932388

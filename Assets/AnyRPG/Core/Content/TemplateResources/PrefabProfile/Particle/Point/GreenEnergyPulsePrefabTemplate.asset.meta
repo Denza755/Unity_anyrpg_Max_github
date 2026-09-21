@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db4d650d0fdc39a40ad0f287bbb4033c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Particle/Point/GreenEnergyPulsePrefabTemplate.asset
+  uploadId: 932388

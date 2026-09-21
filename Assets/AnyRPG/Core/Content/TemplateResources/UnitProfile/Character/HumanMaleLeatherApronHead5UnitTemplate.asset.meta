@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9fcf3314d5c268e429bce1c1c0446199
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/UnitProfile/Character/HumanMaleLeatherApronHead5UnitTemplate.asset
+  uploadId: 932388

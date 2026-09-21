@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9c6c5ee5e49a4cb43bb6637fb2c50958
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/AbilityEffect/AOE/LifeDrainAOEHealEffect.asset
+  uploadId: 932388

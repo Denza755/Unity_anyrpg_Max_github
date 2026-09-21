@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fcb7b679fa449a2409d30b21019418b9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Recipe/BlackSmithing/Armor/SilverPlateLegsRecipeTemplate.asset
+  uploadId: 932388

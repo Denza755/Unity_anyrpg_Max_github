@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: edbc54ddc695e6544b3b7f18df8c03ce
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Interactable/SkillTrainer/MiningSkillTrainerUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

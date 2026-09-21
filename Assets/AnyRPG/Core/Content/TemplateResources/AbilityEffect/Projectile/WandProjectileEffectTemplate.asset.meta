@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d831f6498a32ec498fe67b65bf7c9f8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AbilityEffect/Projectile/WandProjectileEffectTemplate.asset
+  uploadId: 932388

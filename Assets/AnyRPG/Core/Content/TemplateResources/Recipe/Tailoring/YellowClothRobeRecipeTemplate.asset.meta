@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e786732ad417adf48b606da5540f9e7f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Recipe/Tailoring/YellowClothRobeRecipeTemplate.asset
+  uploadId: 932388

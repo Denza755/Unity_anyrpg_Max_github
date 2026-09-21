@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80d2966b981a0b54f816510adc92211d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/LootTable/Weapons/RandomMedievalWeaponsLoot.asset
+  uploadId: 932388

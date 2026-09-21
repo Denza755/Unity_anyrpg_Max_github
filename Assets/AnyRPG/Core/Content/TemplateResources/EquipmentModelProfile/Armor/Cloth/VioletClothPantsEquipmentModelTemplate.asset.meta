@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ff8193641a26bb44ab8fdebfbaf0946
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/EquipmentModelProfile/Armor/Cloth/VioletClothPantsEquipmentModelTemplate.asset
+  uploadId: 932388

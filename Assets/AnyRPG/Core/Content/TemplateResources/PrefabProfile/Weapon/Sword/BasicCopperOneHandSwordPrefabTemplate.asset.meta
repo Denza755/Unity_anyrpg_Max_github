@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: edfbf583d376e4744bd94c97a9f9bb62
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Weapon/Sword/BasicCopperOneHandSwordPrefabTemplate.asset
+  uploadId: 932388

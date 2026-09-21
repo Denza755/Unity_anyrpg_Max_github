@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: feb749842638f3f46afad7db75a1e057
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/InteractableOptionConfig/ChangeAppearanceConfigTemplate.asset
+  uploadId: 932388

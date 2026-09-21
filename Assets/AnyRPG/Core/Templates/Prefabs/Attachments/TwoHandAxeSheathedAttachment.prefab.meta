@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53913cf93d7cd4d40bdb6ca1e7c512c3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Templates/Prefabs/Attachments/TwoHandAxeSheathedAttachment.prefab
+  uploadId: 932388

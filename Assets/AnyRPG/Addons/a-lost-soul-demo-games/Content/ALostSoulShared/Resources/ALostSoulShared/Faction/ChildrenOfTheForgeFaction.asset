@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f131a4ee76ad7443b31ea9b0e7b948b, type: 3}
+  m_Name: ChildrenOfTheForgeFaction
+  m_EditorClassIdentifier: 
+  resourceName: Children Of The Forge
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: Ethereal Souls in a realm outside of space and time
+  useRegionalDescription: 1
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  newGameOption: 0
+  defaultStartingZone: Soul Forge
+  defaultStartingLocationTag: 
+  hideDefaultProfiles: 1
+  races: []
+  characterCreatorProfileNames:
+  - Unborn Soul
+  - Guardian Of Souls
+  - Lost Soul
+  equipmentNames: []
+  defaultDisposition: 1
+  dispositionList: []
+  capabilities:
+    abilityNames: []
+    traitNames: []
+    armorClassList: []
+    weaponSkills: []
+    validPetTypes: []
+    startingPets: []
+  classCapabilityList: []

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a20dc3652c8a7748b944bf607924647
+timeCreated: 1471404265
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Orb/UVScrollBlueShieldClouds.mat
+  uploadId: 932388

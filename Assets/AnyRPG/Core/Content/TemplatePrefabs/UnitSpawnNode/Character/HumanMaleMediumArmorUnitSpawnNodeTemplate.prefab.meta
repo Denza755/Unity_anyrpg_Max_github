@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ae2493a494e1d1c449288fb0f68d8136
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Character/HumanMaleMediumArmorUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

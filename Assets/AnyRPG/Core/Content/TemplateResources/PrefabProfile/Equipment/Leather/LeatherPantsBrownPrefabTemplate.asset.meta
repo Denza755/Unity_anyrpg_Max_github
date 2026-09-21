@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a122664eac30ff649a0b372eb1e784f6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Equipment/Leather/LeatherPantsBrownPrefabTemplate.asset
+  uploadId: 932388

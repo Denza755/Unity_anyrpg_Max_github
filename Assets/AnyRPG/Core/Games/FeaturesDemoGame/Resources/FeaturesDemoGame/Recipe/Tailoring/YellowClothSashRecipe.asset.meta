@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b2c5b4988da1a64bbb1acc64c5852c8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Recipe/Tailoring/YellowClothSashRecipe.asset
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea8f5dd26f11c704bb2b1dede1b44635
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Materials/GlowYellowMaterial.mat
+  uploadId: 932388

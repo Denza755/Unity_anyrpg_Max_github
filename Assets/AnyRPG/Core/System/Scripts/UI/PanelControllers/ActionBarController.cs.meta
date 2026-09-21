@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 325de07078608a844876cf8ba70b4e20
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/UI/PanelControllers/ActionBarController.cs
+  uploadId: 932388

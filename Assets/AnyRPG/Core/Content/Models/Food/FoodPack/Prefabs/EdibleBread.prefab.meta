@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e4722e1a35864e648bed9d1d8d9ec888
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Food/FoodPack/Prefabs/EdibleBread.prefab
+  uploadId: 932388

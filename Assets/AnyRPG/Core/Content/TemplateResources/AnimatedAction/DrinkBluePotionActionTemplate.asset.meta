@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 418faafd33f86e2499d851d19fe7a192
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AnimatedAction/DrinkBluePotionActionTemplate.asset
+  uploadId: 932388

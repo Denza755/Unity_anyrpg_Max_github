@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f2768508d741ea4692e77203a27cba4
+timeCreated: 1446861150
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Ground/CastingRing/GrayCastingCircle.prefab
+  uploadId: 932388

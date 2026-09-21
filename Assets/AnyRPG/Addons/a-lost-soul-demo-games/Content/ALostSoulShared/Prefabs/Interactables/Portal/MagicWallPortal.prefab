@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9066142584397163724
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9066142584397163720}
+  - component: {fileID: 9066142584397163727}
+  - component: {fileID: 5875998800269599130}
+  - component: {fileID: 3442545144447382391}
+  m_Layer: 11
+  m_Name: MagicWallPortal
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9066142584397163720
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9066142584397163724}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3210084281444972252}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &9066142584397163727
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9066142584397163724}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 8, y: 4, z: 1}
+  m_Center: {x: 0, y: 2, z: 0}
+--- !u!114 &5875998800269599130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9066142584397163724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df07de734135f834b9ba0098ec4ed914, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showTooltip: 1
+  interactableName: Travel To Lightfury Outpost
+  glowOnMouseOver: 0
+  glowColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  interactionTooltipText: 
+  notInteractable: 0
+  interactWithAny: 0
+  interactOnExit: 0
+  isTrigger: 1
+  suppressInteractionWindow: 1
+  interactionMaxRange: 2
+  checkOptionsToSpawn: 1
+  spawnRequiresValidOption: 0
+  despawnRequiresNoValidOption: 0
+  componentController: {fileID: 0}
+  unitComponentController: {fileID: 0}
+--- !u!114 &3442545144447382391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9066142584397163724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfdd7a718358eb84dbd417f51a47a2c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadSceneProps:
+    interactionPanelTitle: 
+    interactionPanelImage: {fileID: 0}
+    namePlateImage: {fileID: 0}
+    prerequisiteConditions: []
+    locationTag: 
+    overrideSpawnLocation: 0
+    spawnLocation: {x: 0, y: 0, z: 0}
+    overrideSpawnDirection: 0
+    spawnForwardDirection: {x: 0, y: 0, z: 0}
+    sceneName: 
+--- !u!1001 &3210084281444508740
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 9066142584397163720}
+    m_Modifications:
+    - target: {fileID: 189212, guid: 379c14300b6ec4644b4e84ce5ac9f986, type: 3}
+      propertyPath: m_Name
+      value: MagicWall8m
+      objectReference: {fileID: 0}
+    - target: {fileID: 463512, guid: 379c14300b6ec4644b4e84ce5ac9f986, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 463512, guid: 379c14300b6ec4644b4e84ce5ac9f986, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 463512, guid: 379c14300b6ec4644b4e84ce5ac9f986, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 463512, guid: 379c14300b6ec4644b4e84ce5ac9f986, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 463512, guid: 379c14300b6ec4644b4e84ce5ac9f986, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 463512, guid: 379c14300b6ec4644b4e84ce5ac9f986, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 463512, guid: 379c14300b6ec4644b4e84ce5ac9f986, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 463512, guid: 379c14300b6ec4644b4e84ce5ac9f986, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 463512, guid: 379c14300b6ec4644b4e84ce5ac9f986, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 463512, guid: 379c14300b6ec4644b4e84ce5ac9f986, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 379c14300b6ec4644b4e84ce5ac9f986, type: 3}
+--- !u!4 &3210084281444972252 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 463512, guid: 379c14300b6ec4644b4e84ce5ac9f986,
+    type: 3}
+  m_PrefabInstance: {fileID: 3210084281444508740}
+  m_PrefabAsset: {fileID: 0}

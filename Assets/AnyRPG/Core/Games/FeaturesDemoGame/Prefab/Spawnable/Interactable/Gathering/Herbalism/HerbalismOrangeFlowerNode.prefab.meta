@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 945314a320f252c4699153992f0db174
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/Spawnable/Interactable/Gathering/Herbalism/HerbalismOrangeFlowerNode.prefab
+  uploadId: 932388

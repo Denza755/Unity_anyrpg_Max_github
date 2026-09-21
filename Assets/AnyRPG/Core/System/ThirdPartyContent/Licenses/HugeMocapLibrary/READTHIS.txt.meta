@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5abb6637cd4ca264199c94c114f2e470
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/ThirdPartyContent/Licenses/HugeMocapLibrary/READTHIS.txt
+  uploadId: 932388

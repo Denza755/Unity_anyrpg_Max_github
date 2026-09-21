@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a9cb46018d501f4684f583560296aa9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/Spawnable/Interactable/Gathering/Herbalism/HerbalismVioletFlowerNode.prefab
+  uploadId: 932388

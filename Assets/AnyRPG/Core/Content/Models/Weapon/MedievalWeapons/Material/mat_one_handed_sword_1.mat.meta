@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf33db33102d6a14fbe43ec68fba3e94
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/MedievalWeapons/Material/mat_one_handed_sword_1.mat
+  uploadId: 932388

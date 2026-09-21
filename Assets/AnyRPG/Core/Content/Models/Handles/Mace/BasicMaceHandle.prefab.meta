@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c6785221b6d5acd429340ff41d9aa8d5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Mace/BasicMaceHandle.prefab
+  uploadId: 932388

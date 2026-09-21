@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e19a3cdb4d7754243927bf27ce334fc0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/NecromancerSpecializationTrainerUnitSpawnNode.prefab
+  uploadId: 932388

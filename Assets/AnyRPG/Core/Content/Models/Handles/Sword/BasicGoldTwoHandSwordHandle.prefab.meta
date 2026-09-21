@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 97dae82c30eb5e148a863574dbc5c665
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Sword/BasicGoldTwoHandSwordHandle.prefab
+  uploadId: 932388

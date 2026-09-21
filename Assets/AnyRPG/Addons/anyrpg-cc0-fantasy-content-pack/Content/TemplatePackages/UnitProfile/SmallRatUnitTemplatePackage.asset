@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: SmallRatUnitTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: Small Rat
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources:
+  - {fileID: 11400000, guid: 0c3ea33b531b5224ab05d7d154e07377, type: 2}
+  - {fileID: 11400000, guid: df9b90223ac81b24c94781f2ed8b5fe3, type: 2}
+  - {fileID: 11400000, guid: 08e6c40f7e68ebd4b85bed239df23e03, type: 2}
+  prefabs:
+  - {fileID: 7327038709719515298, guid: 1ca8baa0092dbd642905bdd3d529d0ce, type: 3}
+  dependencies: []

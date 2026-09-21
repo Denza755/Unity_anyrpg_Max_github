@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a92c6d08bef661c4d9efe48931d9ad2c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Images/Skybox/Clouds/CloudsEast.mat
+  uploadId: 932388

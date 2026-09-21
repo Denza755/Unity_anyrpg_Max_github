@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c18605421e78b14988efe80c20b5387
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/MailComposeAttachmentButton.prefab
+  uploadId: 932388

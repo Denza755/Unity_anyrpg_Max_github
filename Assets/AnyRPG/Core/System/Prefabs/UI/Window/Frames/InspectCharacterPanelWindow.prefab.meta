@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ecf052b815249c4a8f2d426a371d657
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/InspectCharacterPanelWindow.prefab
+  uploadId: 932388

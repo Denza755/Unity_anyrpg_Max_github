@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b75171c49ff70164db2d2c40f65ac15c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/ConfirmCancelAuctionPanel.prefab
+  uploadId: 932388

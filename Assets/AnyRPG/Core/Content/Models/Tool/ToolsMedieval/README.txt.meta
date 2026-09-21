@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 43dcc7fb8e77f3940b444f49b30c29d5
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Tool/ToolsMedieval/README.txt
+  uploadId: 932388

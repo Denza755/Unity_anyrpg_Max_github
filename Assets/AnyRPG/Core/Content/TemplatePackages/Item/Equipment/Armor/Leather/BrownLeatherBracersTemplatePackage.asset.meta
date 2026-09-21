@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 50979673225a0914b91d487209f1ddaa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Armor/Leather/BrownLeatherBracersTemplatePackage.asset
+  uploadId: 932388

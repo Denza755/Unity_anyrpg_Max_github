@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40e248c65949fa34cb1d95d76c950f25
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Food/FoodPack/Prefabs/BreadSlice.prefab
+  uploadId: 932388

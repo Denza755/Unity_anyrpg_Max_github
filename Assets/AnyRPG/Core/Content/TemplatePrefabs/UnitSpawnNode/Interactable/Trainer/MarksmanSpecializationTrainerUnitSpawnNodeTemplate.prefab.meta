@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d413de414a2cb1748a82a7c8e7c1fc9e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Interactable/Trainer/MarksmanSpecializationTrainerUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

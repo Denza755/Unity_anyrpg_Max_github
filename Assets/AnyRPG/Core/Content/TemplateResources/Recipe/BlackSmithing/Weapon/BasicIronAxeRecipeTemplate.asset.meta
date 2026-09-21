@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9355f7fb386ec194286936438d28441a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Recipe/BlackSmithing/Weapon/BasicIronAxeRecipeTemplate.asset
+  uploadId: 932388

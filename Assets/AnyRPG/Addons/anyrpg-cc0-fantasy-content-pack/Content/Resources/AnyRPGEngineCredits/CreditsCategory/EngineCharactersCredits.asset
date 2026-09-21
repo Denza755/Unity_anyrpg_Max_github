@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acbdbda413a9e75489c46764c8bc894e, type: 3}
+  m_Name: EngineCharactersCredits
+  m_EditorClassIdentifier: 
+  resourceName: Engine Characters
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  categoryName: Characters
+  creditsNodes:
+  - creditName: Animated Fish
+    creditAttribution: CDmir
+    email: 
+    userUrl: https://opengameart.org/users/cdmir
+    downloadUrl: https://opengameart.org/users/cdmir
+  - creditName: Male City Zombie
+    creditAttribution: Rikindle3D
+    email: 
+    userUrl: https://opengameart.org/users/rikindle3d
+    downloadUrl: https://opengameart.org/content/male-city-zombie-ready-for-use-in-game-engines
+  - creditName: Shell Bug
+    creditAttribution: br-n518
+    email: 
+    userUrl: https://opengameart.org/users/br-n518
+    downloadUrl: https://opengameart.org/content/shell-bug
+  - creditName: Skeleton Outlaw 3D Character
+    creditAttribution: KevDev
+    email: 
+    userUrl: https://opengameart.org/users/kevdev
+    downloadUrl: https://opengameart.org/content/skeleton-outlaw-3d-character
+  - creditName: Rat
+    creditAttribution: br-n518
+    email: 
+    userUrl: https://opengameart.org/users/br-n518
+    downloadUrl: https://opengameart.org/content/rat-0
+  - creditName: Spider
+    creditAttribution: br-n518
+    email: 
+    userUrl: https://opengameart.org/users/br-n518
+    downloadUrl: https://opengameart.org/content/spider-2
+  - creditName: Cartoon Medieval Knight
+    creditAttribution: Lucian Pavel
+    email: 
+    userUrl: https://opengameart.org/users/lucian-pavel
+    downloadUrl: https://opengameart.org/content/cartoon-medieval-knight
+  - creditName: Old Lady
+    creditAttribution: CDmir
+    email: 
+    userUrl: https://opengameart.org/users/cdmir
+    downloadUrl: https://opengameart.org/content/old-lady
+  - creditName: Rabbit
+    creditAttribution: CDmir
+    email: 
+    userUrl: https://opengameart.org/users/cdmir
+    downloadUrl: https://opengameart.org/content/rabbit-0
+  - creditName: Deer Female
+    creditAttribution: CDmir
+    email: 
+    userUrl: https://opengameart.org/users/cdmir
+    downloadUrl: https://opengameart.org/content/deer-female
+  - creditName: Old Deer Male
+    creditAttribution: CDmir
+    email: 
+    userUrl: https://opengameart.org/users/cdmir
+    downloadUrl: https://opengameart.org/content/old-deer-male
+  - creditName: Monk
+    creditAttribution: CDmir
+    email: 
+    userUrl: https://opengameart.org/users/cdmir
+    downloadUrl: https://opengameart.org/content/monk
+  - creditName: Goblin
+    creditAttribution: CDmir
+    email: 
+    userUrl: https://opengameart.org/users/cdmir
+    downloadUrl: https://opengameart.org/content/goblin-1
+  - creditName: Bartender
+    creditAttribution: CDmir
+    email: 
+    userUrl: https://opengameart.org/users/cdmir
+    downloadUrl: https://opengameart.org/content/bartender
+  - creditName: Mudeater
+    creditAttribution: CDmir
+    email: 
+    userUrl: https://opengameart.org/users/cdmir
+    downloadUrl: https://opengameart.org/content/mudeater-animated
+  - creditName: Forest Monster
+    creditAttribution: CDmir
+    email: 
+    userUrl: https://opengameart.org/users/cdmir
+    downloadUrl: https://opengameart.org/content/forest-monster
+  - creditName: Undead Squirrel
+    creditAttribution: CDmir
+    email: 
+    userUrl: https://opengameart.org/users/cdmir
+    downloadUrl: https://opengameart.org/content/undead-squirrel-animated
+  - creditName: Rooster
+    creditAttribution: CDmir
+    email: 
+    userUrl: https://opengameart.org/users/cdmir
+    downloadUrl: https://opengameart.org/content/rooster-animated
+  - creditName: Chicken
+    creditAttribution: CDmir
+    email: 
+    userUrl: https://opengameart.org/users/cdmir
+    downloadUrl: https://opengameart.org/content/chicken-animated
+  - creditName: Goblin
+    creditAttribution: xGhostArtx7
+    email: 
+    userUrl: https://blendswap.com/profile/37729
+    downloadUrl: https://blendswap.com/blend/11652
+  - creditName: Ogre Creature
+    creditAttribution: Sazerac
+    email: 
+    userUrl: https://blendswap.com/profile/7589
+    downloadUrl: https://blendswap.com/blend/4979
+  - creditName: Saxon warrior
+    creditAttribution: Roachburn
+    email: 
+    userUrl: https://blendswap.com/profile/470725
+    downloadUrl: https://blendswap.com/blend/17296
+  - creditName: piggaru
+    creditAttribution: bhanusai
+    email: 
+    userUrl: https://blendswap.com/profile/169903
+    downloadUrl: https://blendswap.com/blend/14751
+  - creditName: Female Archer
+    creditAttribution: ScoutingNinja
+    email: 
+    userUrl: https://blendswap.com/profile/47101
+    downloadUrl: https://blendswap.com/blend/8053
+  - creditName: Dungeon Pack (Skeleton)
+    creditAttribution: ScoutingNinja
+    email: 
+    userUrl: https://blendswap.com/profile/47101
+    downloadUrl: https://blendswap.com/blend/6445
+  - creditName: Shock Bot
+    creditAttribution: Teh_Bucket
+    email: 
+    userUrl: https://opengameart.org/users/tehbucket
+    downloadUrl: https://opengameart.org/content/shock-bot

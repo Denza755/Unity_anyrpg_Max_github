@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eadb460dbc8deb846bcf629d0b1ba651
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/MedievalTavern/Prefab/barrel.prefab
+  uploadId: 932388

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c2964f2d3fe1ab2428bb935efa93e51c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/DataModels/SpawnPlayerRequest.cs
+  uploadId: 932388

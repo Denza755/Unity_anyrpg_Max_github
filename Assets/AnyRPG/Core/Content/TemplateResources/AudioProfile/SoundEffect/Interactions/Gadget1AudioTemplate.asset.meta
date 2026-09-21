@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 481b7ba96176c8b4185dc3ddf9aa5eb1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AudioProfile/SoundEffect/Interactions/Gadget1AudioTemplate.asset
+  uploadId: 932388

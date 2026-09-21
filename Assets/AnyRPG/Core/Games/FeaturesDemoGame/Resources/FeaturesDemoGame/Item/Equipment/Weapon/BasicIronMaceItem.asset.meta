@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c19119edc2f31af4cbd1e56c54d7dd5e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Item/Equipment/Weapon/BasicIronMaceItem.asset
+  uploadId: 932388

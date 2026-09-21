@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4150ebc5ad45ff845ae323550043168d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/EquipmentModelProfile/Armor/Cloth/CyanClothBracersEquipmentModelTemplate.asset
+  uploadId: 932388

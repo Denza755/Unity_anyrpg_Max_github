@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b491a306145b8e4aa064bbcf71f8e01, type: 3}
+  m_Name: InitiatesRobesQuest
+  m_EditorClassIdentifier: 
+  resourceName: Initiates Robes
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 'With the flax you collected, you can spin linen and make fine robes.
+
+
+    Fashion
+    a Cloth Hood, Cloth Robe, Cloth Boots, and Gloves Of Hammer.'
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  steps:
+  - questObjectives:
+    - rid: 3
+    - rid: 0
+    - rid: 1
+    - rid: 2
+  prerequisiteConditions:
+  - requireAny: 0
+    reverseMatch: 0
+    levelPrerequisites: []
+    characterClassPrerequisites: []
+    questPrerequisites:
+    - prerequisiteName: Refined Tastes (Channeler)
+      stepIndex: -1
+      requireComplete: 1
+      requireTurnedIn: 1
+    dialogPrerequisites: []
+    visitZonePrerequisites: []
+    tradeSkillPrerequisites: []
+    abilityPrerequisites: []
+    factionPrerequisites: []
+  repeatableQuest: 0
+  hasOpeningDialog: 0
+  experienceLevel: 5
+  dynamicLevel: 1
+  extraLevels: 0
+  baseExperienceReward: 0
+  experienceRewardPerLevel: 0
+  automaticCurrencyReward: 0
+  rewardCurrencyName: 
+  baseCurrencyReward: 0
+  currencyRewardPerLevel: 0
+  maxItemRewards: 0
+  itemRewardNames: []
+  maxFactionRewards: 0
+  factionRewards: []
+  maxAbilityRewards: 0
+  abilityRewardNames: []
+  maxSkillRewards: 0
+  skillRewardNames: []
+  turnInItems: 0
+  allowRawComplete: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: CollectObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        itemName: Initiates Cloth Hood
+        partialMatch: 0
+    - rid: 1
+      type: {class: CollectObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        itemName: Initiates Cloth Robe
+        partialMatch: 0
+    - rid: 2
+      type: {class: CollectObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        itemName: Initiates Cloth Shoes
+        partialMatch: 0
+    - rid: 3
+      type: {class: CollectObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        itemName: Initiates Cloth Gloves
+        partialMatch: 0

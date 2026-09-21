@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b491a306145b8e4aa064bbcf71f8e01, type: 3}
+  m_Name: InvestigateTheManaSealQuest
+  m_EditorClassIdentifier: 
+  resourceName: Investigate The Mana Seal
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: Follow the map to the mana seal and investigate it.
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  isAchievement: 0
+  repeatableQuest: 0
+  hasOpeningDialog: 1
+  experienceLevel: 1
+  dynamicLevel: 1
+  extraLevels: 0
+  baseExperienceReward: 0
+  experienceRewardPerLevel: 0
+  automaticCurrencyReward: 0
+  rewardCurrencyName: 
+  baseCurrencyReward: 0
+  currencyRewardPerLevel: 0
+  maxItemRewards: 0
+  itemRewardNames: []
+  maxFactionRewards: 0
+  factionRewards: []
+  maxAbilityRewards: 0
+  abilityRewardNames: []
+  maxSkillRewards: 0
+  skillRewardNames: []
+  steps:
+  - questObjectives:
+    - id: 0
+  - questObjectives:
+    - id: 1
+  - questObjectives:
+    - id: 2
+  - questObjectives:
+    - id: 3
+  - questObjectives:
+    - id: 4
+  deprecatedCollectObjectives: []
+  deprecatedKillObjectives: []
+  deprecatedTradeSkillObjectives: []
+  deprecatedAbilityObjectives: []
+  deprecatedUseInteractableObjectives: []
+  deprecatedQuestQuestObjectives: []
+  deprecatedDialogObjectives:
+  - amount: 0
+    deprecatedType: A Discharged LunaMech
+    overrideDisplayName: 
+    dialogName: 
+  - amount: 0
+    deprecatedType: A Dusty LunaMech
+    overrideDisplayName: 
+    dialogName: 
+  - amount: 0
+    deprecatedType: A Holy LunaMech
+    overrideDisplayName: 
+    dialogName: 
+  - amount: 0
+    deprecatedType: An Unlit SunFocus
+    overrideDisplayName: 
+    dialogName: 
+  deprecatedVisitZoneObjectives: []
+  prerequisiteConditions:
+  - requireAny: 0
+    reverseMatch: 0
+    levelPrerequisites: []
+    characterClassPrerequisites: []
+    questPrerequisites:
+    - prerequisiteName: Investigate The Outpost
+      stepIndex: -1
+      requireComplete: 0
+      requireTurnedIn: 1
+    dialogPrerequisites: []
+    visitZonePrerequisites: []
+    tradeSkillPrerequisites: []
+    abilityPrerequisites: []
+    factionPrerequisites: []
+  turnInItems: 0
+  allowRawComplete: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: VisitZoneObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        deprecatedType: 
+        overrideDisplayName: Travel To The ManaSeal
+        zoneName: ManaSeal
+    00000001:
+      type: {class: DialogObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        deprecatedType: 
+        overrideDisplayName: 
+        dialogName: A Discharged LunaMech
+    00000002:
+      type: {class: DialogObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        deprecatedType: 
+        overrideDisplayName: 
+        dialogName: A Holy LunaMech
+    00000003:
+      type: {class: DialogObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        deprecatedType: 
+        overrideDisplayName: 
+        dialogName: A Dusty LunaMech
+    00000004:
+      type: {class: DialogObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        deprecatedType: 
+        overrideDisplayName: 
+        dialogName: An Unlit SunFocus

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8aeff06543b9094cac91ab0a8ab9020
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/MailboxButton.prefab
+  uploadId: 932388

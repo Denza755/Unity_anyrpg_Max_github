@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: AJourneyOfAThousandMilesDialog
+  m_EditorClassIdentifier: 
+  resourceName: A Journey Of A Thousand Miles
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 0
+    description: 'I''m sure by now you understand why it is so important that mana
+      in any form can not be allowed to be free in the world.
+
+
+      All the progress
+      made over the last several thousand years would be undone in an instant and
+      the world would once again be plunged into chaos.'
+    nextOption: Indeed
+  - startTime: 0
+    showTime: 0
+    description: 'Therefore, I can not allow you access to information about dangerous
+      elemental energies yet.
+
+
+      You must travel to the ManaSeal and determine
+      if it is intact and functional so to rule out the chance that those crystals
+      you have came from another source.'
+    nextOption: Where is the ManaSeal?
+  - startTime: 0
+    showTime: 0
+    description: 'The location is a closely guarded secret.
+
+
+      You will have
+      to travel far to find someone who knows its whereabouts.'
+    nextOption: Where should I go?
+  - startTime: 0
+    showTime: 0
+    description: 'High Channeler Fyssion is over there in the back of the room.
+
+
+      Go
+      talk to him.'
+    nextOption: Ok, I'll go now
+  prerequisiteConditions: []

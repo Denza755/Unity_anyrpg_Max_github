@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d47a4ce88b8e45a4bb2697791aa31fe5
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/DataModels/CharacterSkillData.cs
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9533ebcdf02d0a941aa27ecef620bde8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Equipment/WW_Clothes/Material/ClothWristbandBlue.mat
+  uploadId: 932388

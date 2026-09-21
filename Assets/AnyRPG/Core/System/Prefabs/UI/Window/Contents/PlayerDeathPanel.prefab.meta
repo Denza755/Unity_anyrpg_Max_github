@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 08ac38f1356ff854ebd66d5c2703232a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/PlayerDeathPanel.prefab
+  uploadId: 932388

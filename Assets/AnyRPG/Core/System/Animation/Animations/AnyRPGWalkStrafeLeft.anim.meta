@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 395c30fd747576b4083726b8ea4b7860
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Animation/Animations/AnyRPGWalkStrafeLeft.anim
+  uploadId: 932388

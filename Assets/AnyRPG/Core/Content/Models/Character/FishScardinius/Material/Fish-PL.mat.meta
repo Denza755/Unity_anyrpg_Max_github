@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0bd7571d1fc916649919e93502935dc7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Character/FishScardinius/Material/Fish-PL.mat
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d8efcba26715c145a6bdb7c87cf6c51
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/ChatCommand/GainXPCommandTemplate.asset
+  uploadId: 932388

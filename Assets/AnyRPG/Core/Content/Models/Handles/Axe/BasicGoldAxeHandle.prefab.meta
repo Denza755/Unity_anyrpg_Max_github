@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 37c114ca79ce8bb46973ed74ec23afa3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Axe/BasicGoldAxeHandle.prefab
+  uploadId: 932388

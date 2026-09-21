@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: PetitionThePriestessDialog
+  m_EditorClassIdentifier: 
+  resourceName: Petition The Priestess
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 0
+    description: 'Welcome, recruit.
+
+
+      I''ve heard stories of your bravery in
+      the grove.
+
+
+      It''s a pleasure to finally meet you in person.'
+    nextOption: Thank you your highness
+  - startTime: 0
+    showTime: 0
+    description: What can I help you with?
+    nextOption: Here is a gift of cheese
+  - startTime: 0
+    showTime: 0
+    description: 'Oh lovely, you really are as impressive as they claimed.
+
+
+      Thank
+      you so much.  '
+    nextOption: You Are Welcome
+  - startTime: 0
+    showTime: 0
+    description: 'Ser Invyncible said you had discovered something in the grove.
+
+
+      Tell
+      me about it.'
+    nextOption: The dead came back to life
+  - startTime: 0
+    showTime: 0
+    description: 'So it is true then?
+
+
+      I thought the knight was just telling
+      another drunken tale.'
+    nextOption: I found these crystals on their bodies
+  - startTime: 0
+    showTime: 0
+    description: 'Oh no! [gasps]
+
+
+      Normally anyone caught with those would
+      be jailed instantly.
+
+
+      Possession of mana has been banned since the War
+      Of The Magi.'
+    nextOption: Why?
+  - startTime: 0
+    showTime: 0
+    description: 'Do you really not know?
+
+
+      They did mention you were a bit
+      odd, but I thought they were exagerating.
+
+
+      Mana almost destroyed the
+      world.'
+    nextOption: So what are the chances you could help me find more?
+  - startTime: 0
+    showTime: 0
+    description: 'Elemental mana like the kind you are holding hasn''t been seen
+      for thousands of years.
+
+
+      If it has re-emerged into the world it would
+      be prudent to find out how and try to remedy the situation before another war
+      breaks out.
+
+
+'
+    nextOption: So that's a yes?
+  - startTime: 0
+    showTime: 0
+    description: 'Not so fast.
+
+
+      I can''t send you out unprepared.
+
+
+      What
+      do you know about the purpose of the SunSworn.'
+    nextOption: Nothing really
+  - startTime: 0
+    showTime: 0
+    description: 'I figured as much.
+
+
+      Go talk to Apprentice Historian Flare
+      to learn about the history of the SunSworn.'
+    nextOption: So I need a history lesson?
+  - startTime: 0
+    showTime: 0
+    description: 'Indeed.
+
+
+      The sunsworn exist to keep the world safe from
+      magic.
+
+
+      You must understand the threat we once conquered if you are
+      to help us overcome it again.'
+    nextOption: Ok, I'll talk to Flare now
+  prerequisiteConditions:
+  - requireAny: 0
+    reverseMatch: 0
+    levelPrerequisites: []
+    characterClassPrerequisites: []
+    questPrerequisites:
+    - prerequisiteName: Ask For Help
+      requireComplete: 0
+      requireTurnedIn: 0
+    dialogPrerequisites: []
+    visitZonePrerequisites: []
+    tradeSkillPrerequisites: []
+    abilityPrerequisites: []
+    factionPrerequisites: []

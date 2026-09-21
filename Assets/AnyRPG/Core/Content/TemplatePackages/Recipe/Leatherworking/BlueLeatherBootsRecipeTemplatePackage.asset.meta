@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7cc9ff8dbbf2ce4c8f083e3cf799cdc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Leatherworking/BlueLeatherBootsRecipeTemplatePackage.asset
+  uploadId: 932388

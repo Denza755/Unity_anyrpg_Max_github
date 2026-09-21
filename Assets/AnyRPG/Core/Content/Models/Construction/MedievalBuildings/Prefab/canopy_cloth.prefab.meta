@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc938ced445be4546bd6aa9b4c6b638f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Construction/MedievalBuildings/Prefab/canopy_cloth.prefab
+  uploadId: 932388

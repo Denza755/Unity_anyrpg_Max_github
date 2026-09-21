@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: dc8b3dc8003ad294dadd5f143e673fe4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Interactables/CutsceneComponent.cs
+  uploadId: 932388

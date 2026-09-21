@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ee2f84346e2e9f469a4ff2765024fb3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/NavigablePanels/GamePadActionBar.prefab
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81c02432b79f952468a2a16330837653
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Tailoring/8SlotBagRecipeTemplatePackage.asset
+  uploadId: 932388

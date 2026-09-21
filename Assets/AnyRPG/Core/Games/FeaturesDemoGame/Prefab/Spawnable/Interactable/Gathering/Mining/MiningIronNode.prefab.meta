@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0bca5193d4989454ab881168d74ff127
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/Spawnable/Interactable/Gathering/Mining/MiningIronNode.prefab
+  uploadId: 932388

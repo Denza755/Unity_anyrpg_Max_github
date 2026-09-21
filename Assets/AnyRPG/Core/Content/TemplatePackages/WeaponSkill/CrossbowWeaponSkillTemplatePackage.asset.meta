@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 33c40366fdc4a3c4bbf81e7cf2bb5e02
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/WeaponSkill/CrossbowWeaponSkillTemplatePackage.asset
+  uploadId: 932388

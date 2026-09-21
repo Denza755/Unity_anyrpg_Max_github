@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ee71a1581dacab47b6b03a4501e3e1a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicSteelOneHandSword.prefab
+  uploadId: 932388

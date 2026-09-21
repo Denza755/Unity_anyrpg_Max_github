@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6d6282e73161cc240aed1b63d26da578
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/Potions/Prefab/PotionGreen.prefab
+  uploadId: 932388

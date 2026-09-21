@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 337974684123adc4d886583f0cb835c7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/EquipmentModelProfile/Armor/Cloth/GreenClothBracersEquipmentModelTemplate.asset
+  uploadId: 932388

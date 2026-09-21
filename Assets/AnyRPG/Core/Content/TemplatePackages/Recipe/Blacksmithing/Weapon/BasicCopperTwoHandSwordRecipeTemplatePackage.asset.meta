@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c1b86f222a0b7744be25896650bfe1c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/BasicCopperTwoHandSwordRecipeTemplatePackage.asset
+  uploadId: 932388

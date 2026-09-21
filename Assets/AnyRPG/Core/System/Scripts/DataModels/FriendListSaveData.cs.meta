@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 509926a5921c88548b280ba12a3616ed
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/DataModels/FriendListSaveData.cs
+  uploadId: 932388

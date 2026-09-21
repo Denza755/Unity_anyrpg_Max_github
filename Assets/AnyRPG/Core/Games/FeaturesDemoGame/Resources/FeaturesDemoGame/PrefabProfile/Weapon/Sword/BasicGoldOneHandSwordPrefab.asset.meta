@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c623a8433884a548bf7a49041eb1a68
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Weapon/Sword/BasicGoldOneHandSwordPrefab.asset
+  uploadId: 932388

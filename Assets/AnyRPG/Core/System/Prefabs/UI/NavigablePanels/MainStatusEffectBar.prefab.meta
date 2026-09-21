@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f5bd22e8a2e080643876707ab7309688
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/NavigablePanels/MainStatusEffectBar.prefab
+  uploadId: 932388

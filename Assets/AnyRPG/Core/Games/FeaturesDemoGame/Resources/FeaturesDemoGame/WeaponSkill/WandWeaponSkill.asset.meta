@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f758e3c57feaefd429e4ed2c15eadd71
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/WeaponSkill/WandWeaponSkill.asset
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba09f14eb0109ba459f4520b82c3fadc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/Character/Unit/DefaultCharacterUnit.prefab
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d95a10eedefb3554684e689d949c1e46
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/BasicGoldSabreRecipeTemplatePackage.asset
+  uploadId: 932388

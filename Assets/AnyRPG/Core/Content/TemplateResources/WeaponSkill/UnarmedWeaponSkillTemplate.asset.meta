@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce9e17c515050794aa1831e40b924896
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/WeaponSkill/UnarmedWeaponSkillTemplate.asset
+  uploadId: 932388

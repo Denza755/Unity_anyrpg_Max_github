@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 710fc69807ce3a041a6a8f242486637f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Recipe/LeatherWorking/BrownLeatherBootsRecipeTemplate.asset
+  uploadId: 932388

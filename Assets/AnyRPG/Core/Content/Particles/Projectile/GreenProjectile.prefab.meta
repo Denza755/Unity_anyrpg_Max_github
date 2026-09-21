@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 170565ca839d6ca47a64edce654246f7
+timeCreated: 1463062621
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Projectile/GreenProjectile.prefab
+  uploadId: 932388

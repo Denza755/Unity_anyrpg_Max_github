@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9d67dc4f49c8c3d4a9cc3c77a1b8f946
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/CurrencyPanelButton.prefab
+  uploadId: 932388

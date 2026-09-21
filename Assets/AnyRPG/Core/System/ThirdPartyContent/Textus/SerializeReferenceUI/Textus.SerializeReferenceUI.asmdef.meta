@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 73106583b323919458c1e05166706ce3
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/ThirdPartyContent/Textus/SerializeReferenceUI/Textus.SerializeReferenceUI.asmdef
+  uploadId: 932388

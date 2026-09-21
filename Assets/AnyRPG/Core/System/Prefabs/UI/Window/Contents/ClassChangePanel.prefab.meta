@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 07f64899299257840bfe99c10b9446b3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/ClassChangePanel.prefab
+  uploadId: 932388

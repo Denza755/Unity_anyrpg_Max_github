@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6d6a9ef7562417248974a07c4775992c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Templates/Prefabs/Attachments/ShieldAttachment.prefab
+  uploadId: 932388

@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: FindHelpDialog
+  m_EditorClassIdentifier: 
+  resourceName: Find Help
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'The Knight stares blankly at you.
+
+
+      What do you want?'
+    nextOption: Where are the bunnies?
+  - startTime: 0
+    showTime: 10
+    description: What bunnies?
+    nextOption: I need your help saving the world
+  - startTime: 0
+    showTime: 10
+    description: What do bunnies have to do with that?
+    nextOption: I must defeat the bunnies to save the world
+  - startTime: 0
+    showTime: 10
+    description: '[Rolls his eyes and mutters something under his breath about crazy
+      peasants]
+
+
+      I think those zombies over there already saved the world
+      for you.
+
+
+      They slaughtered all the bunnies!'
+    nextOption: Zombies?  Aaaaah
+  - startTime: 0
+    showTime: 10
+    description: 'The dead have come back to life and trapped us in here.
+
+
+      If
+      we can''t defeat them we won''t even survive the night.'
+    nextOption: That does sound serious
+  - startTime: 0
+    showTime: 10
+    description: 'If you want the help of the SunSworn, you must prove yourself to
+      the High Priestess.
+
+
+      Join our ranks and help us fight these undead.
+
+
+      If
+      we survive, the Priestess will be in your debt and will help you with anything
+      you need.'
+    nextOption: Deal!
+  prerequisiteConditions:
+  - requireAny: 0
+    reverseMatch: 0
+    levelPrerequisites: []
+    characterClassPrerequisites: []
+    questPrerequisites:
+    - prerequisiteName: Back To The Future
+      requireComplete: 0
+      requireTurnedIn: 1
+    dialogPrerequisites: []
+    visitZonePrerequisites: []
+    tradeSkillPrerequisites: []
+    abilityPrerequisites: []
+    factionPrerequisites: []

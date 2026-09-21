@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51925d60f410be44fafb56c1ec9cfeb1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/ConfirmJoinGroupPanel.prefab
+  uploadId: 932388

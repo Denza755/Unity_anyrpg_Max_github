@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 719c110159066c248a96ca51a4a32b5e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/LootWindow.prefab
+  uploadId: 932388

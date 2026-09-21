@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f285842a7cd4c74e9b68a9e353e5ad6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Materials/IronMat.mat
+  uploadId: 932388

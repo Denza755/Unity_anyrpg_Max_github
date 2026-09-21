@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 006613fa546953c4497fd31d8a5666f4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Ability/AnimatedAttack/KnockBackAbilityTemplate.asset
+  uploadId: 932388

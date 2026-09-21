@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eb1480748ca894b46adefefc6ac1c64f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Abilities/Effect/MountEffectConfig.cs
+  uploadId: 932388

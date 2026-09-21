@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0531bacacfb3eb149b7cc712aef0446d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Equipment/Cloth/ClothShouldersGrayPrefab.asset
+  uploadId: 932388

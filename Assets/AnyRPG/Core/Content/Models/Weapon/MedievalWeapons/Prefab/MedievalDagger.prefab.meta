@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6ecf55b6c47192c44ad0fcf2115799a7
+labels:
+- Weapon
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/MedievalWeapons/Prefab/MedievalDagger.prefab
+  uploadId: 932388

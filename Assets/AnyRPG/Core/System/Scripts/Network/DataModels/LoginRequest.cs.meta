@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 14ef30de9b43da04a886450b198b284d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Network/DataModels/LoginRequest.cs
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92a6b1d260e8d2942a7d7c300ef72b90
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Recipe/BlackSmithing/Armor/CopperPlateLegsRecipeTemplate.asset
+  uploadId: 932388

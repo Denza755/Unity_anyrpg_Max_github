@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c761a949f7eecd46b34154bd4331465
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Ingot/CopperIngotRecipeTemplatePackage.asset
+  uploadId: 932388

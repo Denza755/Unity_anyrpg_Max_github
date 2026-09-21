@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e545b77d5212fb4b99ce4ef864f0e34
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/EpicMedievalDaggerRecipeTemplatePackage.asset
+  uploadId: 932388

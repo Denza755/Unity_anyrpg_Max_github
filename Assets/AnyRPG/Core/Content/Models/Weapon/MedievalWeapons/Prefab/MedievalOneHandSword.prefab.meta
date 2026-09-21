@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b2205909cc422ae4f8d52cc16be1e743
+labels:
+- Weapon
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/MedievalWeapons/Prefab/MedievalOneHandSword.prefab
+  uploadId: 932388

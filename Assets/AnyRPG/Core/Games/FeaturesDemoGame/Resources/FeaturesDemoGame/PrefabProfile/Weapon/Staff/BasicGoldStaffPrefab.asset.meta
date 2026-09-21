@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8d2086cd31ab8e45ab3ad97b5962024
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Weapon/Staff/BasicGoldStaffPrefab.asset
+  uploadId: 932388

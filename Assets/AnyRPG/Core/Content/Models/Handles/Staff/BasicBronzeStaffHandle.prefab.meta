@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e9c7cf7ba9766004ca1ce6c9c57bf2be
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Staff/BasicBronzeStaffHandle.prefab
+  uploadId: 932388

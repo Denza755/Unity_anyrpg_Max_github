@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acbdbda413a9e75489c46764c8bc894e, type: 3}
+  m_Name: EngineVisualEffectsCredits
+  m_EditorClassIdentifier: 
+  resourceName: Engine Visual Effects
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  categoryName: Visual Effects
+  creditsNodes:
+  - creditName: Skull Death Effect Spritesheet
+    creditAttribution: jellyfizh
+    email: 
+    userUrl: https://opengameart.org/users/jellyfizh
+    downloadUrl: https://opengameart.org/content/skull-death-effect-spritesheet
+  - creditName: Poof Effect Spritesheet
+    creditAttribution: jellyfizh
+    email: 
+    userUrl: https://opengameart.org/users/jellyfizh
+    downloadUrl: https://opengameart.org/content/poof-effect-spritesheet
+  - creditName: Heart Achievement Effect Animation
+    creditAttribution: jellyfizh
+    email: 
+    userUrl: https://opengameart.org/users/jellyfizh
+    downloadUrl: https://opengameart.org/content/heart-achievement-effect-animation
+  - creditName: Fireworks Effect Spritesheet
+    creditAttribution: jellyfizh
+    email: 
+    userUrl: https://opengameart.org/users/jellyfizh
+    downloadUrl: https://opengameart.org/content/fireworks-effect-spritesheet
+  - creditName: Star Achievement Effect Animation
+    creditAttribution: jellyfizh
+    email: 
+    userUrl: https://opengameart.org/users/jellyfizh
+    downloadUrl: https://opengameart.org/content/star-achievement-effect-animation
+  - creditName: 2D Explosion Animations #3
+    creditAttribution: Sinestesia
+    email: 
+    userUrl: https://opengameart.org/users/sinestesia
+    downloadUrl: https://opengameart.org/content/2d-explosion-animations-3-frame-by-frame
+  - creditName: Hit Animation 2
+    creditAttribution: Sinestesia
+    email: 
+    userUrl: https://opengameart.org/users/sinestesia
+    downloadUrl: https://opengameart.org/content/hit-animation-2-frame-by-frame
+  - creditName: Animations - Blood, Hit and Both
+    creditAttribution: Sinestesia
+    email: 
+    userUrl: https://opengameart.org/users/sinestesia
+    downloadUrl: https://opengameart.org/content/animations-blood-hit-and-both-d
+  - creditName: Hit Animation
+    creditAttribution: Sinestesia
+    email: 
+    userUrl: https://opengameart.org/users/sinestesia
+    downloadUrl: https://opengameart.org/content/hit-animation-frame-by-frame
+  - creditName: Gold Coins Animation
+    creditAttribution: Sinestesia
+    email: 
+    userUrl: https://opengameart.org/users/sinestesia
+    downloadUrl: https://opengameart.org/content/gold-coins-animation-frame-by-frame
+  - creditName: 2D Explosion Animations #2
+    creditAttribution: Sinestesia
+    email: 
+    userUrl: https://opengameart.org/users/sinestesia
+    downloadUrl: https://opengameart.org/content/2d-explosion-animations-2-frame-by-frame
+  - creditName: 2D Explosion Animations
+    creditAttribution: Sinestesia
+    email: 
+    userUrl: https://opengameart.org/users/sinestesia
+    downloadUrl: https://opengameart.org/content/2d-explosion-animations-frame-by-frame
+  - creditName: Lots of game effects
+    creditAttribution: Soluna Software
+    email: 
+    userUrl: https://opengameart.org/users/soluna-software
+    downloadUrl: https://opengameart.org/content/lots-of-game-effects
+  - creditName: Explosion effects and more
+    creditAttribution: Soluna Software
+    email: 
+    userUrl: https://opengameart.org/users/soluna-software
+    downloadUrl: https://opengameart.org/content/explosion-effects-and-more
+  - creditName: Bloodsplatter and Bloodsplash Animation
+    creditAttribution: overcrafted
+    email: 
+    userUrl: https://opengameart.org/users/overcrafted
+    downloadUrl: https://opengameart.org/content/bloodsplatter-and-bloodsplash-animation
+  - creditName: Lightning animation
+    creditAttribution: Calinou
+    email: 
+    userUrl: https://opengameart.org/users/calinou
+    downloadUrl: https://opengameart.org/content/lightning-animation
+  - creditName: Explosions
+    creditAttribution: Graul98
+    email: 
+    userUrl: https://opengameart.org/users/graul98
+    downloadUrl: https://opengameart.org/content/explosions-1
+  - creditName: 25 special effects
+    creditAttribution: rubberduck
+    email: 
+    userUrl: https://opengameart.org/users/rubberduck
+    downloadUrl: https://opengameart.org/content/25-special-effects-rendered-with-blender
+  - creditName: Item Popup Starburst
+    creditAttribution: Esthar
+    email: 
+    userUrl: https://opengameart.org/users/esthar
+    downloadUrl: https://opengameart.org/content/item-popup-starburst
+  - creditName: Animated particle effects #2
+    creditAttribution: para
+    email: 
+    userUrl: https://opengameart.org/users/para
+    downloadUrl: https://opengameart.org/content/animated-particle-effects-2
+  - creditName: Fire FX - Burning Fire Animation
+    creditAttribution: Mikodrak
+    email: 
+    userUrl: https://opengameart.org/users/mikodrak
+    downloadUrl: https://opengameart.org/content/fire-fx-burning-fire-animation
+  - creditName: 2D Spell Effects
+    creditAttribution: Mikodrak
+    email: 
+    userUrl: https://opengameart.org/users/mikodrak
+    downloadUrl: https://opengameart.org/content/2d-spell-effects

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d87e10168ed17046b710ad4aff6cc3a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Armor/Cloth/GreenClothPantsTemplatePackage.asset
+  uploadId: 932388

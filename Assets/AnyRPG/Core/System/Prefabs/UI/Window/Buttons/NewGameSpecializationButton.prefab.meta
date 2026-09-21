@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 33b93f32f9512ab4492f9bf1d33c2be3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/NewGameSpecializationButton.prefab
+  uploadId: 932388

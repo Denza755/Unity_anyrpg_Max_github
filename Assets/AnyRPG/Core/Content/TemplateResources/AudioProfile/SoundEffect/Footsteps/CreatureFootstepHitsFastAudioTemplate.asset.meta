@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f59fe3225f8f79428f38b8a44034ce9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AudioProfile/SoundEffect/Footsteps/CreatureFootstepHitsFastAudioTemplate.asset
+  uploadId: 932388

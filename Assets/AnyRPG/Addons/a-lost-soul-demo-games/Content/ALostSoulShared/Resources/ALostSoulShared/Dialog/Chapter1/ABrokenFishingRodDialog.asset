@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: ABrokenFishingRodDialog
+  m_EditorClassIdentifier: 
+  resourceName: A Broken Fishing Rod
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'Oh no!
+
+
+      That rod you are carrying looks like it belonged
+      to someone I know.'
+    nextOption: That's why I am here
+  - startTime: 0
+    showTime: 10
+    description: 'The initials on the rod, SAL, indicate that this belonged to SwimALot,
+      a champion explorer in our ranks.
+
+
+      He left on a search to find the Great
+      GoldenFish in the mythical Lost City Of Eldorado.'
+    nextOption: What happened to him?
+  - startTime: 0
+    showTime: 10
+    description: 'Nothing bad I hope, but SwimALot would never leave his fishing
+      rod behind.
+
+
+      I hope he didn''t get captured.'
+    nextOption: Who would capture him?
+  - startTime: 0
+    showTime: 10
+    description: 'The city is rumored to be sunken off the coast.
+
+
+      To get
+      to the coast requires travelling through the Glowing Forest, home of the Goblins.'
+    nextOption: That sounds dangerous
+  - startTime: 0
+    showTime: 10
+    description: 'It gets worse!
+
+
+      Beyond the forest is the Mystical Village,
+      which has beem walled off behind a magical shield for millenia.
+
+
+      The
+      channelers there are hostile to all outsiders.'
+    nextOption: Uh Oh
+  - startTime: 0
+    showTime: 10
+    description: 'Thank you for returning his rod to me.
+
+
+      He has been gone
+      quite some time and at least now we know that he may be in trouble.
+
+
+      In
+      honor of his dedication to fishing, I would like to pass on the art to you.'
+    nextOption: Thank you, that sounds quite useful
+  prerequisiteConditions:
+  - requireAny: 0
+    reverseMatch: 0
+    levelPrerequisites: []
+    characterClassPrerequisites: []
+    questPrerequisites:
+    - prerequisiteName: A Broken Fishing Rod
+      requireComplete: 0
+      requireTurnedIn: 0
+    dialogPrerequisites: []
+    visitZonePrerequisites: []
+    tradeSkillPrerequisites: []
+    abilityPrerequisites: []
+    factionPrerequisites: []

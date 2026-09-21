@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26fdd4821f323994fa75a48c54e14d08
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Prefabs/Holdables/Gathering/Mining/SilverOreHandle.prefab
+  uploadId: 932388

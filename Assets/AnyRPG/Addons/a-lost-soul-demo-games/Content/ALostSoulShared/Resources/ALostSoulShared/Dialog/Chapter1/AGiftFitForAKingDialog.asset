@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: AGiftFitForAKingDialog
+  m_EditorClassIdentifier: 
+  resourceName: A Gift Fit For A King
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: "Wow!  \n\nYou eliminated the undead threat and discovered the source
+      of all the (re)animation happening here."
+    nextOption: All in a days work
+  - startTime: 0
+    showTime: 10
+    description: 'We will need to bring back these crystal samples to the capital.
+
+
+      One
+      of the elder Chanellers there may know why they are animating things.'
+    nextOption: So now I can ask the Priestess for help?
+  - startTime: 0
+    showTime: 10
+    description: 'Of course.
+
+
+      There is just one more thing.
+
+
+      Remember
+      how you took an oath to bring the High Priestess cheese?'
+    nextOption: Wait, that wasn't a joke?
+  - startTime: 0
+    showTime: 10
+    description: 'You have proved yourself loyal to the SunSworn.
+
+
+      I''m sure
+      the High Priestess would be happy to help you if you bring her a small gift.'
+    nextOption: What's with her and cheese anyway?
+  - startTime: 0
+    showTime: 10
+    description: It's kind of an open secret that it's not really for her.
+    nextOption: Then who's it for?
+  - startTime: 0
+    showTime: 10
+    description: She's trying to impress this foreign King who really likes cheese
+    nextOption: ...
+  - startTime: 0
+    showTime: 10
+    description: 'There are some mice nearby who may have a little to spare.
+
+
+      Follow
+      the road directly South until you find their camp.'
+    nextOption: Yes Sir
+  prerequisiteConditions: []

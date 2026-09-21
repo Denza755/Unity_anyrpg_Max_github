@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bf5dd6b08fd6a7e45968c13c621c6a59
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Mace/MedievalTwoHandMaceHandle.prefab
+  uploadId: 932388

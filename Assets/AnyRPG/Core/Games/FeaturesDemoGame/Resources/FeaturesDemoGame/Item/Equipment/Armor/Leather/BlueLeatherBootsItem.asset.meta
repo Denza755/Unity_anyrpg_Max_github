@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ad8f8495040ff84f82aa0bd624afcf1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Item/Equipment/Armor/Leather/BlueLeatherBootsItem.asset
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93c15a07d3354e04b860f13f85e886bf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Character/Class/WarriorUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

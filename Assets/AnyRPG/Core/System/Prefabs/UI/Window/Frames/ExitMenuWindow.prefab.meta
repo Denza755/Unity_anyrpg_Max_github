@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 722b25f0022b0dd449d1944abf0801d7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/ExitMenuWindow.prefab
+  uploadId: 932388

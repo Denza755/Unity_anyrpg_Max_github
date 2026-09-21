@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e9037c491c02f446b787dd9ce0a815d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Templates/Prefabs/WeaponHandle/ProjectileHandleTemplate.prefab
+  uploadId: 932388

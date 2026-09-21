@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b1269c285f53d9d46931bcc0914e62dc
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/ThirdPartyContent/Unity-URP-Outline/Shaders/GaussianBlur.hlsl
+  uploadId: 932388

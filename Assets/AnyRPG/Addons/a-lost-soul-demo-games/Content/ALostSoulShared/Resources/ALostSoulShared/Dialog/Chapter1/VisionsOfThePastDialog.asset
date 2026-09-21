@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: VisionsOfThePastDialog
+  m_EditorClassIdentifier: 
+  resourceName: Visions Of The Past
+  displayName: 
+  icon: {fileID: 21300000, guid: 488535651c5862c418faf0f12ed3eff1, type: 3}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'The soul forge exists outside of any universe.
+
+
+      Unfortunately,
+      that means I can''t tell you how yours was destroyed.'
+    audioClip: {fileID: 0}
+    nextOption: What can you tell me?
+  - startTime: 0
+    showTime: 10
+    description: 'I can show you a time and place that are somehow connected to the
+      start of the event.
+
+
+      You will have to investigate from there.
+
+
+      Are
+      you ready?'
+    audioClip: {fileID: 0}
+    nextOption: Yes!
+  prerequisiteConditions: []

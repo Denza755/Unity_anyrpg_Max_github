@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7977ed9906b643a49be63ed4b3a6cd23
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Dagger/BasicBronzeDaggerHandle.prefab
+  uploadId: 932388

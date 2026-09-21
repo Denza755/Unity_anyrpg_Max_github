@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acbdbda413a9e75489c46764c8bc894e, type: 3}
+  m_Name: EngineWeaponsCredits
+  m_EditorClassIdentifier: 
+  resourceName: Engine Weapons
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  categoryName: Weapons
+  creditsNodes:
+  - creditName: Medieval Weapon Pack
+    creditAttribution: System G6
+    email: 
+    userUrl: https://opengameart.org/users/system-g6
+    downloadUrl: https://opengameart.org/content/medieval-weapon-pack
+  - creditName: Cethiel's Weapons 3D
+    creditAttribution: drummyfish
+    email: 
+    userUrl: https://opengameart.org/users/drummyfish
+    downloadUrl: https://opengameart.org/content/cethiels-weapons-3d
+  - creditName: Melee Weapons
+    creditAttribution: Tedium Interactive
+    email: 
+    userUrl: https://opengameart.org/users/tedium-interactive
+    downloadUrl: https://opengameart.org/content/melee-weapons-0
+  - creditName: Human Skull
+    creditAttribution: CDmir
+    email: 
+    userUrl: https://opengameart.org/users/cdmir
+    downloadUrl: https://opengameart.org/content/human-skull-0
+  - creditName: Shield of death
+    creditAttribution: kindland
+    email: 
+    userUrl: https://opengameart.org/users/kindland
+    downloadUrl: https://opengameart.org/content/shield-of-death
+  - creditName: Archery Set
+    creditAttribution: yd
+    email: 
+    userUrl: https://opengameart.org/users/yd
+    downloadUrl: https://opengameart.org/content/archery-set
+  - creditName: Staff
+    creditAttribution: yd
+    email: 
+    userUrl: https://opengameart.org/users/yd
+    downloadUrl: https://opengameart.org/content/staff-1
+  - creditName: Tooth and spike collection
+    creditAttribution: mStuff
+    email: 
+    userUrl: https://blendswap.com/profile/60833
+    downloadUrl: https://blendswap.com/blend/12455
+  - creditName: Ninja Claws
+    creditAttribution: BiggDich
+    email: 
+    userUrl: https://blendswap.com/profile/372988
+    downloadUrl: https://blendswap.com/blend/16377

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dce2e0a04ded8c24c8aae2df414f23d1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Sword/BasicCopperTwoHandSwordHandle.prefab
+  uploadId: 932388

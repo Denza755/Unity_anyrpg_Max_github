@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56a5cc8b3359eaa4a90c54fe0d5df001
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Alchemy/BlueDyeRecipeTemplatePackage.asset
+  uploadId: 932388

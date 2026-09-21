@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d3e519b6b59c954ea8ac19d576b3ec2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/BlacksmithingSuppliesVendorUnitSpawnNode.prefab
+  uploadId: 932388

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a9dac3576cad8934da373d1c9dcb32fe
+timeCreated: 1464749731
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Helper/TransformExtension.cs
+  uploadId: 932388

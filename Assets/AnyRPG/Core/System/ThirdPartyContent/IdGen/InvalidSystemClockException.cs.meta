@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 3315b29eef8066848ad8a3d5fbebfb50
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/ThirdPartyContent/IdGen/InvalidSystemClockException.cs
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b39533d0ee7bbc4fb050eb6d48bc520
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AbilityEffect/Attack/Environmental/PoisonEffectTemplate.asset
+  uploadId: 932388

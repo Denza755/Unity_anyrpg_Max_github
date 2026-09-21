@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e79c28bf4b85b72468240a8d24aa6fef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/ChatCommand/SetCharacterClassCommandTemplate.asset
+  uploadId: 932388

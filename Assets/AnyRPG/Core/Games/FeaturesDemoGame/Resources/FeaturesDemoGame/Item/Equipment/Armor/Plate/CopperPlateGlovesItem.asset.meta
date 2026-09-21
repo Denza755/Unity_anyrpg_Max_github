@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ead0a1bfc4c01c24d8682b1055658f36
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Item/Equipment/Armor/Plate/CopperPlateGlovesItem.asset
+  uploadId: 932388

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bd42f879e8c7894478d1797b06dcc47a
+labels:
+- Weapon
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/MedievalWeapons/Prefab/MedievalQuiverArrow.prefab
+  uploadId: 932388

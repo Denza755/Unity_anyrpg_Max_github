@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8c0b404c325d604e8ac6f538227469e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Recipe/LeatherWorking/RedLeatherArmorRecipe.asset
+  uploadId: 932388

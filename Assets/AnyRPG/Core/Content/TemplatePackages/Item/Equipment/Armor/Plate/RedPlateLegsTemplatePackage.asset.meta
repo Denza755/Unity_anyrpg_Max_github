@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1cafd8f037e4064c8215d4ee9f5c083
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Armor/Plate/RedPlateLegsTemplatePackage.asset
+  uploadId: 932388

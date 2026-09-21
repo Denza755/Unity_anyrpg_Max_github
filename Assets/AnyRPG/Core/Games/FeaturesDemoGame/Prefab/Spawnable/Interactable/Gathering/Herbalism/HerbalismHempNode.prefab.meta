@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bc3006c58c920c5468fd3b5b45667197
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/Spawnable/Interactable/Gathering/Herbalism/HerbalismHempNode.prefab
+  uploadId: 932388

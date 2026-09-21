@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db0f8b72d52caca478fe964b9b3bd1d5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Prop/Crafting/Jewelry/YellowCrystalPrefab.asset
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af64c032f43bf23488cd47591015029f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/Potions/Prefab/DrinkableCloudyPotion.prefab
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 175346ea1f4bce749ba8a63359bf1138
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Construction/MedievalBuildings/Material/mat_gate_wood.mat
+  uploadId: 932388

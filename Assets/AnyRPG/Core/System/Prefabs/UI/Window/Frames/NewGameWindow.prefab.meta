@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0baf7cb1c4d3e6d429b8e4f25e8150c7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/NewGameWindow.prefab
+  uploadId: 932388

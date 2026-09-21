@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4f66a3e7058d9d54b9924eac494a8fc5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Dagger/BasicCopperDaggerHandle.prefab
+  uploadId: 932388

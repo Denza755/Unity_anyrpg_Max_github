@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7b6888be4c3e2b4fa9aa209c74ea933
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Item/Equipment/Armor/Leather/GreenLeatherHeadbandItem.asset
+  uploadId: 932388

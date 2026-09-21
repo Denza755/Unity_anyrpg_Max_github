@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cef60df193a13144185011f13c83ed25
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Armor/AllPlateEquipmentBronzeRecipesTemplatePackage.asset
+  uploadId: 932388

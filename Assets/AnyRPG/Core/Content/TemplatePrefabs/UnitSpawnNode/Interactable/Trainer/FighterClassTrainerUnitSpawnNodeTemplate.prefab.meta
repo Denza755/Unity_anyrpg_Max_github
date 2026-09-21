@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d7d8b4d04340174e906806a9147c6b9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Interactable/Trainer/FighterClassTrainerUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

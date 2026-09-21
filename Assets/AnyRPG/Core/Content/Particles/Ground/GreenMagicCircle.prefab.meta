@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 214aad2002c743040ba46273e6d67143
+timeCreated: 1447166802
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Particles/Ground/GreenMagicCircle.prefab
+  uploadId: 932388

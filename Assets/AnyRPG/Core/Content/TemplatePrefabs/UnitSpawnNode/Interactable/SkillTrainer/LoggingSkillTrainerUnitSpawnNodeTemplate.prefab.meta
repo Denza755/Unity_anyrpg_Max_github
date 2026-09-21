@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b08d321ce666df348adc653f7a16d025
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Interactable/SkillTrainer/LoggingSkillTrainerUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

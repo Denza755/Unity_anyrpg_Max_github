@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c587f94b8b07044bfa0c7e84557a16, type: 3}
+  m_Name: SerInvyncibleQuestGiver
+  m_EditorClassIdentifier: 
+  resourceName: Ser Invyncible
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  quests:
+  - startQuest: 1
+    endQuest: 1
+    questName: Join The SunSworn
+  - startQuest: 1
+    endQuest: 0
+    questName: You Are Not Prepared
+  - startQuest: 0
+    endQuest: 1
+    questName: Report For Duty
+  - startQuest: 1
+    endQuest: 1
+    questName: Kill 5 Undead
+  - startQuest: 1
+    endQuest: 1
+    questName: Kill The RingLeader
+  - startQuest: 0
+    endQuest: 1
+    questName: A Little Help From My Friends
+  - startQuest: 1
+    endQuest: 0
+    questName: A Gift Fit For A King
+  - startQuest: 0
+    endQuest: 1
+    questName: The Crystal Mine
+  - startQuest: 0
+    endQuest: 1
+    questName: A Strange Glowing Crystal
+  - startQuest: 1
+    endQuest: 0
+    questName: Investigate The Mines
+  - startQuest: 0
+    endQuest: 1
+    questName: Report Back To Camp

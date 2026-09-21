@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d87a90dc7584af42b489faa952a859d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Recipe/Tailoring/CyanClothSashRecipe.asset
+  uploadId: 932388

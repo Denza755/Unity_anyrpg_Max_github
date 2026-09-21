@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03b16bdf49dec1540b592995a11c6ee8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/Potions/Materials/PotionOrange_Mat.mat
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac7c266eda509f449aea6f1247f5d4af
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Elements/NameplateStatusEffectNode.prefab
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f216f183ab721cd48b5a72bd9198e79e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Armor/Leather/CyanLeatherHeadbandTemplatePackage.asset
+  uploadId: 932388

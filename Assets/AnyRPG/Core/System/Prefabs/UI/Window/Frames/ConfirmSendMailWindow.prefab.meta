@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc7dc14834613aa4390a1ee19ebea260
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/ConfirmSendMailWindow.prefab
+  uploadId: 932388

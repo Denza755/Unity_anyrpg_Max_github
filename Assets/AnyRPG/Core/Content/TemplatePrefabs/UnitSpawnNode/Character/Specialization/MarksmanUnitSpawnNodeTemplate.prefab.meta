@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ce9d1800dfe5e940a165298129febe8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Character/Specialization/MarksmanUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

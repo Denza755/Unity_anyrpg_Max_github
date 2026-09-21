@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2978eab5ca1f61b41b01ae2dcf0e59f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/BehaviorProfile/RunAroundTheWellBehavior.asset
+  uploadId: 932388

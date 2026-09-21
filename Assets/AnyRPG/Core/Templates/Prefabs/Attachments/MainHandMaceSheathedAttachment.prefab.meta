@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e8778217174fe69478c792f6979d397e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Templates/Prefabs/Attachments/MainHandMaceSheathedAttachment.prefab
+  uploadId: 932388

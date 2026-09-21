@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eba9402f16413b24b9e4e46e30e3dcc3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Particle/Ground/GreenCastingCirclePrefab.asset
+  uploadId: 932388

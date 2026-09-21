@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c4ad60673cc00648a9a8578e6058540
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/VendorCollection/Gathering/LoggingItemsVendorCollectionTemplate.asset
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 01607ac659cf2dc4ea25704d01f17948
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/InscriptionSuppliesVendorUnitSpawnNode.prefab
+  uploadId: 932388

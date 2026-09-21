@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a0b35308e1083a4cb562bc70d307cd4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Item/Equipment/Armor/Plate/IronPlateArmorItem.asset
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 14909584d4a919446861cebbec5d1075
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/NewGamePanel.prefab
+  uploadId: 932388

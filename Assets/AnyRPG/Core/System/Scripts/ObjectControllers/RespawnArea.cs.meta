@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 332b6841c1b765645bbe14d6ef884011
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/ObjectControllers/RespawnArea.cs
+  uploadId: 932388

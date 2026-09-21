@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a08198b12b6a5504d81d0fb9bc96e49c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Character/ModularRPGCharacters/Prefab/HumanMaleLightArmor.prefab
+  uploadId: 932388

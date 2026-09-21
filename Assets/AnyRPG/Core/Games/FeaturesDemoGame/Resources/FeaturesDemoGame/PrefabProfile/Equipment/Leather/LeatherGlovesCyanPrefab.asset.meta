@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21c8121a834d3ac4994a8aea4c068253
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Equipment/Leather/LeatherGlovesCyanPrefab.asset
+  uploadId: 932388

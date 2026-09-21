@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9db867c126ae5144ab7733e04fced825
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/InventoryPanel.prefab
+  uploadId: 932388

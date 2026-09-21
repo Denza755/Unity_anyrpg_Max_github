@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3f8558dbc0878414ea15adcb8b566917
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AudioProfile/SoundEffect/Footsteps/EchoingFootstepsAudioTemplate.asset
+  uploadId: 932388

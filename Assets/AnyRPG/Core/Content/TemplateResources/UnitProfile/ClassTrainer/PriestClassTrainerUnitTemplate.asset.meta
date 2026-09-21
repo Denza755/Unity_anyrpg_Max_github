@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9fb92c45d4de194aa5b3d6e4c0051de
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/UnitProfile/ClassTrainer/PriestClassTrainerUnitTemplate.asset
+  uploadId: 932388

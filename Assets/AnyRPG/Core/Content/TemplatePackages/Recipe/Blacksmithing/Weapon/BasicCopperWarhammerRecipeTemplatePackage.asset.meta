@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: edc1f1c2b522c114da7165765a55f71b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/BasicCopperWarhammerRecipeTemplatePackage.asset
+  uploadId: 932388

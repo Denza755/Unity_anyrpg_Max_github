@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05ad3533440555b41ba6318cdad1ca0b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Weapon/BasicGoldTwoHandSwordWeaponTemplatePackage.asset
+  uploadId: 932388

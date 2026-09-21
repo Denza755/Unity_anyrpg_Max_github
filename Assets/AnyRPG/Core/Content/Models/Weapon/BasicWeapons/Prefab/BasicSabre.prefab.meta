@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e842cfb37cfb8c84cb276c51781f4d66
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicSabre.prefab
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 147c21e9fb10d1f4dbad85570e9b64af
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/MailboxPanel.prefab
+  uploadId: 932388

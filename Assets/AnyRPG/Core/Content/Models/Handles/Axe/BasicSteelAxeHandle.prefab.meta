@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dee94c23d4d87b042b3617e35a7e9626
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Axe/BasicSteelAxeHandle.prefab
+  uploadId: 932388

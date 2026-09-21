@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b82e41a88dd9ea54a865dfb4d3f3096e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Editor/AnyRPGStartup.cs
+  uploadId: 932388

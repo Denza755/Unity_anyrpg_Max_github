@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7425e78ac91cfff41b3382151ada0dd5
+labels:
+- Weapon
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/MedievalWeapons/Prefab/MedievalTwoHandAxe.prefab
+  uploadId: 932388

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: ALostSoulDialog
+  m_EditorClassIdentifier: 
+  resourceName: A Lost Soul
+  icon: {fileID: 0}
+  description: 
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: Welcome To The Soul Forge
+    nextOption: What is the Soul Forge?
+  - startTime: 0
+    showTime: 10
+    description: 'This is where souls are created before beginning their journey to
+      their body.
+
+
+      Except... my records say you''ve already been born!'
+    nextOption: Shouldn't I have a body then?
+  - startTime: 0
+    showTime: 10
+    description: 'Yes, it shouldn''t be possible for you to return here.
+
+
+      Do you remember how you got here?'
+    nextOption: No, does that mean I'm dead?
+  - startTime: 0
+    showTime: 10
+    description: 'Souls are supposed to pass to the afterlife when they die.
+
+
+      Do you remember anything?'
+    nextOption: Not really, this all seems pretty unreal
+  - startTime: 0
+    showTime: 10
+    description: What about your name?
+    nextOption: I don't recall having a name
+  - startTime: 0
+    showTime: 10
+    description: 'Then I will call you Lost Soul!
+
+
+      What do you think?
+
+
+      It''s a great name right?'
+    nextOption: Umm... Uh... Sure... Fantastic...
+  - startTime: 0
+    showTime: 10
+    description: 'What?
+
+
+      You think you can come up with a better name?'
+    nextOption: Let Me Think...
+  prerequisiteConditions: []

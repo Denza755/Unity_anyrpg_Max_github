@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4624df3594d472b4cbb4edc47d5185b8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Ability/Mount/DragonMountAbilityTemplate.asset
+  uploadId: 932388

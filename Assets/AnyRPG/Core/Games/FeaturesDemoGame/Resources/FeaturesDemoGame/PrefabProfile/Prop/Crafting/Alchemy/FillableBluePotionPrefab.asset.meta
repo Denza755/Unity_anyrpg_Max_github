@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80ca9574442e241408fde7523aec39cf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Prop/Crafting/Alchemy/FillableBluePotionPrefab.asset
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1106303006a448842a53b581efe3a89f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Recipe/Alchemy/Dye/CyanDyeRecipeTemplate.asset
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db1573b76307c6b448c1b17c826ef7a5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/VoiceProfile/MaleGuardVoiceTemplate.asset
+  uploadId: 932388

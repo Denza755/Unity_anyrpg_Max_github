@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: beff2a4e4d827554389132d043a696e4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/DemoScenes/CorePrefabs/CorePrefabsLightingSettings.lighting
+  uploadId: 932388

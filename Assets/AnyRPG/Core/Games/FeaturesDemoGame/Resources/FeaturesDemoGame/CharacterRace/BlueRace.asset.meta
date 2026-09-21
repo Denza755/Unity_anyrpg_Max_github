@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31521552a21818d4ba56fa1cb2f439ad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/CharacterRace/BlueRace.asset
+  uploadId: 932388

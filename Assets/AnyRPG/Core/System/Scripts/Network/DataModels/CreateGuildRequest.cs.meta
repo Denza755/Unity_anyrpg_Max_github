@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 933bf94a4d80298478b793c1d14640ac
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Network/DataModels/CreateGuildRequest.cs
+  uploadId: 932388

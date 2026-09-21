@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 306ed38db21f3d948b0e3c97caa86b2c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/Cameras/MiniMapCamera.prefab
+  uploadId: 932388

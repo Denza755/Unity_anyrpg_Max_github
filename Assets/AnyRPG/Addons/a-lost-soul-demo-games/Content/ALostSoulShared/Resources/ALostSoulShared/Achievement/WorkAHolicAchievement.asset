@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5c789e2f200eeb4aa6d9303486389d3, type: 3}
+  m_Name: WorkAHolicAchievement
+  m_EditorClassIdentifier: 
+  resourceName: WorkAHolic
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: Learn all the gathering and crafting skills.
+  useRegionalDescription: 0
+  resourceDescriptionProfile: Achievement Icon
+  optionalOverride: 0
+  steps:
+  - questObjectives:
+    - rid: 8385465461168668716
+    - rid: 8385465461168668717
+    - rid: 8385465461168668718
+    - rid: 8385465461168668719
+    - rid: 8385465461168668724
+    - rid: 8385465461168668725
+    - rid: 8385465461168668720
+    - rid: 8385465461168668721
+    - rid: 8385465461168668722
+    - rid: 8385465461168668723
+  prerequisiteConditions: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8385465461168668716
+      type: {class: TradeSkillObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        skillName: Herbalism
+    - rid: 8385465461168668717
+      type: {class: TradeSkillObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        skillName: Logging
+    - rid: 8385465461168668718
+      type: {class: TradeSkillObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        skillName: Mining
+    - rid: 8385465461168668719
+      type: {class: TradeSkillObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        skillName: Alchemy
+    - rid: 8385465461168668720
+      type: {class: TradeSkillObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        skillName: Jewelry
+    - rid: 8385465461168668721
+      type: {class: TradeSkillObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        skillName: WoodWorking
+    - rid: 8385465461168668722
+      type: {class: TradeSkillObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        skillName: Skinning
+    - rid: 8385465461168668723
+      type: {class: TradeSkillObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        skillName: LeatherWorking
+    - rid: 8385465461168668724
+      type: {class: TradeSkillObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        skillName: BlackSmithing
+    - rid: 8385465461168668725
+      type: {class: TradeSkillObjective, ns: AnyRPG, asm: Assembly-CSharp}
+      data:
+        amount: 1
+        overrideDisplayName: 
+        skillName: Tailoring

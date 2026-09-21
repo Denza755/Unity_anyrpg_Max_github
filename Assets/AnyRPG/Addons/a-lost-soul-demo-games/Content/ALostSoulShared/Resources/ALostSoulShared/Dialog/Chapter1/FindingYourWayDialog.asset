@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: FindingYourWayDialog
+  m_EditorClassIdentifier: 
+  resourceName: Finding Your Way
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: It's time for you to make an important decision.
+    nextOption: Really? What's that?
+  - startTime: 0
+    showTime: 10
+    description: Before beginning training, you must choose your path.
+    nextOption: Which path?
+  - startTime: 0
+    showTime: 10
+    description: 'All SunSworn must devote themselves to a training path.
+
+
+      In
+      order to be effective, you must concentrate on a set of related skills.  This
+      will help you learn faster.
+
+
+      Which path would you like to follow?'
+    nextOption: What are my options?
+  - startTime: 0
+    showTime: 10
+    description: 'I can guide you through that choice.
+
+
+      Talk to me again to
+      get details about all of the available paths.
+
+
+      Then choose the one that
+      sounds best.  You can always change your mind later.'
+    nextOption: Great, tell me my options
+  prerequisiteConditions: []

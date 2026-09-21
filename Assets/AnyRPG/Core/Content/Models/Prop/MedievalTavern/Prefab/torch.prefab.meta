@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1521e97cc091df349a2ae11b50e8de6a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/MedievalTavern/Prefab/torch.prefab
+  uploadId: 932388

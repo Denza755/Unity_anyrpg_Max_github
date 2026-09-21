@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db8f9ae662780d847984b65fe5ada7af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/AllBasicSteelWeaponRecipesTemplatePackage.asset
+  uploadId: 932388

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: GemStaffWeaponsTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: All Gem Staff Weapons
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources:
+  - {fileID: 11400000, guid: cfe15edb5fe4df947ad766a4300f15a3, type: 2}
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: b3cf0eb10fc7bd8429db02335fff9889, type: 2}
+  - {fileID: 11400000, guid: ebccfcdf0ef8d9344a0294ddc5fdc557, type: 2}
+  - {fileID: 11400000, guid: 0cbb4f16a727c0f4b9918e1ef5e052c9, type: 2}
+  - {fileID: 11400000, guid: ffb11234cad2d304b97289eee32472bd, type: 2}
+  - {fileID: 11400000, guid: 72a3de43d8e8ce14185658a9080f8e4b, type: 2}
+  - {fileID: 11400000, guid: 6e79e9ff3d7cadd4585b5eb3612f5a8c, type: 2}
+  - {fileID: 11400000, guid: b48e65dbc82e3a14eb7cc847f42c54ba, type: 2}
+  - {fileID: 11400000, guid: aadaa304245e1d445948cf749cb848e8, type: 2}

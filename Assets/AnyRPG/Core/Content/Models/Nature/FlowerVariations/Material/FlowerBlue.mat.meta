@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a8e7c33f088949429d3fce24a9a8b95
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Nature/FlowerVariations/Material/FlowerBlue.mat
+  uploadId: 932388

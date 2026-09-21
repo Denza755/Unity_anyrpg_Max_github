@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5057e98c4cfcf114aa653b352966a462
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/Interactable/Crafting/AlchemyTableTemplate.prefab
+  uploadId: 932388

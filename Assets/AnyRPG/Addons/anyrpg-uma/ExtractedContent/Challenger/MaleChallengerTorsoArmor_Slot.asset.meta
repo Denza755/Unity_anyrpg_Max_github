@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 611f79909fb200c43af1cd08a2c49608
+labels:
+- UMA_Slot
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2
+  packageVersion: 2.14f7
+  assetPath: Assets/AnyRPG/Engine/Content/ThirdPartyContent/UMA/ExtractedContent/Challenger/MaleChallengerTorsoArmor_Slot.asset
+  uploadId: 883964

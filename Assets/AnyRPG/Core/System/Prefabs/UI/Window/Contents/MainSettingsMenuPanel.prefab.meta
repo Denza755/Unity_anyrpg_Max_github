@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8461cc47e2458044922e9c5cd3ab6ee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/MainSettingsMenuPanel.prefab
+  uploadId: 932388

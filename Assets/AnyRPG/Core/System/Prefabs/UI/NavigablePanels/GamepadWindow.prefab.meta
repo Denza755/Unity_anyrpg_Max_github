@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef0e8e15adeb7154c8cf35920a6519ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/NavigablePanels/GamepadWindow.prefab
+  uploadId: 932388

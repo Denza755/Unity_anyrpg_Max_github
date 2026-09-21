@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d3ef62da9f9991f4bb0253eb7252c6a1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Interactable/SkillTrainer/CookingSkillTrainerUnitSpawnNodeTemplate.prefab
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6568d746faa016b4da4dff615b661868
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/VendorCollection/ItemsVendorCollection.asset
+  uploadId: 932388

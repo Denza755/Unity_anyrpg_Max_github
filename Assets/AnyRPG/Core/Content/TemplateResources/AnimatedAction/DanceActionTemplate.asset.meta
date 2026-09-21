@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d23b4af418db4b84ca086b937a9cc702
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AnimatedAction/DanceActionTemplate.asset
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ac8ac4aebf1f0c49abe7527bb0b05b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/DemoScenes/ParticleEffects/CoreParticleEffectsLightingSettings.lighting
+  uploadId: 932388

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: e11cf19e27aad1a4eb96a9d8618ca5d5
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Characters/Player/StandardMovementBody.cs
+  uploadId: 932388

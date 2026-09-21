@@ -1,0 +1,253 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acbdbda413a9e75489c46764c8bc894e, type: 3}
+  m_Name: EnginePropsCredits
+  m_EditorClassIdentifier: 
+  resourceName: Engine Props
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  categoryName: Props
+  creditsNodes:
+  - creditName: Medieval Props Packs
+    creditAttribution: System G6
+    email: 
+    userUrl: https://opengameart.org/users/system-g6
+    downloadUrl: 
+  - creditName: Cauldron
+    creditAttribution: JeremyWoods
+    email: 
+    userUrl: https://opengameart.org/users/jeremywoods
+    downloadUrl: https://opengameart.org/content/cauldron
+  - creditName: Handpainted Bookshelf
+    creditAttribution: shadowfeign
+    email: 
+    userUrl: https://opengameart.org/users/shadowfeign
+    downloadUrl: https://opengameart.org/content/handpainted-bookshelf
+  - creditName: Simple Wood Boat
+    creditAttribution: mikeask
+    email: 
+    userUrl: https://opengameart.org/users/mikeask
+    downloadUrl: https://opengameart.org/content/simple-wood-boat
+  - creditName: Medieval Table
+    creditAttribution: Catalin Pavel
+    email: 
+    userUrl: https://opengameart.org/users/catalin-pavel
+    downloadUrl: https://opengameart.org/content/medieval-table
+  - creditName: Robin Hood Hat
+    creditAttribution: DefecateRainbows
+    email: 
+    userUrl: https://opengameart.org/users/defecaterainbows
+    downloadUrl: https://opengameart.org/content/robin-hood-hat
+  - creditName: Low Poly Medieval Bench
+    creditAttribution: cgruslan
+    email: 
+    userUrl: https://opengameart.org/users/cgruslan
+    downloadUrl: https://opengameart.org/content/low-poly-medieval-bench
+  - creditName: Low Poly Medieval Table
+    creditAttribution: cgruslan
+    email: 
+    userUrl: https://opengameart.org/users/cgruslan
+    downloadUrl: https://opengameart.org/content/low-poly-medieval-table
+  - creditName: Simple Corn
+    creditAttribution: Djsedj
+    email: 
+    userUrl: https://opengameart.org/users/djsedj
+    downloadUrl: https://opengameart.org/content/simple-corn-obj
+  - creditName: Wooden Sign
+    creditAttribution: overactiongs
+    email: 
+    userUrl: https://opengameart.org/users/overactiongs
+    downloadUrl: https://opengameart.org/content/wooden-sign
+  - creditName: Low poly table and chair
+    creditAttribution: Lucian Pavel
+    email: 
+    userUrl: https://opengameart.org/users/lucian-pavel
+    downloadUrl: https://opengameart.org/content/low-poly-table-and-chair
+  - creditName: Campfire - Branches
+    creditAttribution: TinyWorlds
+    email: 
+    userUrl: https://opengameart.org/users/tinyworlds
+    downloadUrl: https://opengameart.org/content/campfire-branches
+  - creditName: Survival wood shack/shelter and objects
+    creditAttribution: jay21
+    email: 
+    userUrl: https://opengameart.org/users/jay21
+    downloadUrl: https://opengameart.org/content/survival-wood-shackshelter-and-objects
+  - creditName: Mannequin Male
+    creditAttribution: plaggy
+    email: 
+    userUrl: https://opengameart.org/users/plaggy
+    downloadUrl: https://opengameart.org/content/mannequin-male
+  - creditName: Food Pack
+    creditAttribution: yd
+    email: 
+    userUrl: https://opengameart.org/users/yd
+    downloadUrl: https://opengameart.org/content/food-pack-0
+  - creditName: Mini Library
+    creditAttribution: yd
+    email: 
+    userUrl: https://opengameart.org/users/yd
+    downloadUrl: https://opengameart.org/content/mini-library
+  - creditName: watermelon
+    creditAttribution: nevak
+    email: 
+    userUrl: https://opengameart.org/users/nevak
+    downloadUrl: https://opengameart.org/content/a-watermelon
+  - creditName: Wooden Bridge
+    creditAttribution: JamesWhite
+    email: 
+    userUrl: https://opengameart.org/users/jameswhite
+    downloadUrl: https://opengameart.org/content/wooden-bridge-0
+  - creditName: Medieval Containers
+    creditAttribution: Daniel Andersson
+    email: 
+    userUrl: https://opengameart.org/users/hreikin
+    downloadUrl: https://opengameart.org/content/medieval-containers
+  - creditName: Medieval Smith Pack
+    creditAttribution: Daniel Andersson
+    email: 
+    userUrl: https://opengameart.org/users/hreikin
+    downloadUrl: https://opengameart.org/content/medieval-smith-pack
+  - creditName: Medieval Well
+    creditAttribution: Daniel Andersson
+    email: 
+    userUrl: https://opengameart.org/users/hreikin
+    downloadUrl: https://opengameart.org/content/medieval-well
+  - creditName: Medieval Props Pack 3
+    creditAttribution: Daniel Andersson
+    email: 
+    userUrl: https://opengameart.org/users/hreikin
+    downloadUrl: https://opengameart.org/content/medieval-props-pack-3
+  - creditName: Medieval Props Pack 2
+    creditAttribution: Daniel Andersson
+    email: 
+    userUrl: https://opengameart.org/users/hreikin
+    downloadUrl: https://opengameart.org/content/medieval-props-pack-2
+  - creditName: Medieval Props Pack 1
+    creditAttribution: Daniel Andersson
+    email: 
+    userUrl: https://opengameart.org/users/hreikin
+    downloadUrl: https://opengameart.org/content/medieval-props-pack-1
+  - creditName: Cage
+    creditAttribution: eugeneloza
+    email: 
+    userUrl: https://opengameart.org/users/eugeneloza
+    downloadUrl: https://opengameart.org/content/cage-opendungeons
+  - creditName: 3TD Harbour Pack
+    creditAttribution: Ron Kapaun
+    email: 
+    userUrl: https://opengameart.org/users/hreikin
+    downloadUrl: https://opengameart.org/content/3td-harbour-pack
+  - creditName: simple 3d crystals
+    creditAttribution: rubberduck
+    email: 
+    userUrl: https://opengameart.org/users/rubberduck
+    downloadUrl: https://opengameart.org/content/simple-3d-crystals-unwrapped-simple-texture
+  - creditName: Scrolls
+    creditAttribution: yd
+    email: 
+    userUrl: https://opengameart.org/users/yd
+    downloadUrl: https://opengameart.org/content/scrolls-0
+  - creditName: Merchant tent v3
+    creditAttribution: yd
+    email: 
+    userUrl: https://opengameart.org/users/yd
+    downloadUrl: https://opengameart.org/content/merchant-tent-v3
+  - creditName: Merchant tent v2
+    creditAttribution: yd
+    email: 
+    userUrl: https://opengameart.org/users/yd
+    downloadUrl: https://opengameart.org/content/merchant-tent-v2
+  - creditName: Fence variation
+    creditAttribution: Scribe
+    email: 
+    userUrl: https://opengameart.org/users/scribe
+    downloadUrl: https://opengameart.org/content/fence-variation
+  - creditName: tomb
+    creditAttribution: zerberros
+    email: 
+    userUrl: https://opengameart.org/users/zerberros
+    downloadUrl: https://opengameart.org/content/tomb
+  - creditName: Cemetery
+    creditAttribution: Savino
+    email: 
+    userUrl: https://opengameart.org/users/savino
+    downloadUrl: https://opengameart.org/content/cemetery
+  - creditName: Bookcase
+    creditAttribution: qubodup
+    email: 
+    userUrl: https://opengameart.org/users/qubodup
+    downloadUrl: https://opengameart.org/content/bookcase
+  - creditName: Basic Wooden Fence
+    creditAttribution: WeaponGuy
+    email: 
+    userUrl: https://opengameart.org/users/weaponguy
+    downloadUrl: https://opengameart.org/content/basic-wooden-fence
+  - creditName: Bed (low poly)
+    creditAttribution: Clint Bellanger
+    email: 
+    userUrl: https://opengameart.org/users/clint-bellanger
+    downloadUrl: https://opengameart.org/content/bed-low-poly
+  - creditName: Wooden chair
+    creditAttribution: Galun
+    email: 
+    userUrl: https://opengameart.org/users/galun
+    downloadUrl: https://opengameart.org/content/wooden-chair
+  - creditName: low poly fantasy game pack
+    creditAttribution: Dante
+    email: 
+    userUrl: https://blendswap.com/profile/65624
+    downloadUrl: https://blendswap.com/blend/12774
+  - creditName: Fountain
+    creditAttribution: Wade
+    email: 
+    userUrl: https://blendswap.com/profile/498
+    downloadUrl: https://blendswap.com/blend/2537
+  - creditName: Old Fountain
+    creditAttribution: evestar
+    email: 
+    userUrl: https://blendswap.com/profile/963
+    downloadUrl: https://blendswap.com/blend/2966
+  - creditName: A jar of leeches
+    creditAttribution: canonfish
+    email: 
+    userUrl: https://blendswap.com/profile/189012
+    downloadUrl: https://blendswap.com/blend/12886
+  - creditName: Candle and Stand
+    creditAttribution: Doug C
+    email: 
+    userUrl: https://blendswap.com/profile/31297
+    downloadUrl: https://blendswap.com/blend/8005
+  - creditName: Three Low Poly candle holders with flame
+    creditAttribution: TDLedbetter
+    email: 
+    userUrl: https://blendswap.com/profile/279519
+    downloadUrl: https://blendswap.com/blend/17535
+  - creditName: stone structure
+    creditAttribution: selrac
+    email: 
+    userUrl: https://blendswap.com/profile/486
+    downloadUrl: https://blendswap.com/blend/2612
+  - creditName: Potion Bottle
+    creditAttribution: OwlishMedia
+    email: 
+    userUrl: https://opengameart.org/users/owlishmedia
+    downloadUrl: https://opengameart.org/content/potion-bottle-0
+  - creditName: Wood Mug
+    creditAttribution: rehcub
+    email: 
+    userUrl: https://opengameart.org/users/rehcub
+    downloadUrl: https://opengameart.org/content/wood-mug

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 990f602821577574d8145a9b16fd01f4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/DataModels/ServerStateSaveData.cs
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 369c8c81a8074ec47a2ff1f7a39936ad
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/Vendor/TailoringSuppliesVendorUnitSpawnNode.prefab
+  uploadId: 932388

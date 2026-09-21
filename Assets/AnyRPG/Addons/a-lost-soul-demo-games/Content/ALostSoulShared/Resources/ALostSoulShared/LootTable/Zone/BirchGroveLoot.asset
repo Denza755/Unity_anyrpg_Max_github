@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d27b95b419c1844fa9682cc3b78657b, type: 3}
+  m_Name: BirchGroveLoot
+  m_EditorClassIdentifier: 
+  resourceName: Birch Grove
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  ignoreGlobalDropLimit: 0
+  dropLimit: 0
+  lootGroups:
+  - guaranteedDrop: 1
+    groupChance: 20
+    dropLimit: 1
+    uniqueLimit: 0
+    ignoreGlobalDropLimit: 1
+    loot:
+    - itemName: Rusted Plate Armor
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 1
+      prerequisiteConditions: []
+    - itemName: Rusted Plate Boots
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Rusted Plate Bracers
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Rusted Plate Girdle
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Rusted Plate Gloves
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Rusted Plate Helm
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Rusted Plate Legs
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Rusted Plate Pauldrons
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Torn LeatherArmor
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Torn LeatherBelt
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Torn LeatherBoots
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Torn LeatherBracers
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Torn LeatherGloves
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Torn Leather Headband
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Torn LeatherPants
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Torn LeatherShoulders
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Tattered Cloth Bracers
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Tattered Cloth Gloves
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Tattered Cloth Hood
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Tattered Cloth Mantle
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 1
+      prerequisiteConditions: []
+    - itemName: Tattered Cloth Pants
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Tattered Cloth Robe
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Tattered Cloth Sash
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Tattered Cloth Shoes
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Tattered Cape
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Rusted Necklace
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 1
+      prerequisiteConditions: []
+  - guaranteedDrop: 1
+    groupChance: 20
+    dropLimit: 1
+    uniqueLimit: 0
+    ignoreGlobalDropLimit: 1
+    loot:
+    - itemName: Copper Battle Axe
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Copper Claw
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Copper Sword
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Copper Shield
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Copper Staff
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Copper Claw
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+  - guaranteedDrop: 1
+    groupChance: 20
+    dropLimit: 1
+    uniqueLimit: 0
+    ignoreGlobalDropLimit: 1
+    loot:
+    - itemName: 8 Slot Bag
+      dropChance: 10
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Tiny Mana Potion
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Tiny Health Potion
+      dropChance: 20
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []

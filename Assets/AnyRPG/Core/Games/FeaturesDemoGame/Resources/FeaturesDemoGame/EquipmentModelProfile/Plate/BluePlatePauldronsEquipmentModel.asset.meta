@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3d14f5866ac30f4cada6fc76fb7bd31
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/EquipmentModelProfile/Plate/BluePlatePauldronsEquipmentModel.asset
+  uploadId: 932388

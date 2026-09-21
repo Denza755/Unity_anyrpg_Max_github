@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7633521fa8824d4787ca77a7ab9651f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Recipe/Alchemy/Dye/OrangeDyeRecipe.asset
+  uploadId: 932388

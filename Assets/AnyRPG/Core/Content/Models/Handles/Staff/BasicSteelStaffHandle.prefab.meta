@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5fce8a806f5917b49998a9e1f8e1823d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Staff/BasicSteelStaffHandle.prefab
+  uploadId: 932388

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 39cf84f20f67e8d4f8f0ee6bbac90052
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/UI/Buttons/ActionButtonNode.cs
+  uploadId: 932388

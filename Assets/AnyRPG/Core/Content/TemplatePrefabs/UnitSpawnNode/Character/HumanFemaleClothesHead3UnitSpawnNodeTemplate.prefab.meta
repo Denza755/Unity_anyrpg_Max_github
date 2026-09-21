@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dcd3f54c5fdf4ca4697bf3d4cadb7469
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/UnitSpawnNode/Character/HumanFemaleClothesHead3UnitSpawnNodeTemplate.prefab
+  uploadId: 932388

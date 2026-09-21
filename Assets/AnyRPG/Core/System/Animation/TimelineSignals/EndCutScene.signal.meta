@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 364daa11d2f4a1448aa1d8378469d22c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Animation/TimelineSignals/EndCutScene.signal
+  uploadId: 932388

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 54ab02dbc88264e4992ae4c3e9e339f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Characters/BaseClasses/BaseCharacter.cs
+  uploadId: 932388

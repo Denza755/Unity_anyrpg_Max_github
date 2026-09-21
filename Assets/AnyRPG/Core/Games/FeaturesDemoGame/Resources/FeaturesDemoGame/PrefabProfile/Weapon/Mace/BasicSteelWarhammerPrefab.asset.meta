@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 948ea8f0527505a45be7862543c37538
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Weapon/Mace/BasicSteelWarhammerPrefab.asset
+  uploadId: 932388

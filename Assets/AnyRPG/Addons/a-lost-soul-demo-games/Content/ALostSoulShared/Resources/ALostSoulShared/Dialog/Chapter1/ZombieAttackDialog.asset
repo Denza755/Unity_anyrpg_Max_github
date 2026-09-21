@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: ZombieAttackDialog
+  m_EditorClassIdentifier: 
+  resourceName: Zombie Attack
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'You''ve had some practice defeating bunnies now.
+
+
+      Has your skill in Sun Chanelling improved?'
+    nextOption: I'm getting the hang of it
+  - startTime: 0
+    showTime: 10
+    description: 'Good, because it''s time to get some practice using more powerful
+      channels.
+
+
+      You should be able to channel a Warming Ray now and heal yourself or allies
+      without burning them.'
+    nextOption: Yes, I've got it
+  - startTime: 0
+    showTime: 10
+    description: 'If you try hard now, you can even bring forth a well of trapped
+      sunlight from the ground.
+
+
+      It is so powerful it will resurrect fallen allies!
+
+
+      You can also blind enemies by focusing powerful rays directly into their eyes.'
+    nextOption: Amazing!
+  - startTime: 0
+    showTime: 10
+    description: 'It looks like you are about to get a chance to use those new skills
+      too.
+
+
+      The undead have returned!'
+    nextOption: Oh No!
+  - startTime: 0
+    showTime: 10
+    description: 'Put on your best armor and defeat 3 zombies.
+
+
+      During the battle, use your Blinding Ray ability 3 times to blind the zombies.
+
+
+      If anyone dies, use Light Of Revival to resurrect them.'
+    nextOption: You can count on me!
+  prerequisiteConditions: []

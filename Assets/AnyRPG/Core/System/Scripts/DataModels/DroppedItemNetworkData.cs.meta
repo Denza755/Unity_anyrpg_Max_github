@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f8f1ae0f2404bf54597a2d72bb189f5d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/DataModels/DroppedItemNetworkData.cs
+  uploadId: 932388

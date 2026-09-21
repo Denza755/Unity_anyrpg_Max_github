@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea75e457c8387624f941739b98870eb9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Images/Skybox/Space/SpaceDown.mat
+  uploadId: 932388

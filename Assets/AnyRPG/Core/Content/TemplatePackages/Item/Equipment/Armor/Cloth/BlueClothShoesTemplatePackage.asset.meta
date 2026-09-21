@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac2f18393d04fb94681f9a739541c56c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Item/Equipment/Armor/Cloth/BlueClothShoesTemplatePackage.asset
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8da36d205dfac1841ad9bbf9f011e32b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/PrefabProfile/Equipment/Plate/PlateHelmetRedPrefabTemplate.asset
+  uploadId: 932388

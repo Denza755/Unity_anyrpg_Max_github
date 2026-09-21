@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3013e1db3fd2b4244904dde3c8ae74b3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Contents/QuestLogPanel.prefab
+  uploadId: 932388

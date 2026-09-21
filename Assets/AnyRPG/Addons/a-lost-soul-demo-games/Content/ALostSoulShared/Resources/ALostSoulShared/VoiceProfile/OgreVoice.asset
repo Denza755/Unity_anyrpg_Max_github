@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9919e93b6dbcc294c82debc9e9adf546, type: 3}
+  m_Name: OgreVoice
+  m_EditorClassIdentifier: 
+  resourceName: Ogre
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  voiceProps:
+    aggro:
+    - {fileID: 8300000, guid: fe7640a2b211b87498708ab57a15d22d, type: 3}
+    attack: []
+    damage: []
+    jump: []
+    fallDamage: []
+    death:
+    - {fileID: 8300000, guid: eef97b3329a15594f8287ee7f64fe863, type: 3}
+    victory: []
+    startInteract: []
+    startVendorInteract: []
+    stopInteract: []
+    stopVendorInteract: []

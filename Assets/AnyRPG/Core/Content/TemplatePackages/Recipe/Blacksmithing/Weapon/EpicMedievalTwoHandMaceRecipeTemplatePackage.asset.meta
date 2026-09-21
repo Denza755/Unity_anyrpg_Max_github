@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c96549ec41dbfa498a435afc5a6db3a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePackages/Recipe/Blacksmithing/Weapon/EpicMedievalTwoHandMaceRecipeTemplatePackage.asset
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51bd039d0ef9e22409815467e418335c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/UnitSpawnNode/BlacksmithingTrainerUnitSpawnNode.prefab
+  uploadId: 932388

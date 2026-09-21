@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d908e30c47cff2488f0a92aa3a5d61e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Prefabs/Holdables/Crafting/Jewelry/VioletCrystalHandle.prefab
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee432ce9ae45ca94486b132d4f7c299d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Item/Equipment/Weapon/Axe/BasicIronAxeItemTemplate.asset
+  uploadId: 932388

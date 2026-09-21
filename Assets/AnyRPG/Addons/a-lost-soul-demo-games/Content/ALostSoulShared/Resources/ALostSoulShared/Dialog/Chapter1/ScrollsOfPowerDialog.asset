@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: ScrollsOfPowerDialog
+  m_EditorClassIdentifier: 
+  resourceName: Scrolls Of Power
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: 'You are quick study.
+
+
+      You''ll make a fine full-time personal
+      scribe for me.'
+    nextOption: I wasn't really looking for a fulltime job...
+  - startTime: 0
+    showTime: 10
+    description: 'That''s ok, I''ll hire you anyway.
+
+
+      You can work for me
+      and make scrolls all day, all every day.
+
+
+      It will be so much fun!'
+    nextOption: I'm not sure that I want to...
+  - startTime: 0
+    showTime: 10
+    description: 'Let''s get started with your training immediately.
+
+
+      Make
+      me one of each type of basic scroll: Agility, Intellect, Stamina, and Strength.
+
+
+      You
+      can keep any extra scrolls you make for yourself.'
+    nextOption: Well... I guess a little practice wouldn't hurt...
+  - startTime: 0
+    showTime: 10
+    description: 'Fantastic!
+
+
+      There is a table behind me near the center of
+      the camp.
+
+
+      You should find writing equipment there.'
+    nextOption: I'll be right back with your scrolls.
+  prerequisiteConditions: []

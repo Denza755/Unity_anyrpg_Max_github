@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a965809ba1a49fe45b5487dcb1624a07
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/AbilityEffect/Instant/Heal/LifeDrainHealTickEffect.asset
+  uploadId: 932388

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7e7b054c4c55e434d8e0b4ffc8b9a485
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/Interactables/NameChangeInteractable.cs
+  uploadId: 932388

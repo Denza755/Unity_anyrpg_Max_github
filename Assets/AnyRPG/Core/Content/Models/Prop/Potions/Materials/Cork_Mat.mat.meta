@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7bb499dde1f1b484b883be336545c2e0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/Potions/Materials/Cork_Mat.mat
+  uploadId: 932388

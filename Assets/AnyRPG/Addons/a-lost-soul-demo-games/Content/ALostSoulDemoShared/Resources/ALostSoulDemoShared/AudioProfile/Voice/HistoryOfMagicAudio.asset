@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fd73ebc5463ba94cb6ff99164c9641a, type: 3}
+  m_Name: HistoryOfMagicAudio
+  m_EditorClassIdentifier: 
+  resourceName: History Of Magic
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  artistName: Hand Avatar
+  audioClips:
+  - {fileID: 8300000, guid: 30a4bae9e28c87f44b1681a517347366, type: 3}
+  - {fileID: 8300000, guid: 749ea773eb6bb4e45b453811e7f7fcb1, type: 3}
+  - {fileID: 8300000, guid: 4d01300faf662ca4382dd9f6e77f85df, type: 3}
+  - {fileID: 8300000, guid: 75ecf11a8c3732c4fa55b202a057e255, type: 3}

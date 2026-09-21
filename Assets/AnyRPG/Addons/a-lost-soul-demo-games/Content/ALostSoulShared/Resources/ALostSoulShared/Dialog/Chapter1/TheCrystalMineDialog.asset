@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd3ecde65e0933d4d8e78e24e9ae3820, type: 3}
+  m_Name: TheCrystalMineDialog
+  m_EditorClassIdentifier: 
+  resourceName: The Crystal Mine
+  displayName: 
+  icon: {fileID: 21300000, guid: daa93646e239ea04782dfdb698db9428, type: 3}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  automatic: 0
+  repeatable: 0
+  audioProfileName: 
+  dialogNodes:
+  - startTime: 0
+    showTime: 10
+    description: The crystal and the old sealed mine shaft glow stronger the closer
+      they are to each other.
+    audioClip: {fileID: 0}
+    nextOption: That's totally not spooky at all...
+  - startTime: 0
+    showTime: 10
+    description: The mine shaft seems to be broken open... from the inside!!!
+    audioClip: {fileID: 0}
+    nextOption: Nothing to see here in this spooky dark hole
+  - startTime: 0
+    showTime: 10
+    description: 'Ser Invyncible will want to know about this.
+
+
+      Return to
+      camp.'
+    audioClip: {fileID: 0}
+    nextOption: Leaving sounds like a good idea!
+  prerequisiteConditions: []

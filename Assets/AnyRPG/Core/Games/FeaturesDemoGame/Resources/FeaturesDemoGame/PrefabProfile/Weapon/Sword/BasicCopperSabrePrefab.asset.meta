@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6dea79b66d613c64a96ade367594aa7f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Weapon/Sword/BasicCopperSabrePrefab.asset
+  uploadId: 932388

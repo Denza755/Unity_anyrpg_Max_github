@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c114ea74f31090945a3fc0ecba4aed7f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Scripts/GameManager/AccountManager/PlayerCharacterService.cs
+  uploadId: 932388

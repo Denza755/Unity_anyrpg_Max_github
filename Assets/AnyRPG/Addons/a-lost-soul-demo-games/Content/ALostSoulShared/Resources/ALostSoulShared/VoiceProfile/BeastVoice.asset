@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9919e93b6dbcc294c82debc9e9adf546, type: 3}
+  m_Name: BeastVoice
+  m_EditorClassIdentifier: 
+  resourceName: Beast
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  voiceProps:
+    aggro:
+    - {fileID: 8300000, guid: 524cb5d16dce2ba469e92509f9ea02f8, type: 3}
+    attack:
+    - {fileID: 8300000, guid: dcd0f34b7ccb5d34787e77c2190c597f, type: 3}
+    damage:
+    - {fileID: 8300000, guid: 5be8c75d5d589e24c86eb79e10fc9860, type: 3}
+    jump: []
+    fallDamage: []
+    death:
+    - {fileID: 8300000, guid: f9e86ee98a74ee343bb58ff161382ad3, type: 3}
+    victory:
+    - {fileID: 8300000, guid: b3284cb9a720d75438cd02ca52f90ebb, type: 3}
+    startInteract: []
+    startVendorInteract: []
+    stopInteract: []
+    stopVendorInteract: []

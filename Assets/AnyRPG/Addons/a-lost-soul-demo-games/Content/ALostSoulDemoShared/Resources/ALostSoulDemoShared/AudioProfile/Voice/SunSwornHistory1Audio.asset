@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fd73ebc5463ba94cb6ff99164c9641a, type: 3}
+  m_Name: SunSwornHistory1Audio
+  m_EditorClassIdentifier: 
+  resourceName: SunSworn History1
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  artistName: Hand Avatar
+  audioClips:
+  - {fileID: 8300000, guid: 0c02b173e7d77cc4586fc64ccb1cb8ac, type: 3}
+  - {fileID: 8300000, guid: 7764b79ea207fd04690b5353f7a680e3, type: 3}
+  - {fileID: 8300000, guid: f93d7c9f90106b3418794f03280bb18b, type: 3}
+  - {fileID: 8300000, guid: 7b3fd0d02b7ea474fa92ebcb3dc1a1ef, type: 3}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f09266b7c5617a4ab4da8f756033a26
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Prefabs/Models/MiningNodeCopperModel.prefab
+  uploadId: 932388

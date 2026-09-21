@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b24652f0b487a5d45b0f43b3c8953d85
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplatePrefabs/Interactable/Gathering/Mining/MiningIronNodeTemplate.prefab
+  uploadId: 932388

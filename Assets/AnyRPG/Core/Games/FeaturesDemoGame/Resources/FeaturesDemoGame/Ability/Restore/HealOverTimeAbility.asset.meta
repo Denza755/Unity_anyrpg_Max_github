@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5649c8e468484b8428f3a2121a7fd519
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Ability/Restore/HealOverTimeAbility.asset
+  uploadId: 932388

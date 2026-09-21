@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75c7e4b6e7e4485418b1e600eaa91fab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/BasicWeapons/Prefab/BasicSilverSabre.prefab
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6751714877ed51144820e72c5558c0d2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Prop/Potions/Prefab/PotionEmpty.prefab
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 237cca00fe3c4864e9186cf32239055b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Item/Equipment/Armor/Plate/RedPlateBracersItemTemplate.asset
+  uploadId: 932388

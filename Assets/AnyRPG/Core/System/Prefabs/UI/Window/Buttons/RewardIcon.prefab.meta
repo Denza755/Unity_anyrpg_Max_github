@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83ca6799ff9b76c48802e4f65abab075
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Buttons/RewardIcon.prefab
+  uploadId: 932388

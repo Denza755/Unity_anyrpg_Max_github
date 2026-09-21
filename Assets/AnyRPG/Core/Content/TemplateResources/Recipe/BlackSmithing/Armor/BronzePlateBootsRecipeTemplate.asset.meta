@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2bd376f508e0634e93b6109b1e7c3d4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/Recipe/BlackSmithing/Armor/BronzePlateBootsRecipeTemplate.asset
+  uploadId: 932388

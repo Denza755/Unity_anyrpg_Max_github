@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f91ce4f194fd60640ad1a4bf38a397f3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/AnimationProfile/Professions/LeatherWorkingAnimationTemplate.asset
+  uploadId: 932388

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa313e6a372ca1d49a85556b80c0383f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/AbilityEffect/StatusEffect/CharmedPetEffect.asset
+  uploadId: 932388

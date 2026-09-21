@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6c661738dcffd4748833f540ff0f12d0
+labels:
+- Weapon
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/MedievalWeapons/Prefab/MedievalTwoHandMace.prefab
+  uploadId: 932388

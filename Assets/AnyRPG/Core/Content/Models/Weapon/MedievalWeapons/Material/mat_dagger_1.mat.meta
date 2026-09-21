@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bdd6f4a08c7b6054ba7caa4606c1773e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Weapon/MedievalWeapons/Material/mat_dagger_1.mat
+  uploadId: 932388

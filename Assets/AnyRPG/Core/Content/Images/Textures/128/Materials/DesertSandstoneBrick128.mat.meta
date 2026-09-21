@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd640023b2a9b9541a0acbb7192f7b65
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Images/Textures/128/Materials/DesertSandstoneBrick128.mat
+  uploadId: 932388

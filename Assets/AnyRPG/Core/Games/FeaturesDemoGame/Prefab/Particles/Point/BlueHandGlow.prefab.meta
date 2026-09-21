@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d3176ab55ef5c7a4a99d66451e643791
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Prefab/Particles/Point/BlueHandGlow.prefab
+  uploadId: 932388

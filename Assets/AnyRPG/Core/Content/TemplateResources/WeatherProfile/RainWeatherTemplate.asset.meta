@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc054da28d730af4fbc4f13344cff523
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/TemplateResources/WeatherProfile/RainWeatherTemplate.asset
+  uploadId: 932388

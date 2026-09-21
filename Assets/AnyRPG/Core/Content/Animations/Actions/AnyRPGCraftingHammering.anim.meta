@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb8f6aa7832772f4ebcf285414aad44b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Animations/Actions/AnyRPGCraftingHammering.anim
+  uploadId: 932388

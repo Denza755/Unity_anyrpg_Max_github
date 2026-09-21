@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7f2ef4c68ea0a9458250ff77379cc9e, type: 3}
+  m_Name: GuardianSpecialization
+  m_EditorClassIdentifier: 
+  resourceName: Guardian
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: Guardians use heavy plate armor and shields to mitigate enemy damage
+    and protect allies.
+  useRegionalDescription: 1
+  resourceDescriptionProfile: 
+  newGameOption: 1
+  equipmentNames:
+  - Battle Worn Sword
+  - Battle Worn Shield
+  classNames:
+  - Warrior
+  capabilities:
+    abilityNames:
+    - Taunt
+    - Extra Threatening
+    traitNames:
+    - Hard As Metal
+    armorClassList: []
+    weaponSkills: []
+  primaryStats: []
+  powerResources: []
+  powerEnhancerStats: []

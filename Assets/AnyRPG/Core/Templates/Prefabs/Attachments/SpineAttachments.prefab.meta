@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9815b8919226b494a846d31d727db911
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Templates/Prefabs/Attachments/SpineAttachments.prefab
+  uploadId: 932388

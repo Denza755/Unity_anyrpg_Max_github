@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad37865cac695a844a4fcbe9973fb0f8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Tool/MedievalToolShovelHandle.prefab
+  uploadId: 932388

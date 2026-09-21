@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d27b95b419c1844fa9682cc3b78657b, type: 3}
+  m_Name: SkeletonWarriorLoot
+  m_EditorClassIdentifier: 
+  resourceName: Skeleton Warrior
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  ignoreGlobalDropLimit: 0
+  dropLimit: 0
+  lootGroups:
+  - guaranteedDrop: 0
+    groupChance: 100
+    dropLimit: 0
+    uniqueLimit: 0
+    ignoreGlobalDropLimit: 0
+    loot:
+    - itemName: Bone Axe
+      dropChance: 100
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 1
+      prerequisiteConditions: []
+    - itemName: Bone Hammer
+      dropChance: 100
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 1
+      prerequisiteConditions: []
+    - itemName: Left Bone Claw
+      dropChance: 100
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 1
+      prerequisiteConditions: []
+    - itemName: Right Bone Claw
+      dropChance: 100
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 1
+      prerequisiteConditions: []
+    - itemName: Bone Shield
+      dropChance: 100
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 1
+      prerequisiteConditions: []
+    - itemName: Bone Staff
+      dropChance: 100
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 1
+      prerequisiteConditions: []
+    - itemName: Small Glowing Crystal
+      dropChance: 100
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 0
+      prerequisiteConditions: []
+    - itemName: Essence Of Blood Shield
+      dropChance: 100
+      minDrops: 1
+      maxDrops: 1
+      matchItemRestrictions: 1
+      prerequisiteConditions: []

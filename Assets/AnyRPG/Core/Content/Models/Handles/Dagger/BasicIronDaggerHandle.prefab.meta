@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7100f7e83cc3f4e4fa5de6f21b80e97a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Content/Models/Handles/Dagger/BasicIronDaggerHandle.prefab
+  uploadId: 932388

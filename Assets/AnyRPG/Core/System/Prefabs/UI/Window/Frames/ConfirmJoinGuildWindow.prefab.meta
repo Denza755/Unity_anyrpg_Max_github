@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 08fc36377a5a6204aab2e38a79b6ae35
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/ConfirmJoinGuildWindow.prefab
+  uploadId: 932388

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c74e4de4d79de3f41842c49da983ad48
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/System/Prefabs/UI/Window/Frames/PlayerOptionsMenuWindow.prefab
+  uploadId: 932388

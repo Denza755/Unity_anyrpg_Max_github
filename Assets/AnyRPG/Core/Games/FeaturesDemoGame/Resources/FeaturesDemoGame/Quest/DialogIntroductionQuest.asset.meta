@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8b027fbe0774994b8d05ff1cbfc19e4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/Quest/DialogIntroductionQuest.asset
+  uploadId: 932388

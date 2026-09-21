@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a51a324c81e010140bd39cc3ae4a5ee2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/LootTable/Gathering/HerbalismGrayFlowerNodeLoot.asset
+  uploadId: 932388

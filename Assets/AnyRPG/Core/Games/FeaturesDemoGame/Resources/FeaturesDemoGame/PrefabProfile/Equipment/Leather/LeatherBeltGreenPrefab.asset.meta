@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a40811d9c1989ab4ca11fb106be49373
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/PrefabProfile/Equipment/Leather/LeatherBeltGreenPrefab.asset
+  uploadId: 932388

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a24abbaeac51ce446a447d1be1ae398b, type: 3}
+  m_Name: InitiatesLeatherShouldersDescription
+  m_EditorClassIdentifier: 
+  resourceName: Initiates Leather Shoulders
+  displayName: 
+  icon: {fileID: 21300000, guid: 75588a8aa88c6ea41856c23a1345fc93, type: 3}
+  iconBackgroundImage: {fileID: 0}
+  description: 

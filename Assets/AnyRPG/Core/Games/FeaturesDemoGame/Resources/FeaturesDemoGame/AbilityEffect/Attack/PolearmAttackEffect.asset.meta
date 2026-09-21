@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d7f52e608f0e96408c225d3ad5f47b3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234361
+  packageName: Any(MMO)RPG
+  packageVersion: 1.1
+  assetPath: Assets/AnyRPG/Core/Games/FeaturesDemoGame/Resources/FeaturesDemoGame/AbilityEffect/Attack/PolearmAttackEffect.asset
+  uploadId: 932388
