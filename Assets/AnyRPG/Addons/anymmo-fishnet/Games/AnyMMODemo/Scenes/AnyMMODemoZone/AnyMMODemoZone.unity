@@ -30569,6 +30569,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3050523315148468288, guid: 2f9878abc1cfdbb4aa7f7560ecb86614,
         type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.5487955
+      objectReference: {fileID: 0}
+    - target: {fileID: 3050523315148468288, guid: 2f9878abc1cfdbb4aa7f7560ecb86614,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -30580,7 +30585,7 @@ PrefabInstance:
     - target: {fileID: 3050523315148468288, guid: 2f9878abc1cfdbb4aa7f7560ecb86614,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -770
       objectReference: {fileID: 0}
     - target: {fileID: 3050523315148468288, guid: 2f9878abc1cfdbb4aa7f7560ecb86614,
         type: 3}
@@ -37591,7 +37596,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 12
   m_Type: 1
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Color: {r: 0.9622642, g: 0.8758021, b: 0.63999647, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -37654,13 +37659,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 902534735}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.86602545, y: 0, z: 0, w: 0.49999994}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalRotation: {x: 0.9413998, y: -0, z: -0, w: 0.3372927}
+  m_LocalPosition: {x: 0, y: 150, z: 179}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 120, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 140.576, y: 0, z: 0}
 --- !u!114 &902534738
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59614,7 +59619,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49ff920aaeff32c47b919cdd7f10e67d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UUID: bc86d2eb-7526-4eae-a534-e7abf338b75f
+  m_UUID: 79b4c1ee-d22a-4c18-919f-6f60def9bd41
   forceUpdateUUID: 0
 --- !u!54 &1448223535
 Rigidbody:
@@ -75902,7 +75907,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49ff920aaeff32c47b919cdd7f10e67d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UUID: bcfde998-18d7-4839-ad70-d48fbaeb1c2e
+  m_UUID: 8256a83a-4d6f-4f11-b9b0-30473c5a366f
   forceUpdateUUID: 0
 --- !u!54 &1813795260
 Rigidbody:
@@ -92828,7 +92833,7 @@ PrefabInstance:
         type: 3}
       propertyPath: _addedNetworkObject
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 6465140223752170050}
     - target: {fileID: 4006797846942632777, guid: 9c07f178f37df46449a2c9f27a3f235b,
         type: 3}
       propertyPath: m_Name
@@ -92903,6 +92908,18 @@ PrefabInstance:
       addedObject: {fileID: 200228666}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9c07f178f37df46449a2c9f27a3f235b, type: 3}
+--- !u!114 &6465140223752170050 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1861592614595905966, guid: 9c07f178f37df46449a2c9f27a3f235b,
+    type: 3}
+  m_PrefabInstance: {fileID: 6465140223752170049}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26b716c41e9b56b4baafaf13a523ba2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: FishNet.Runtime::FishNet.Object.NetworkObject
 --- !u!1001 &6564138893997875682
 PrefabInstance:
   m_ObjectHideFlags: 0
