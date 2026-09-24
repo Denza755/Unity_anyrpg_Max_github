@@ -13,14 +13,8 @@ MonoBehaviour:
   m_Name: Demo Baking Set
   m_EditorClassIdentifier: 
   m_SceneBakeData:
-    m_Keys:
-    - 23d8661265deed742959416ea58475f7
-    m_Values:
-    - hasProbeVolume: 1
-      bakeScene: 1
-      bounds:
-        m_Center: {x: 162, y: 0, z: 0}
-        m_Extent: {x: 810, y: 324, z: 972}
+    m_Keys: []
+    m_Values: []
   singleSceneMode: 0
   dialogNoProbeVolumeInSetShown: 0
   settings:
@@ -40,8 +34,7 @@ MonoBehaviour:
       collisionMask:
         serializedVersion: 2
         m_Bits: 4294967291
-  m_SceneGUIDs:
-  - 23d8661265deed742959416ea58475f7
+  m_SceneGUIDs: []
   obsoleteScenesToNotBake: []
   m_LightingScenarios:
   - Default

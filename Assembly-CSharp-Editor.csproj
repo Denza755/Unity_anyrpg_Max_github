@@ -66,6 +66,7 @@
     <Compile Include="Assets\AnyRPG\Addons\anymmo-fishnet\Scripts\Editor\Wizard\FishNetNewGameWizard.cs" />
     <Compile Include="Assets\AnyRPG\Core\System\Scripts\Editor\Wizard\Temporary\MigrateAbilityEffectWizard.cs" />
     <Compile Include="Assets\AnyRPG\Core\System\Scripts\Editor\Wizard\NewSceneWizard.cs" />
+    <Compile Include="Assets\Editor\EnableLightTemperature.cs" />
     <Compile Include="Assets\AnyRPG\Core\System\Scripts\Editor\Wizard\ReverseAnimationClipWizard.cs" />
     <Compile Include="Assets\AnyRPG\Addons\anymmo-fishnet\Scripts\Editor\Wizard\FishNetNewCharacterWizard.cs" />
     <Compile Include="Assets\AnyRPG\Core\System\Scripts\Editor\ResourceSelector\ResourceSelectorDrawer.cs" />

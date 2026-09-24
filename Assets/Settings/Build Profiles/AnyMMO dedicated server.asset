@@ -30,8 +30,6 @@ MonoBehaviour:
     m_path: Assets/AnyRPG/Addons/anymmo-fishnet/Games/AnyMMODemo/Scenes/AnyMMODemoCutsceneZone/AnyMMODemoCutsceneZone.unity
   - m_enabled: 1
     m_path: Assets/AnyRPG/Addons/anymmo-fishnet/Games/AnyMMODemo/Scenes/AnyMMODemoDungeon/AnyMMODemoDungeon.unity
-  - m_enabled: 1
-    m_path: Assets/Scenes/Demo.unity
   m_HasScriptingDefines: 0
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:

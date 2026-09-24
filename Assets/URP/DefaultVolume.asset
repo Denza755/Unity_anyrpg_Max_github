@@ -381,6 +381,7 @@ MonoBehaviour:
   - {fileID: -3639499623208219675}
   - {fileID: 7233246758186270868}
   - {fileID: 8350118813723420088}
+  - {fileID: 872564802257150513}
 --- !u!114 &271718898475922277
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -484,6 +485,58 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 0
   tint:
+    m_OverrideState: 1
+    m_Value: 0
+--- !u!114 &872564802257150513
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc91c083aaee0f24a977525131ed140f, type: 3}
+  m_Name: OutlineVolumeComponent
+  m_EditorClassIdentifier: com.cqf.urpoutline::AnyRPG.OutlineVolumeComponent
+  active: 1
+  blurRadius:
+    m_OverrideState: 1
+    m_Value: 5
+  color1:
+    m_OverrideState: 1
+    m_Value: {r: 0.3, g: 0.75, b: 1, a: 1}
+  color2:
+    m_OverrideState: 1
+    m_Value: {r: 0.3, g: 0.75, b: 1, a: 1}
+  color3:
+    m_OverrideState: 1
+    m_Value: {r: 0.3, g: 0.75, b: 1, a: 1}
+  color4:
+    m_OverrideState: 1
+    m_Value: {r: 0.3, g: 0.75, b: 1, a: 1}
+  fallOff1:
+    m_OverrideState: 1
+    m_Value: 0.015
+  fallOff2:
+    m_OverrideState: 1
+    m_Value: 0.015
+  fallOff3:
+    m_OverrideState: 1
+    m_Value: 0.015
+  fallOff4:
+    m_OverrideState: 1
+    m_Value: 0.015
+  fillAlpha1:
+    m_OverrideState: 1
+    m_Value: 0
+  fillAlpha2:
+    m_OverrideState: 1
+    m_Value: 0
+  fillAlpha3:
+    m_OverrideState: 1
+    m_Value: 0
+  fillAlpha4:
     m_OverrideState: 1
     m_Value: 0
 --- !u!114 &2949299959199349400
